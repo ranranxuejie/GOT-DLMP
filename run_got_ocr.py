@@ -1,11 +1,12 @@
 
 import subprocess
 
-img_path = 'datasets/DLMP/org_imgs/DLMP003.jpg'
+img_path = 'datasets/test_img/DLMP003.jpg'
 type = 'format'
 box = False
 color = False
-render = False
+render = True
+multi_page = False
 cmd = [
     "python",
     "GOT/demo/run_ocr_2.0.py",
@@ -15,11 +16,21 @@ cmd = [
 ]
 if render:
     cmd.append('--render')
+
 if box:
     cmd.append('--box')
     cmd.append('[x1,y1,x2,y2]')
 if color:
     cmd.append('--color')
     cmd.append('red/green/blue')
+if multi_page:
+    img_path = '/'.join(img_path.split('/')[:-1])
+    cmd=[
+        "python",
+        "GOT/demo/run_ocr_2.0_crop.py",
+        "--model-name", 'GOT_weights/',
+        "--image-file", img_path,
+        "--multi-page"
+    ]
 # 执行命令
 subprocess.run(cmd, check=True)
