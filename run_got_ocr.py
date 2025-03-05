@@ -1,7 +1,7 @@
 
 import subprocess
 
-img_path = 'datasets/test_img/DLMP003.jpg'
+img_path = 'datasets/test_img/DLMP046.jpg'
 type = 'format'
 box = False
 color = False
