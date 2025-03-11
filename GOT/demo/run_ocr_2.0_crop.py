@@ -129,7 +129,10 @@ def eval_model(args):
     if args.multi_page:
         qs = 'OCR with format across multi pages: '
         # only for png files
-        patches = glob.glob(args.image_file + '/*png')
+        # patches = glob.glob(args.image_file + '/*png')
+        # 兼容png和jpg
+        patches = glob.glob(args.image_file + '/*.[pj][np]g')
+
         patches = natsorted(patches)
         sub_images = []
         for sub_image in patches:
@@ -203,7 +206,7 @@ def eval_model(args):
             max_new_tokens=4096,
             stopping_criteria=[stopping_criteria]
             )
-        
+    print(output_ids)
     if args.render:
         print('==============rendering===============')
         outputs = tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()

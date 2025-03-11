@@ -1,4 +1,6 @@
 GOT
+GOT_weights
+datasets
 render_tools
 results
 zero_config

@@ -432,6 +432,14 @@ conv_llava_v1 = Conversation(
     sep=" ",
     sep2="</s>",
 )
+conv_power_nameplate = Conversation(
+    system="You are a power nameplate information recognition assistant. Carefully identify the information on the power nameplate and output the results in the format of JSON like {[Parameter Name] : [Parameter Value], ……}.",
+    roles=("Human", "Assistant"),
+    messages=(),
+    offset=0,
+    sep_style=SeparatorStyle.SINGLE,
+    sep="###",
+)
 
 default_conversation = conv_mpt
 conv_templates = {
@@ -448,6 +456,7 @@ conv_templates = {
     "vicuna_v1_1": conv_vicuna_v1_1,
     "mpt": conv_mpt,
     "mpt_text": conv_mpt_text,
+    "power_nameplate": conv_power_nameplate,
 }
 
 

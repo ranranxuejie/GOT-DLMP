@@ -117,7 +117,7 @@ python3 GOT/demo/run_ocr_2.0.py  --model-name  /GOT_weights/  --image-file  /an/
 ```
 2. format texts OCR:
 ```Shell
-python3 GOT/demo/run_ocr_2.0.py  --model-name  /GOT_weights/  --image-file  /an/image/file.png  --type format
+python GOT/demo/run_ocr_2.0.py  --model-name  GOT_weights/  --image-file  datasets/DLMP/org_imgs/DLMP042.jpg  --type format
 ```
 3. fine-grained OCR:
 ```Shell
@@ -252,5 +252,3 @@ Don't hesitate to contact me by email, weihaoran18@mails.ucas.ac.cn, if you have
   journal={arXiv preprint arXiv:2312.06109},
   year={2023}
 }
-
-

@@ -2,11 +2,11 @@
 import subprocess
 
 img_path = 'datasets/test_img/DLMP046.jpg'
-type = 'format'
+type = 'format/ocr'
 box = False
 color = False
-render = True
-multi_page = False
+render = False
+multi_page = True
 cmd = [
     "python",
     "GOT/demo/run_ocr_2.0.py",
