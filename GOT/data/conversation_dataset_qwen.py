@@ -36,6 +36,7 @@ class ConversationDataset(BaseDataset):
         # TODO add your data  [data1, data2, data3, .....]
         got_data_dict = {
             "pdf-ocr": ["data1", "data2"],
+            "dlmp": ["dlmp"],
             'scene-ocr': ["data3", "data4"]
             # ......
         }
@@ -44,6 +45,7 @@ class ConversationDataset(BaseDataset):
                 dataset = CONVERSATION_DATA[name]
 
                 data_path = dataset['annotations']
+                print(os.path.basename(data_path))
                 data = json.load(open(data_path, "r"))
 
                 list_data_dict.extend(data)
@@ -276,4 +278,3 @@ class ConversationDataset(BaseDataset):
             data_dict['image'] = [torch.zeros(3, 1024, 1024)]
             data_dict['image_high'] = [torch.zeros(3, 1024, 1024)]
         return data_dict
-

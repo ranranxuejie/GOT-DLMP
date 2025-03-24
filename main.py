@@ -57,7 +57,7 @@ def eval_model(image_folder,template="mpt"):
         image_processor = BlipImageEvalProcessor(image_size=1024)
         image_processor_high = BlipImageEvalProcessor(image_size=1024)
         # 固定提示词
-        qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * 256 + DEFAULT_IM_END_TOKEN + '\nOCR with format: '
+        qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * 256 + DEFAULT_IM_END_TOKEN + '\nOCR: '# with format
         # 对话模板
         conv = conv_templates[template].copy()
         conv.append_message(conv.roles[0], qs)
@@ -108,7 +108,7 @@ def eval_model(image_folder,template="mpt"):
                     do_sample=False,
                     num_beams=1,
                     no_repeat_ngram_size=20,
-                    max_new_tokens=4096,
+                    max_new_tokens=512,
                     stopping_criteria=[stopping_criteria],
                     streamer=streamer
                 )
@@ -146,4 +146,7 @@ result = eval_model(image_folder,template='mpt')
 
 # 将字典result保存为json文件
 with open('result.json', 'w') as f:
-    json.dump(result, f,indent=4)
+    json.dump(result, f,indent=4,ensure_ascii=False)
+
+# with open('result.json', 'r') as f:
+#     result_text = json.load(f)

@@ -136,7 +136,7 @@ python3 GOT/demo/run_ocr_2.0_crop.py  --model-name  /GOT_weights/ --image-file  
 ```
 6. render the formatted OCR results:
 ```Shell
-python3 GOT/demo/run_ocr_2.0.py  --model-name  /GOT_weights/  --image-file  /an/image/file.png  --type format --render
+python3 GOT/demo/run_ocr_2.0.py  --model-name  GOT_weights/  --image-file  datasets/3e790956e5cdaf42eedbf437424ac47.png  --type format --render
  ```
 **Note**:
 The rendering results can be found in /results/demo.html. Please open the demo.html to see the results.
@@ -148,8 +148,8 @@ The rendering results can be found in /results/demo.html. Please open the demo.h
 2. If you want to train from stage-1 described in our paper, you need this [repo](https://github.com/Ucas-HaoranWei/Vary-tiny-600k).
 
 ```Shell
-deepspeed   /GOT-OCR-2.0-master/GOT/train/train_GOT.py \
- --deepspeed /GOT-OCR-2.0-master/zero_config/zero2.json    --model_name_or_path /GOT_weights/ \
+deepspeed   GOT/train/train_GOT.py \
+ --deepspeed zero_config/zero2.json    --model_name_or_path GOT_weights/ \
  --use_im_start_end True   \
  --bf16 True   \
  --gradient_accumulation_steps 2    \
@@ -167,10 +167,10 @@ deepspeed   /GOT-OCR-2.0-master/GOT/train/train_GOT.py \
  --dataloader_num_workers 8    \
  --report_to none  \
  --per_device_train_batch_size 2    \
- --num_train_epochs 1  \
+ --num_train_epochs 10  \
  --learning_rate 2e-5   \
- --datasets pdf-ocr+scence \
- --output_dir /your/output/path
+ --datasets dlmp \
+ --output_dir results/dlmp
 ```
 
 
@@ -188,17 +188,17 @@ pip install -e .[llm]
 ```
 ```Shell
 # default：sft LLM & projector, freeze vision encoder
-CUDA_VISIBLE_DEVICES=0 swift sft\
+CUDA_VISIBLE_DEVICES=0 swift sft \
 --model_type got-ocr2 \
---model_id_or_path stepfun-ai/GOT-OCR2_0 \
+--model_id_or_path ../GOT_weights \
 --sft_type lora \
 --dataset latex-ocr-print#5000
 
 # Deepspeed ZeRO2
 NPROC_PER_NODE=4 \
-CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
---model_type got-ocr2 \
---model_id_or_path stepfun-ai/GOT-OCR2_0 \
+CUDA_VISIBLE_DEVICES=0 swift sft \
+--model_type got_ocr2 \
+--model ../GOT_weights \
 --sft_type lora \
 --dataset latex-ocr-print#5000 \
 --deepspeed default-zero2

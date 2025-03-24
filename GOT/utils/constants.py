@@ -34,6 +34,10 @@ CONVERSATION_DATA = {
         'images': '/path/',
         'annotations': '/path/data3.json',
     },
+    'dlmp': {
+        'images': 'datasets/DLMP_got/org_imgs/',
+        'annotations': 'datasets/DLMP_got/DLMP_got.json',
+    },
 
 
 }
