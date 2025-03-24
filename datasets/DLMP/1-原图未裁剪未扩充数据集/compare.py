@@ -16,28 +16,34 @@ try:
 except:
     pass
 new_label_path = '../../../result.json'
-new_labels = json.load(open(new_label_path))
+# 设置编码格式
+new_label_path = '../../../result.json'
+new_labels = json.load(open(new_label_path, encoding='utf-8', errors='ignore'))
+
 similarity_df = pd.read_csv('similarity.csv',encoding='utf-8')
-similarity_df = []
+# similarity_df = []
 for similarity_method in [0,1]:
-    similarities= []
-    for img_txt in os.listdir('./labels_old'):
-        img_n = int(img_txt.split('.')[0].split('_')[-1])+1
-        img_txt_file = open('./labels_old/'+img_txt,'r')
-        img_txt_lines = [line.split(',')[-1].replace('\n','') for line in img_txt_file.readlines()]
-        new_img_name = f'DLMP{int(img_n):03d}.jpg'
-        new_label = new_labels[new_img_name]
-        old_label = ''.join(img_txt_lines)
-        # 新增相似度比较
-        if similarity_method == 0:
-            matcher = difflib.SequenceMatcher(None, old_label, new_label)
-            similarity = matcher.ratio() * 100  # 转换为百分比
-        elif similarity_method == 1:
-            lev_dist = Levenshtein.distance(old_label, new_label)
-            similarity = 100 - (lev_dist / max(len(old_label), len(new_label)) * 100)
-        print(f"{img_txt}相似度: {similarity:.2f}%")
-        similarities.append(similarity)
-    similarity_df.append(similarities)
+    if not isinstance(similarity_df,pd.DataFrame):
+        similarities= []
+        for img_txt in os.listdir('./labels_old'):
+            img_n = int(img_txt.split('.')[0].split('_')[-1])+1
+            img_txt_file = open('./labels_old/'+img_txt, 'r', encoding='utf-8', errors='ignore')
+            img_txt_lines = [line.split(',')[-1].replace('\n','') for line in img_txt_file.readlines()]
+            new_img_name = f'DLMP{int(img_n):03d}.jpg'
+            new_label = new_labels[new_img_name]
+            old_label = ''.join(img_txt_lines)
+            # 新增相似度比较
+            if similarity_method == 0:
+                matcher = difflib.SequenceMatcher(None, old_label, new_label)
+                similarity = matcher.ratio() * 100  # 转换为百分比
+            elif similarity_method == 1:
+                lev_dist = Levenshtein.distance(old_label, new_label)
+                similarity = 100 - (lev_dist / max(len(old_label), len(new_label)) * 100)
+            print(f"{img_txt}相似度: {similarity:.2f}%")
+            similarities.append(similarity)
+        similarity_df.append(similarities)
+    else:
+        similarities = similarity_df.iloc[similarity_method, ]
     # 直方图
     plt.subplots(nrows=1, ncols=1,figsize=(6, 4),dpi=300)
     # 绘制直方图

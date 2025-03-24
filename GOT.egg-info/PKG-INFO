@@ -149,7 +149,7 @@ python3 GOT/demo/run_ocr_2.0.py  --model-name  /GOT_weights/  --image-file  /an/
 ```
 2. format texts OCR:
 ```Shell
-python GOT/demo/run_ocr_2.0.py  --model-name  GOT_weights/  --image-file  datasets/DLMP/org_imgs/DLMP178.jpg  --type format
+python GOT/demo/run_ocr_2.0.py  --model-name  GOT_weights/  --image-file  datasets/DLMP/org_imgs/DLMP042.jpg  --type format
 ```
 3. fine-grained OCR:
 ```Shell
@@ -220,17 +220,17 @@ pip install -e .[llm]
 ```
 ```Shell
 # default：sft LLM & projector, freeze vision encoder
-CUDA_VISIBLE_DEVICES=0 swift sft\
+CUDA_VISIBLE_DEVICES=0 swift sft \
 --model_type got-ocr2 \
---model_id_or_path stepfun-ai/GOT-OCR2_0 \
+--model_id_or_path ../GOT_weights \
 --sft_type lora \
 --dataset latex-ocr-print#5000
 
 # Deepspeed ZeRO2
 NPROC_PER_NODE=4 \
-CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
---model_type got-ocr2 \
---model_id_or_path stepfun-ai/GOT-OCR2_0 \
+CUDA_VISIBLE_DEVICES=0 swift sft \
+--model_type got_ocr2 \
+--model ../GOT_weights \
 --sft_type lora \
 --dataset latex-ocr-print#5000 \
 --deepspeed default-zero2

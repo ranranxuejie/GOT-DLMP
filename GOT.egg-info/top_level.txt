@@ -1,6 +1,7 @@
 GOT
 GOT_weights
 datasets
+ms-swift
 render_tools
 results
 zero_config
