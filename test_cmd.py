@@ -1,6 +1,18 @@
 
 import subprocess
+#swift sft --model_type got-ocr2 --model_id_or_path ./GOT_weights --sft_type lora --dataset dlmp
+cmd = [
+    "swift",
+    "sft",
+    "--model_type", "got-ocr2",
+    "--model_id_or_path", "./GOT_weights",
+    "--sft_type", "lora",
+    "--dataset", "dlmp"
+]
+subprocess.run(cmd, check=True)
 
+
+#%%
 img_path = 'datasets/test_img/DLMP046.jpg'
 type = 'format/ocr'
 box = False

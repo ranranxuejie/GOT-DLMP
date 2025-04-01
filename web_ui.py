@@ -2,6 +2,8 @@
 import datetime
 from datetime import time
 
+import utils.rotate
+
 print('Initializing……',end='')
 import gradio as gr
 from threading import Thread
@@ -21,7 +23,7 @@ from GOT.utils.utils import KeywordsStoppingCriteria
 from GOT.demo.process_results import punctuation_dict, svg_to_html
 from PIL import Image
 translation_table = str.maketrans(punctuation_dict)
-
+from utils import *
 import os
 import requests
 from PIL import Image
@@ -47,7 +49,9 @@ DEFAULT_IM_START_TOKEN = '<img>'
 DEFAULT_IM_END_TOKEN = '</img>'
 disable_torch_init()
 
-def eval_model(img_path):
+def eval_model(img_path,auto_render):
+    if img_path is None:
+        return "请先上传图片！"
     try:
         # 单图处理流程
         image = load_image(img_path)
@@ -87,6 +91,8 @@ def eval_model(img_path):
         if outputs.endswith(stop_str):
             outputs = outputs[:-len(stop_str)]
         outputs = outputs.strip()
+        if auto_render:
+            outputs=render_result(outputs)
         return outputs
         #     # 流式输出结果
         # generated_text = ""
@@ -164,19 +170,23 @@ def render_result(outputs):
 
 with gr.Blocks(title="OCR识别系统") as demo:
     with gr.Row():
+        gr.Markdown("# 电力铭牌识别系统")
+
+    with gr.Row():
         with gr.Column():
-            # 新增模型选择组件
             model_selector = gr.Dropdown(
                 choices=["GOT_weights/", "results/dlmp/"],
                 value="results/dlmp/",
                 label="选择模型"
             )
             load_btn = gr.Button("加载模型")
-    with gr.Row():
-        with gr.Column():
             img_input = gr.Image(type="filepath", label="上传图片")
             text_input = gr.Textbox(label="附加描述（可选）")
-            process_btn = gr.Button("开始处理")
+            with gr.Row():
+                auto_crop_check = gr.Checkbox(label="自动裁剪",value=True,interactive=True)
+                crop_btn = gr.Button("裁剪图片",interactive=False)
+                auto_render = gr.Checkbox(label="自动渲染", value=False)
+                process_btn = gr.Button("开始处理",interactive=False)
         with gr.Column():
             output_text = gr.Textbox(label="识别结果", interactive=False, lines=20)
             render_btn = gr.Button("渲染结果")
@@ -212,19 +222,26 @@ with gr.Blocks(title="OCR识别系统") as demo:
         stop_str = conv.sep if conv.sep_style != SeparatorStyle.TWO else conv.sep2
         keywords = [stop_str]
         stopping_criteria = KeywordsStoppingCriteria(keywords, tokenizer, input_ids)
+        process_btn.interactive = True
         print('\t\tDone!')
+
         return "模型加载成功！"
+
     # 绑定新事件
     load_btn.click(
         fn=load_model,
         inputs=model_selector,
         outputs=output_text
     )
-
+    crop_btn.click(
+        fn=utils.rotate.auto_crop,
+        inputs=img_input,
+        outputs=[img_input,output_text]
+    )
     # 绑定点击事件
     process_btn.click(
         fn=eval_model,
-        inputs=img_input,
+        inputs=(img_input,auto_render),
         outputs=output_text
     )
     render_btn.click(
@@ -232,9 +249,23 @@ with gr.Blocks(title="OCR识别系统") as demo:
         inputs=output_text,
         outputs=output_text
     )
+    def change_crop_btn_state(img_path):
+        if img_path is None:
+            return gr.update(interactive=False)
+        else:
+            return gr.update(interactive=True)
+
+
+    img_input.change(
+        fn=change_crop_btn_state,
+        inputs=img_input,
+        outputs=crop_btn  # 直接输出到按钮的 interactive 属性
+    )
+
     exit_btn.click(
         fn=demo.close,
         inputs=None,
         outputs=None
     )
+
 demo.launch()

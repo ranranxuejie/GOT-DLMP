@@ -2,11 +2,12 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ms-swift-2.5.0" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/GOT_weights" />
       <excludeFolder url="file://$MODULE_DIR$/benchmarks" />
       <excludeFolder url="file://$MODULE_DIR$/datasets/DLMP" />
     </content>
-    <orderEntry type="jdk" jdkName="ENV2025" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="got" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
