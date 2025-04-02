@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="got" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="got" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.8 (sftp://root@connect.cqa1.seetacloud.com:41423/root/.virtualenvs/GOT-DLMP/bin/python)" project-jdk-type="Python SDK" />
 </project>

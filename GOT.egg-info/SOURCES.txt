@@ -45,9 +45,14 @@ GOT/utils/constants.py
 GOT/utils/conversation.py
 GOT/utils/utils.py
 GOT_weights/tokenization_qwen.py
+datasets/DLMP/rotate.py
 datasets/DLMP/seperate_dataset.py
+datasets/DLMP/1-原图未裁剪未扩充数据集/compare.py
 datasets/DLMP/1-原图未裁剪未扩充数据集/txt2json.py
+datasets/DLMP_got/generate_json.py
 datasets/test_img/untitled-1.py
+doubao_api/label_batch.py
+doubao_api/md2latex.py
 ms-swift/setup.py
 ms-swift/docs/source/conf.py
 ms-swift/docs/source_en/conf.py
@@ -74,6 +79,7 @@ ms-swift/examples/infer/demo_mllm.py
 ms-swift/examples/infer/demo_reward_model.py
 ms-swift/examples/sampler/mcts/mcts.py
 ms-swift/examples/train/grpo/plugin/plugin.py
+ms-swift/examples/train/multimodal/lora_llm_full_vit/custom_plugin.py
 ms-swift/examples/train/rft/rft.py
 ms-swift/scripts/benchmark/exp.py
 ms-swift/scripts/benchmark/exp_utils.py
@@ -106,6 +112,7 @@ ms-swift/swift/hub/constant.py
 ms-swift/swift/hub/hub.py
 ms-swift/swift/llm/__init__.py
 ms-swift/swift/llm/base.py
+ms-swift/swift/llm/data_loader.py
 ms-swift/swift/llm/utils.py
 ms-swift/swift/llm/app/__init__.py
 ms-swift/swift/llm/app/app.py
@@ -144,6 +151,7 @@ ms-swift/swift/llm/dataset/preprocessor/core.py
 ms-swift/swift/llm/dataset/preprocessor/extra.py
 ms-swift/swift/llm/eval/__init__.py
 ms-swift/swift/llm/eval/eval.py
+ms-swift/swift/llm/eval/utils.py
 ms-swift/swift/llm/export/__init__.py
 ms-swift/swift/llm/export/export.py
 ms-swift/swift/llm/export/merge_lora.py
@@ -227,6 +235,7 @@ ms-swift/swift/llm/template/template/megrez.py
 ms-swift/swift/llm/template/template/microsoft.py
 ms-swift/swift/llm/template/template/minicpm.py
 ms-swift/swift/llm/template/template/minimax.py
+ms-swift/swift/llm/template/template/mistral.py
 ms-swift/swift/llm/template/template/molmo.py
 ms-swift/swift/llm/template/template/mplug.py
 ms-swift/swift/llm/template/template/openbuddy.py
@@ -252,8 +261,8 @@ ms-swift/swift/megatron/model/__init__.py
 ms-swift/swift/megatron/model/config.py
 ms-swift/swift/megatron/model/constant.py
 ms-swift/swift/megatron/model/register.py
+ms-swift/swift/megatron/model/rope.py
 ms-swift/swift/megatron/model/gpt/__init__.py
-ms-swift/swift/megatron/model/gpt/config.py
 ms-swift/swift/megatron/model/gpt/hf2mcore.py
 ms-swift/swift/megatron/model/gpt/mcore2hf.py
 ms-swift/swift/megatron/model/gpt/model.py
@@ -270,6 +279,7 @@ ms-swift/swift/plugin/callback.py
 ms-swift/swift/plugin/loss.py
 ms-swift/swift/plugin/loss_scale.py
 ms-swift/swift/plugin/metric.py
+ms-swift/swift/plugin/multi_turn.py
 ms-swift/swift/plugin/optimizer.py
 ms-swift/swift/plugin/orm.py
 ms-swift/swift/plugin/prm.py
@@ -301,6 +311,7 @@ ms-swift/swift/trainers/rlhf_trainer/orpo_trainer.py
 ms-swift/swift/trainers/rlhf_trainer/ppo_trainer.py
 ms-swift/swift/trainers/rlhf_trainer/reward_trainer.py
 ms-swift/swift/trainers/rlhf_trainer/rlhf_mixin.py
+ms-swift/swift/trainers/rlhf_trainer/utils.py
 ms-swift/swift/tuners/__init__.py
 ms-swift/swift/tuners/adapter.py
 ms-swift/swift/tuners/base.py
@@ -405,6 +416,7 @@ ms-swift/tests/megatron/test_export.py
 ms-swift/tests/megatron/test_model.py
 ms-swift/tests/megatron/test_save.py
 ms-swift/tests/megatron/test_train.py
+ms-swift/tests/megatron/test_align/test_llm.py
 ms-swift/tests/models/test_flash_attn.py
 ms-swift/tests/models/test_llm.py
 ms-swift/tests/models/test_mllm.py
@@ -425,12 +437,14 @@ ms-swift/tests/train/test_freeze.py
 ms-swift/tests/train/test_grounding.py
 ms-swift/tests/train/test_grpo.py
 ms-swift/tests/train/test_kto.py
+ms-swift/tests/train/test_multilabel.py
 ms-swift/tests/train/test_packing.py
 ms-swift/tests/train/test_ppo.py
 ms-swift/tests/train/test_pt.py
 ms-swift/tests/train/test_rlhf.py
 ms-swift/tests/train/test_sample.py
 ms-swift/tests/train/test_sft.py
+ms-swift/tests/train/test_train_eval.py
 ms-swift/tests/tuners/__init__.py
 ms-swift/tests/tuners/test_extra_state_dict.py
 ms-swift/tests/tuners/test_merged_linear.py
@@ -443,3 +457,6 @@ ms-swift/tests/tuners/test_swift_restuning.py
 ms-swift/tests/utils/__init__.py
 ms-swift/tests/utils/test_io_utils.py
 ms-swift/tests/utils/test_torch_utils.py
+results/dlmp/tokenization_qwen.py
+utils/__init__.py
+utils/rotate.py
