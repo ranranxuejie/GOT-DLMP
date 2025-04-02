@@ -1,0 +1,5018 @@
+项目 & 详情 \\
+\hline
+标准代号 & GB1094.1 - 2 - 1996<br>GB1094.3:5 - 85 \\
+\hline
+型号 & S \\
+\hline
+产品代号 & 1JB.710.107 \\
+\hline
+额定容量 & kVA \\
+\hline
+相数 & 三相 \\
+\hline
+额定频率 & 50Hz \\
+\hline
+器身重量 & kg \\
+\hline
+联结组标号 & Yyn0 \\
+\hline
+短路阻抗 & % \\
+\hline
+绝缘油重量 & kg \\
+\hline
+冷却方式 & ONAN \\
+\hline
+使用条件 & 户外 \\
+\hline
+总重量 & kg \\
+\hline
+绝缘水平 & LI75AC35/AC5 \\
+\hline
+出厂序号 & 20年 \\
+\hline
+分接位置 & 电压（V） & 电流（A） \\
+\hline
+ & 高压 & 低压 & 高压 & 低压 \\
+\hline
+1 & +5% & 10500 &  &  \\
+\hline
+2 & 额定 & 10000 & 400 &  \\
+\hline
+3 & -5% & 9500 &  &  \\
+\hline
+生产厂家 & 中国南通市变压器厂 江苏 \\
+\hline
+印记 & IMPRESSION \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP227.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP227.jpg:
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+开关位置 & 高 V & 压 A & 低 V & 压 A & 短路阻抗 % \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+1 & 10500 &  &  &  &  \\
+\hline
+2 & 10000 &  & 400 &  &  \\
+\hline
+3 & 9500 &  &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP228.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP228.jpg:
+设备型号： 电力要求：AC V 50/60Hz 气源要求：≥8Kg/cm² 额定功率： KW 机器编号： 101103 出厂日期： 4月 年 月 日 东莞锐发智能卡科技有限公司 地址：中国东莞塘厦田心鹿苑路109号D栋 电话：0769 - 8685 5889 传真：0769 - 8685 5886 http://www.rftag.com.cn
+end of text
+                Done!
+========== processing DLMP229.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP229.jpg:
+产品型号 PZ30 符合标准 GB7251.3 - 2006 额定电压 V 额定绝缘电压 Y 额定电流 A 额定频率 Hz \\
+\hline
+出厂编号 & 制造日期 & 年 月 \\
+\hline
+生产公司 & 置日(上海)电气有限公司 \\
+\hline
+产品型号 PZ30 & 符合标准 GB7251.3 - 2006 \\
+\hline
+额定电压 & 额定绝缘电压 V & 额定电流 A & 额定频率 Hz \\
+\hline
+出厂编号 & 制造日期 &年 月 \\
+\hline
+生产公司 & 置日(上海)电气有限公司 &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP230.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP230.jpg:
+Output current:  Ampere Environment: 室內
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+品牌 & 干式電源變壓器 \\
+\hline
+Model & MTD - \\
+\hline
+S/N & （未显示具体内容） \\
+\hline
+Input voltage & 3P4W \\
+\hline
+V（与Input voltage相关） & （未明确含义，可能是单位相关，但此处无具体内容） \\
+\hline
+Frequency & 50/60Hz \\
+\hline
+Output voltage & 3P4W \\
+\hline
+V（与Output voltage相关） & （未明确含义，可能是单位相关，但此处无具体内容） \\
+ \end{tabular}
+end of text
+                Done!
+========== processing DLMP231.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP231.jpg:
+名称：TCR - 155C型便携基站·用户管理终端及附件
+型号： 体积：宽x深x高(mm³) 820x595x491
+生产日期 数量 总重量
+年 月 日
+kg
+生产厂家 & 深圳市坪山新区方元五金制品厂
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP232.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP232.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号TYPE & Y355L2 - 4 \\
+\hline
+功率OUTPUT & 315 kW \\
+\hline
+电压VOLTAGE & 380 V \\
+\hline
+电流CURRENT & 555 A \\
+\hline
+绝缘INSULATION & F \\
+\hline
+功率因数P.F. & 0.87 \\
+\hline
+接法CONNECTION & △ \\
+\hline
+转速SPEED & 1490 r/min \\
+\hline
+频率 & 50 Hz \\
+\hline
+重量WEIGHT & 1650 kg \\
+\hline
+定额RATING & S1 \\
+\hline
+防护等级 & IP44 \\
+\hline
+出厂编号No. & 16 \\
+\hline
+标准STANDARD NO. & JB5274 - 1991 \\
+\hline
+日期DATE & V001.COM \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP233.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP233.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+信息类别 & 第一辆车信息 & 第二辆车信息 \\
+\hline
+制造公司 & 中国汽车股份有限公司 & 中国汽车股份有限公司 \\
+\hline
+VIN & ×××11K808768014431× & ×××J11KUCC4A1028553× \\
+\hline
+品牌 & 无明确显示 & 无明确显示 \\
+\hline
+型号 & FC1045K93 & ×××110XXYK4T \\
+\hline
+发动机型号 & Y4102 - C3F & Y4102 - E3C \\
+\hline
+额定功率 & 70 Kw & 86 Kw \\
+\hline
+总质量 & 4490 Kg & 10980 Kg \\
+\hline
+整备质量 & 2560 Kg & 4400 Kg \\
+\hline
+出厂编号 & A8014431 & A1029553 \\
+\hline
+出厂日期 & 2010年06月 & 无明确显示 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP234.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP234.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 屋顶风机 Roof Fan \\
+\hline
+品牌 & Gelite 聚英 \\
+\hline
+型号 TYPE &  \\
+\hline
+位号 Item No &  \\
+\hline
+风量 Air Flow & m³/h \\
+\hline
+功率 Power & kW \\
+\hline
+转速 r/min &  \\
+\hline
+风压 Pressure & Pa \\
+\hline
+出厂日期 Out Date &  \\
+\hline
+防护等级 Protection grade &  \\
+\hline
+电流/电压 Current/Pressure & A / V \\
+\hline
+制造公司 & 浙江聚英风机工业有限公司 PRODUCE IN ZHEJIANG JUYING FAN INDUSTRY CO., LTD \\
+\hline
+联系电话 & TEL:0575 - 82216465 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP235.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP235.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+产品名称 & 铁路便携式橡胶防溜枕木 \\
+\hline
+规格型号 & 240*150*150mm \\
+\hline
+路电 & 025 - 83777 \\
+\hline
+产品编号 & TDJPR20207864 \\
+\hline
+生产日期 & 2021年03月27日 \\
+\hline
+生产厂家 & 深州市铁源通信器材配件加工厂 \\
+\hline
+地址 & 河北省深州市王家井西蒿科工业园区 \\
+\hline
+销售电话 & 18631822886 \\
+\hline
+产品名称 & 东方红 - D1000 - 42D拖拉机 \\
+\hline
+额定功率(12) & KW（空白） \\
+\hline
+执行标准 & （空白） \\
+\hline
+出厂编号 & * * \\
+\hline
+出厂日期 & （空白） \\
+\hline
+生产厂家 & 第一拖拉机股份有限公司 \\
+\hline
+地址 & 河南省洛阳市建设路154号 \\
+\hline
+产品名称 & TDHT低压配电箱 \\
+\hline
+产品型号 & （空白） \\
+\hline
+额定绝缘电压 & 660V \\
+\hline
+额定电流 & 50Hz \\
+\hline
+额定工作电压 & 380V \\
+\hline
+防护等级 & IP20 \\
+\hline
+执行标准 & GB/T 7251.12 \\
+\hline
+出厂编号 & （空白） \\
+\hline
+出厂日期 & 20 年 月（空白） \\
+\hline
+生产厂家 & 武汉泰德航天科技有限公司 \\
+\hline
+产品名称 & TDHT低压配电箱 \\
+\hline
+产品序号 & （空白） \\
+\hline
+额定绝缘电压 & 660V<br>额定电流 & 50Hz<br>额定工作电压 & 380V<br>防护等级 & IP20 \\
+\hline
+执行标准 & GB/T 7261.12 \\
+
+end of text
+                Done!
+========== processing DLMP236.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP236.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+MANUFACTURED BY & GUANGDONG HYUNDAI CONTAINER CO., LTD. GUANGDONG, CHINA \\
+\hline
+DATE MANUFACTURED & 10/2011 \\
+\hline
+IDENTIFICATION NO. & JBHU 271512 \\
+\hline
+MAX. GROSS WEIGHT & 67,200 LBS. \\
+\hline
+TARE WEIGHT & 10,450 LBS. \\
+\hline
+MODEL NO. & GS - D778 - UNA \\
+\hline
+TYPE & 53'x8'6 3/8"x9'6 9/16" \\
+\hline
+标准符合情况 & MEETS AAR M - 930 - 08 AND CG IS 40.7 INCHES. \\
+\hline
+FLOOR RATING & 24,000 LBS. \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP237.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP237.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+制造公司 & 东南(福建)汽车工业有限公司 \\
+\hline
+品牌 & 三菱牌 \\
+\hline
+整车型号 & DN7181H \\
+\hline
+发动机型号 & 4B10 \\
+\hline
+发动机排量 & 1798ml \\
+\hline
+发动机额定功率 & 110kW \\
+\hline
+乘坐人数 & 5 \\
+\hline
+最大设计总质量 & 1850kg \\
+\hline
+制造国 & 中国 \\
+\hline
+生产序号 & 066661 \\
+\hline
+制造年月 & 2012年06月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP238.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP238.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+品牌 & 三源 \\
+\hline
+产品名称 & 电力变压器 \\
+\hline
+制造单位 & 中华人民共和国东莞变压器厂 \\
+\hline
+产品型号 & S□ - □/10 \\
+\hline
+标准代号 & GB1094.1 - 2 - 1996、GB1094.3 - 85 \\
+\hline
+额定容量 & 10000 kVA \\
+\hline
+产品代号 & 108.710.□ \\
+\hline
+电压组合 & 10000/400 V \\
+\hline
+出厂序号 & □ \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+绝缘水平 & LI 75 AC 35 \\
+\hline
+联结组标号 & Yyn0 \\
+\hline
+相数 & 3 相 \\
+\hline
+开关位置 & 高压 & 低压 & 阻抗 \\
+\hline
+使用条件 & 户外 \\
+\hline
+1 & 10500 & V & A & % \\
+\hline
+2 & 10000 & 400 \\
+\hline
+3 & 9500 \\
+\hline
+冷却方式 & ONAN \\
+\hline
+器身重量 & □ kg \\
+\hline
+绝缘油重 & □ kg \\
+\hline
+总重 & □ kg \\
+\hline
+荣誉 & 广东省高新技术企业、国家重点新产品、广东省优质产品 \\
+\hline
+认证 & 通过ISO9002质量认证、采用国际标准生产 \\
+\hline
+生产时间 & 200[ ]年[ ]月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP239.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP239.jpg:
+控制柜 额定电压 380 V，频率 50 Hz， 额定电流 A（未填），最大功率，KW（未填），编号（未填），生产日期20.（未填），制造有限公司， 上海羽泉泵阀制造有限公司， 电流电流特性，阀体材料，制造日期，年 月（年份不全），制造商：黑龙江北方阀业有限责任公司， 公称压力：Mpa（未填），适用温度：℃（未填），适用介质：水,海水,蒸气,油品，出厂编号；电话：400 - 118 - 0288， 博纳斯威阀门有限公司， 阀型号：压力：MPa（未填），径：mm（未填），温度：≤℃（未填），出厂日期：20.（年份不全，年份不全，月（年份不全，月份未填），制造商：HN/C（未填），制造商：HN/C（未填），制造商：
+end of text
+                Done!
+========== processing DLMP240.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP240.jpg:
+品牌 & 产品 & 产品 & 产品 & 产品 & 产品 & 产品 & 产品 & 鱓制钢板标牌 \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+品牌 & ZXFB 中兴防爆 \\
+\hline
+产品名称 & 防爆控制箱 \\
+\hline
+型号 & XBK - 额定电压 \\
+\hline
+防爆标志 & ExedIIBT6 \\
+\hline
+额定电流 & 额定电压 \\
+\hline
+防爆合格证号 & CE041139 \\
+\hline
+出厂时间 & 200 年 月（月份未清晰显示） \\
+\hline
+生产公司 & 乐清市中兴防爆器材有限公司 \\
+\hline
+警示 & 开盖严禁带电 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP241.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP241.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 交流低压配电柜 \\
+\hline
+品牌标识 & TX \\
+\hline
+3C认证编号 & A010805 \\
+\hline
+型号 & 无 \\
+\hline
+额定工作电压 & 380V \\
+\hline
+额定电流 & 无 \\
+\hline
+额定绝缘电压 & 660V \\
+\hline
+额定短时耐受电流 & 无 \\
+\hline
+额定频率 & 50Hz \\
+\hline
+标准代号 & GB7251 \\
+\hline
+防护等级 & IP30 \\
+\hline
+辅助电路额定电压 & 无 \\
+\hline
+制造日期（年 月） & 无 \\
+\hline
+出厂编号 & 无 \\
+\hline
+出厂日期（年 月） & 无 \\
+\hline
+生产公司 & 南通天翔电器成套设备有限公司 \\
+\hline
+标牌制作 & 非凡标牌 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP242.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP242.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+制造公司 & 广州汽车集团乘用车（杭州）有限公司 \\
+\hline
+车辆识别代号 & LMWA1352H1S00080* \\
+\hline
+整车型号 & GAH7130F2M5 \\
+\hline
+品牌 & 传祺牌 \\
+\hline
+最大允许总质量 & 1740kg \\
+\hline
+发动机排量 & 1325mL \\
+\hline
+乘坐人数 & 5人 \\
+\hline
+发动机型号 & 4A13M1 \\
+\hline
+制造年月 & 2018年04月 \\
+\hline
+发动机最大净功率 & 93kW \\
+\hline
+制造国 & 中国 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP243.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP243.jpg:
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+分接位置 & 高压侧 V & 高压侧 A & 低压侧 V & 低压侧 A \\
+\hline
+1 & 10500 &  & 400 &  \\
+\hline
+2 & 10000 &  &  &  \\
+\hline
+3 & 9500 &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP244.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP244.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 & S11 - M \\
+\hline
+标准代号 & GB1094 GB6451 \\
+\hline
+额定容量 & 800 KVA \\
+\hline
+产品代号 & YC.710.810 \\
+\hline
+额定电压 & 690 ±5% /380V \\
+\hline
+出厂序号 & 1301122 \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+开关位置 & 高：V A；低：V A \\
+\hline
+联接组标号 & Y,y0 \\
+\hline
+冷却方式 & ONAN \\
+\hline
+使用条件 & 户外式 \\
+\hline
+阻抗电压 & 4.33 % \\
+\hline
+器身吊重 & 470 kg \\
+\hline
+油重 & 360 kg \\
+\hline
+总重 & 2310 kg \\
+\hline
+制造时间 & 201 年  月 \\
+\hline
+生产厂家 & 山东省永昌电力设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP245.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP245.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+吊篮用提升机型号 & LTD 630 \\
+\hline
+额定提升力 & 6.3 KN \\
+\hline
+提升速度 & 9 - 11 m/min \\
+\hline
+钢丝绳直径 & φ 8.3 mm \\
+\hline
+自重 & 50 \\
+\hline
+出厂编号 & （图片中被遮挡） \\
+\hline
+出厂日期 & 201 年 月（年份不完整） \\
+\hline
+生产公司 & 江阴市路达机械制造有限公司 \\
+\hline
+联系电话 & 0510 - 86921921 \\
+\hline
+高处作业吊篮用安全锁安全锁型号 & LSF 30 \\
+\hline
+允许冲击力 & 30 kN \\
+\hline
+钢丝绳直径 & φ 8.3 mm \\
+\htabular}{|c|c|}
+\hline
+坠落锁绳距离 & ≤200 mm \\
+\hline
+锁绳角度 & 平台倾斜 3° - 8° \\
+\hline
+检验标定周期 & 12 个月 \\
+\hline
+出厂编号 & （未显示） \\
+\hline
+生产公司 & 江阴市路达机械制造有限公司（暂无具体内容） \\
+\hline
+吊篮电控箱合格证电源电压 & 380V \\
+\hline
+出厂编号 & （未显示） \\
+\hline
+控制电压 & 36 V \\
+\hline
+出厂日期 & （未显示） \\
+\hline
+控制电机 & 1.7kw \\
+\hline
+检验结果 & 合格 \\
+\hline
+生产公司 & 江阴市路达机械制造有限公司 \\
+ \end{tabular}
+end of text
+                Done!
+========== processing DLMP246.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP246.jpg:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+容量(kVA) & 高压侧 V & 高压侧 A & 低压侧 V & 低压侧 A & 短路阻抗 % & 器身吊重 kg & 绝缘油重 kg & 总重 kg \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+315 & 10500 & 17.32 & 400 & 454.7 & 4.0 & 730 & 800 & 1320 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP247.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP247.jpg:
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+项目 & 介质 MEDIUM & 设计温度℃ DESIGN TEMP & 设计压力Mpa DESIGN PRESS & 最高工作压力 Mpa MAX WORKING PRESS & 试验压力 Mpa TEST PRESS \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+壳侧 SHELLSIDE &  &  &  &  &  \\
+\hline
+管侧 TUBESIDE &  &  &  &  &  \\
+\hline
+型号/MODEL & 容器类型/VESSEL CLASS & 净重/NETWEIGHT KG & 换热面积/AREAS ㎡ &  &  \\
+\hline
+许可证编号/PERMIT NO.：RZZK - 81 - 2007 & 制造日期/MFG.DATE & 出厂编号/SERIAL NO. &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP248.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP248.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & PEC5430 \\
+\hline
+额定电流 & 630 A \\
+\hline
+补偿容量 & 120 kvar \\
+\hline
+防护等级 & IP44 \\
+\hline
+重量 & 367 kg \\
+\hline
+出厂编号 & 无 \\
+\hline
+出厂日期 & 无 \\
+\hline
+执行标准 & GB7251.12 GB/T7251.8 GB/T15576 - 2008 \\
+\hline
+生产公司 & 国电南瑞科技股份有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP249.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP249.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+类型 & SELF - PRCMING CHEMICAL PUMPS \\
+\hline
+出口 & KB - 50032NAH - CCH 50/50 mm \\
+\hline
+功率 & 3 HP \\
+\hline
+电压 & 380 V \\
+\hline
+容量 & L/Min \\
+\hline
+频率 & 50 Hz \\
+\hline
+序列号 & 20190718008 \\
+\hline
+扬程 & M \\
+\hline
+生产许可证编号 & XK06 - 003 - 00939 \\
+\hline
+生产公司 & 日益电机（昆山）有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP250.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP250.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+分接位置 & 电压（V） & 电流（A） \\
+\hline
+---- & ---- & ---- \\
+\hline
+ & 高压 & 低压 & 高压 & 低压 \\
+\hline
+1 & 6900 &  &  &  \\
+\hline
+2 & 6450 &  &  &  \\
+\hline
+3 & 6900 & 400 & 368.8 & 5774 \\
+\hline
+4 & 6150 &  &  &  \\
+\hline
+5 & 8000 &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP251.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP251.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+名称 & 滑动轴承工件影像检测及包装系统 & 小型桁架机械手 \\
+\hline
+设备型号 & 45 - 2CAM/M（500） & 2S80/40 \\
+\hline
+输入电压 & 单相220VAC & 单相220VAC \\
+\hline
+外形尺寸 & 2800×1600×1100 & 1500×1500×350 \\
+\hline
+装机功率 & 1Kw & 0.5Kw \\
+\hline
+重量 & 350KG & 100KG \\
+\hline
+出厂日期 & 2017.4 & 2017.4 \\
+\hline
+公司名称 & JIA XING SHOT INTELLIGENT TECHNOLOGY CO., LTD & JIA XING SHOT INTELLIGENT TECHNOLOGY CO., LTD \\
+\hline
+电话 & 0573 - 82581620 & 0573 - 82581620 \\
+\hline
+传真 & 0573 - 82581620 & 0.0573 - 82581620 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP252.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP252.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+排烟防火阀执行标准 & GB 15930 - 2007 \\
+\hline
+型号规格 & PFHFWS Dc - K - \\
+\hline
+公称动作温度 & 280℃ \\
+\hline
+额定工作电流 & ≤0.7 A \\
+\hline
+额定工作电压 & DC24 V \\
+\hline
+出厂编号 & （空白） \\
+\hline
+出厂日期 & （空白） \\
+\hline
+气流方向 & （箭头方向） \\
+\hline
+生产公司 & 佛山市建丰通风设备有限公司 \\
+\hline
+公司地址 & 佛山市南海区大沥镇盐步横江沙海工业区自编45号厂房 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP253.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP253.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 数值 & 项目 & 数值 \\
+\hline
+型号(Type) & ZW58 - 12D/T630 - 20 & 额定短路开断电流 & kA（此处空白） \\
+\hline
+额定电压(Rated Voltage) & 12 kV & 额定操作顺序 & O - 0.3s - CO - 180s - CO \\
+\hline
+额定电流(Rated Current) & A（此处空白） & 互感器变比 & /5（此处空白部分有三个空格） \\
+\hline
+储能电压(Stored Energy Voltage) & V（此处空白） & 出厂编号(Serial Number) & （此处空白） \\
+\hline
+合闸电压(Closing Voltage) & V（此处空白） & 重量(Weight) & kg（此处空白） \\
+\hline
+分闸电压(Opening Voltage) & V（此处空白） & 出厂日期(Date of Factory) & 20 \\
+\hline
+制造商 & 日升集团有限公司(Sunrise Group Co.,Ltd) &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP254.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP254.jpg:
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+分接位置 & 高压电压V & 高压电流A & 低压电压V & 低压电流A \\
+\hline
+I &  &  &  &  \\
+\hline
+II &  &  &  &  \\
+\hline
+III &  &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP255.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP255.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+型号TYPE & ZBSCR - 2500/3 \\
+\hline
+产品代号PRODUCT NO. & 1.717.02145HSP1 \\
+\hline
+标准代号STANDARD & GB6450 - 1986/IEC60076 - 11 - 2004 \\
+\hline
+额定容量自冷AN RATED POWER & 2500 kVA \\
+\hline
+额定电压高压HV RATED VOLT. & 3000 V \\
+\hline
+额定容量风冷AF RATED POWER & kVA \\
+\hline
+额定电压低压LV RATED VOLT. & 640 V \\
+\hline
+额定电流高压HV RATED CURRENT自冷AN & 481.1 A \\
+\hline
+高压分接联结TAPPING CONN. & 1 - 3 2 - 3<br>1 - 4 2 - 3<br>1 - 4 2 - 7<br>1 - 5 2 - 7<br>1 - 5 2 - 6 \\
+\hline
+高压分接电压TAPPING VOLT. & 3150 V<br>3075 V<br>3000 V<br>2925 V<br>2850 V \\
+\hline
+额定电流高压HV RATED CURRENT风冷AF & A \\
+\hline
+额定电流低压LV RATED CURRENT自冷AN & 2255 A \\
+\hline
+额定电流低压LV RATED CURRENT风冷AF & A \\
+\hline
+短路阻抗% 120℃ SHORT - CIRCUIT IMP. & 6.33 \\
+\hline
+绝缘水平INS. LEVEL & L140AC10/AC3 \\
+\hline
+相数PHASE & 3 \\
+\hline
+联结组标号CONN. SYMBOL & Dyn11 \\
+\hline
+额定频率FREQ. & 50 Hz \\
+\hline
+耐热等级INSULATION CLASS & F \\
+\hline
+罩壳防护等级IP DEGREE &  \\
+
+end of text
+                Done!
+========== processing DLMP256.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP256.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+额定短时热电流 & 10.3×10.0 千安 \\
+\hline
+额定动稳定电流 & 375/22 千安 \\
+\hline
+总重 & 3335 公斤 \\
+\hline
+油重 & 380 公斤 \\
+\hline
+油号 & 无 \\
+\hline
+出厂编号 & 11052880 \\
+\hline
+制造 & 2005年11月 \\
+\hline
+接线图 & 无 \\
+\hline
+绝缘等级 & B \\
+\hline
+AP1 & 无 \\
+\hline
+AP2 & 无 \\
+\hline
+TP3 & 无 \\
+\hline
+注 & 电流互感器二次线图不准开路 \\
+\hline
+联系电话 & 20111107171:09 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP257.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP257.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 10KV电缆分接箱 \\
+\hline
+公司名称 & 上海昌西电力设备有限公司 \\
+\hline
+设备类型 & 全绝缘全密封金属开关设备 \\
+\hline
+型号 & SRM6 - 12/0.4 - 1250 \\
+\hline
+标准 & GB3804 - 2004 \\
+\hline
+额定电压 & 12kV \\
+\hline
+额定电流 & 630A \\
+\hline
+额定开断电流 & 20kA \\
+\hline
+额定动稳定电流 & 50kA \\
+\hline
+4s热稳定电流 & 20kA \\
+\hline
+防护等级 & IP4X \\
+\hline
+出厂编号 & 202007 \\
+\hline
+出厂日期 & 2020年07月 \\
+\hline
+生产公司 & 上海昌西电力设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP258.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP258.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+分接 & 高压 &  &  \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+位置 & 电压(V) & 电流(A) & 额定容量(kVA) \\
+\hline
+1 &  &  &  \\
+\hline
+2 &  &  &  \\
+\hline
+3 &  &  &  \\
+\hline
+低压(y接) &  &  &  \\
+\hline
+电压(V) & 电流(A) & 额定容量(kVA) &  \\
+\hline
+低压(y接) &  &  &  \\
+\ h电压(V) & 电流(A) & 额定容量(kVA) &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP259.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP259.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 TYPE & YKK800 - 8 \\
+\hline
+出品号 SERIAL NO & 140201R800F \\
+\hline
+功率 & 2800 千瓦 kW \\
+\hline
+相数 PH & 3 相 \\
+\hline
+接法 CONN & Y/Y \\
+\hline
+工作制 DUTY & S1 \\
+\hline
+功率因数 PF & 0.831 \\
+\hline
+频率 Hz & 50 赫 \\
+\hline
+转速 r/min & 无 \\
+\hline
+防护等级 IP & 无 \\
+\hline
+定子 STATOR & 6000 伏 V，338.4 安 A \\
+\hline
+绝缘等级 INS & 无 \\
+\hline
+安装型式 IM & 无 \\
+\hline
+转子 ROTOR & 2156 伏 V，790.4 安 A \\
+\hline
+绝缘等级 INS & 无 \\
+\h�� & IC \\
+\hline
+标准 STD & GB755 - 2008 \\
+\hline
+制造日期 DATE & 2015 - 02 \\
+\hline
+重量 kg & 1880 千克 \\
+\hline
+地址 ADD & 无锡市高浪东路 777 号 NO.777, Gaolang East Road, Wuxi \\
+\hline
+电话 TEL & 无 \\
+\hline
+网址 WEB & www.sec - motor.com \\
+\hline
+制造商 & 中电电机股份 SEC ELECTRIC MACHINERY CO.,LTD.，WUXI · CHINA \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP260.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP260.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+设备名称 & 户内金属铠装移开式开关设备 \\
+\hline
+英文名称 & METAL - CLAD CENTRAL - LOCATED WITHDRAWABLE SWITCHGEAR \\
+\hline
+型号 & KYN28A - 12 \\
+\hline
+标准 & GB3906 IEC298 \\
+\hline
+额定电压 & RATED VOLTAGE  KV（空白） \\
+\hline
+额定电流 & RATED CURRENT  A（空白） \\
+\hline
+额定开断电流 & RATED BREAKING CURRENT  KA（空白） \\
+\hline
+动稳定电流 & PEAK VALUE WITHSTAND CURRENT  KA（空白） \\
+\hline
+4S热稳定电流 & 4S SHORT TIME WITHSTAND CURRENT  KA（空白） \\
+\hline
+防护等级 & DEGREE OF PROTECTION IP 4X \\
+\hline
+编号 & NUMBER（空白） \\
+\hline
+出厂日期 & 20 年 月（空白） \\
+\hline
+公司名称 & 上海华通输配电成套工程有限公司 \\
+\hline
+英文公司名称 & SHANGHAI HUATONG POWER TRANSMISSION & DISTRIBUTION PROJECT COMPANY \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP261.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP261.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 低压抽出式开关设备 \\
+\hline
+品牌标识 & JIU heng \\
+\hline
+型号 & GCK \\
+\hline
+执行标准 & GB7251.1 \\
+\hline
+额定电压 & 380V \\
+\hline
+额定频率 & 50Hz \\
+\hline
+防护等级 & IP30 \\
+\hline
+额定电流 & （未清晰显示具体数值） \\
+\hline
+出厂编号 & 201406253 \\
+\hline
+出厂日期 & 2014年 月 日 \\
+\hline
+生产厂家 & 国电久胜（北京）电气设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP262.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP262.jpg:
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 低压配电柜 \\
+\hline
+型号 & DRJ \\
+\hline
+执行标准 & GB7251.1 \\
+\hline
+额定电压 & 380V \\
+\hline
+额定频率 & 50HZ \\
+\hline
+额定电流 & 668A \\
+\hline
+防护等级 & 1P30 \\
+\hline
+出厂编号 &  \\
+\hline
+制造日期 & 2015年5月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP263.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP263.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+品牌 & SHYURDQ \\
+\hline
+产品 & 配电箱 \\
+\hline
+型号 & （空白） \\
+\hline
+执行标准 & （空白） \\
+\hline
+额定电压 & V \\
+\hline
+额定电流 & A \\
+\hline
+出厂编号 & （空白） \\
+\hline
+出厂日期 & （空白） \\
+\hline
+生产公司 & 上海煜容成套电气设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP264.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP264.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 油浸式试验变压器 \\
+\hline
+型号 & 未显示完整 \\
+\hline
+容量 & 未显示完整 KVA \\
+\hline
+低压电压 & 未显示完整 V \\
+\hline
+低压电流 & 5.0 A \\
+\hline
+高压电压 & 未显示完整 KV \\
+\hline
+高压电流 & 未显示完整 mA \\
+\hline
+串级电压 & 未显示完整 V \\
+\hline
+质量 & 未显示完整 Kg \\
+\hline
+仪表电压 & 未显示完整 V \\
+\hline
+编号 & NO \\
+\hline
+变压器油 & 25号 \\
+\hline
+出厂日期 & 20 年 8 月 \\
+\hline
+生产公司 & 武汉鼎升电力自动化有限责任公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP265.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP265.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 &  \\
+\hline
+标准代号 &  \\
+\hline
+额定绝缘电压 & V \\
+\hline
+额定频率 & Hz \\
+\hline
+额定工作电压 & V \\
+\hline
+额定工作电流 & A \\
+\hline
+出厂编号 &  \\
+\hline
+出厂日期 & 200 年 月 \\
+\hline
+生产公司 & 通州市苏源电力发展有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP266.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP266.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+品牌 & 埃罗依 \\
+\hline
+产品名称 & 消防应急灯具专用应急电源 \\
+\hline
+规格型号 & A-D - 2kVA \\
+\hline
+执行标准 & GB17945-2010 \\
+\hline
+额定电压 & AC 220 V \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+输出电压 & AC 220 V \\
+\hline
+额定功率 & 2 kW \\
+\hline
+电池电压 & DC 48 V \\
+\hline
+应急时间 & ≥ min \\
+\hline
+防护等级 & IP30 \\
+\hline
+主机功耗 & 400 W \\
+\hline
+生产日期 & 2013年8月 \\
+\hline
+出厂编号 & 2013080201 \\
+\hline
+生产公司 & 浙江埃罗依电气有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP267.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP267.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+产品型号 & XL \\
+\hline
+执行标准 & GB7251.12 - 2013 \\
+\hline
+额定电流 & 550A \\
+\hline
+额定电压 & 380V \\
+\hline
+出厂编号 & 053101 \\
+\hline
+额定频率 & 50Hz \\
+\hline
+出厂日期 & 2016年11月 \\
+\hline
+生产公司 & 山东腾辉电气技术有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP268.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP268.jpg:
+产品型号 &频率 &频率 &频率 &频率 \\
+\hline
+---- & ---- & ---- & ---- & ---- \\
+\hline
+额定电压 & 380V & 额定电流 &  \\
+\hline
+执行标准 & GB7251.1 - 2005 & 防护等级 & IP \\
+\hline
+出厂编号 &  & 出厂日期 &  \\
+\hline
+生产公司 & 吉林省志成电力有限公司 & 长春经济技术开发区浦东路1952号 & 0431 - 84605822  84605833 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP269.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP269.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 详情 & 项目 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & / & 标准代号 & GB1094-1996JB/T10317-2002 \\
+\hline
+额定容量 & kVA & 产品代号 &  \\
+\hline
+冷却方式 & ON AN &  &  \\
+\hline
+联结组别 &  & 出厂序号 &  \\
+\hline
+相数 & 单相 &  &  \\
+\hline
+额定电压 & KV ±5%/ KV & 使用条件 & 户外 \\
+\hline
+频率 & 50Hz &  &  \\
+\hline
+器身吊重 & kg & 油重 & kg \\
+\hline
+总重 & kg & 短路阻抗 & % \\
+\hline
+分接位置 & 高压 & 低压 &  \\
+\hline
+ & 电压V & 电流A & 电压V & 电流A \\
+\hline
+X<sub>1</sub> Y<sub>1</sub> &  &  &  &  \\
+\hline
+X<sub>2</sub> Y<sub>2</sub> &  &  &  &  \\
+\hline
+X<sub>%<sub> Y<sub>%<sub> &  &  &  &  \\
+\hline
+ &  &  &  &  \\
+\hline
+制造公司 & 哈尔滨龙达干式变压器制造有限公司 & 出厂日期 & 20 年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP270.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP270.jpg:
+\begin{tabular}{|c|c|}
+\hline
+参数名称 & 参数值 \\
+\hline
+额定容量 & 400KVA \\
+\hline
+稳压精度 & 2 % \\
+\hline
+额定输出电压 & 380 V \\
+\hline
+相数 & 3 φ \\
+\hline
+额定输出电流 & 608 A \\
+\hline
+重量 & 1818 Kg \\
+\hline
+电压输入范围 & 323-437V \\
+\hline
+出厂日期 & 2009.1 \\
+\hline
+效率 & 96 % \\
+\hline
+出厂编号 & 0901001 \\
+\hline
+制造商 & 中国·珠海高艺机电设备制造有限公司 CHINA KAONGAIM&E EQUIPMENT MANUFACTURING CO.,LTD \\
+\hline
+地址 & 广东省珠海市唐家湾镇鸡山村苌唐夏村工业厂房第二栋2号 \\
+\hline
+电话 & 0756-3610912（3610362） \\
+\hline
+传真 & 0756-3610126 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP271.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP271.jpg:
+\begin{tabular}{|c|c|}
+\hline
+类别 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+标准代号 & GB 1094.1 - 2 - 1996 GB 1094.3 - 2003 GB1094.5 - 2008 \\
+\hline
+产品型号 &  \\
+\hline
+绝缘水平 & LI 75 AC 35 / AC 5 \\
+\hline
+产品代号 & 1ZG.710.2312 \\
+\hline
+相数 & 3相 \\
+\hline
+分接 & 高压 \\
+\hline
+额定电压 &  \\
+\hline
+频率 & 50Hz \\
+\hline
+位置 & 电压V & 电流A \\
+\hline
+额定容量 &  \\
+\hline
+冷却方式 & ONAN \\
+\hline
+1 &  \\
+\hline
+联结组别 &  \\
+\hline
+使用条件 & 户外 \\
+\hline
+2 &  \\
+\hline
+短路阻抗 & % \\
+\hline
+器身重 & kg \\
+\hline
+3 &  \\
+\hline
+ &  & 低压 \\
+\hline
+出厂序号 &  \\
+\hline
+油重 & kg & 电压V & 电流A \\
+\hline
+制造日期 & 20 年 月 & 总重 & kg & 400 \\
+\hline
+制造公司 & 深圳市勃格特变电气科技有限公司（Shenzhen Boge Tebian Electric Technology Co., Ltd.） \\
+\hline
+联系电话 & 4000866320 \\
+\hline
+电子邮箱 & Shenbogetebian@163.com \\
+\hline
+网址 & 1688.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP272.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP272.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 交流配电箱 \\
+\hline
+厂家 & 四川奥特通信工程有限公司 \\
+\hline
+型号 & 无 \\
+\hline
+频率 & 50赫 \\
+\hline
+额定电压 & 无 \\
+\hline
+出厂编号 & 无 \\
+\hline
+额定电流 & 无 \\
+\hline
+制造日期 & 无 无 \\
+\hline
+标牌制作厂家 & 苍南县远诚标牌厂 \\
+\hline
+标牌制作厂家电话 & 13958778642 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP273.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP273.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+序号 & 内容 & 详情 \\
+\hline
+---- & ---- & ---- \\
+\hline
+1 & 产品名称 & 卷铁芯电力变压器 \\
+\hline
+2 & 品牌 & 华力通 \\
+\hline
+3 & 型号 & S11 - M - 160/10 \\
+\hline
+4 & 产品代号 & 1HD.100.409 \\
+\hline
+5 & 额定容量 & 160 kVA \\
+\hline
+6 & 绝缘水平 & LI75AC35/AC5 \\
+\hline
+7 & 使用条件 & 户外式 \\
+\hline
+8 & 标准代号 & GB1094.1 - 2 - 85 GB1094.3 - 1996 \\
+\hline
+9 & 联结组 & Yyn0 \\
+\hline
+10 & 冷却方式 & ONAN \\
+\hline
+11 & 额定频率 & 50Hz \\
+\hline
+12 & 档位 & 高压（V） & 电流（A） & 低压（V） & 电流（A） & 短路阻抗 \\
+\hline
+13 & 1 & 10500 & - & 400 & - & 3.9% \\
+\hline
+14 & 2 & 10000 & 9.24 & 400 & 230.9 & 3.9% \\
+\hline
+15 & 3 & 9500 & - & 400 & - & 3.9% \\
+ \end{tabular}
+end of text
+                Done!
+========== processing DLMP274.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP274.jpg:
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+分接 & 高压（h.v.） &  & 低压（l.v.） &  & 短路阻抗% \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+位置 & 电压(V) & 电流(A) & 电压(V) & 电流(A) &  \\
+\hline
+1 &  &  &  &  &  \\
+\hline
+2 &  &  &  &  &  \\
+\hline
+3 &  &  &  &  &  \\
+\hline
+4 &  &  &  &  &  \\
+\hline
+5 &  &  &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP275.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP275.jpg:
+产品名称 & 详情 \\
+\hline
+产品名称 & 矿用隔爆型真空馈电开关 \\
+\hline
+型号 & KBZ - /1140 \\
+\hline
+防爆类型 & dI \\
+\hline
+额定电压 & （空白） \\
+\hline
+额定电流 & A \\
+\hline
+生产许可证号 & （空白） \\
+\hline
+重量 & （空白） \\
+\hline
+防爆合格证号 & （空白） \\
+\hline
+煤安标志证号 & （空白） \\
+\hline
+出厂编号 & （空白） \\
+\hline
+日期 & 20 年  月 \\
+\hline
+生产公司 & 涟源市湘源机电有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP276.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP276.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 &  \\
+\hline
+参考供暖面积 &  \\
+\hline
+执行标准 & GB16154 - 2005 \\
+\hline
+额定工作压力 & 0.99 Mpa \\
+\hline
+出厂日期 & 201 年  月 \\
+\hline
+产品编号 &  \\
+\hline
+制造公司 & 无锡且胜日采暖设备制造有限公司 \\
+\hline
+制造公司 & 深圳市丰源标牌有限公司 \\
+\hline
+网址 & https://dgfysvc.cn.china.cn \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP277.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP277.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+设备名称 & 低压成套开关设备 \\
+\hline
+标准代号 & GB7251.1 - 1997 \\
+\hline
+型号 & （空白） \\
+\hline
+额定频率 & 50Hz \\
+\hline
+额定工作电压 & 380V \\
+\hline
+额定工作电流 & （空白）A \\
+\hline
+出厂编号 & （空白） \\
+\hline
+出厂日期 & （空白）年（空白）月 \\
+\hline
+生产公司 & 北京敬业电工有限公司 北低自动化成套厂 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP278.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP278.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+执行标准 & GB 7251.1-2005 \\
+\hline
+产品型号 & GGD \\
+\hline
+频率 & 50 Hz \\
+\hline
+额定工作电压 & 380 V \\
+\hline
+额定电流 & 1600 A \\
+\hline
+水平母线额定电流 & 1600 A \\
+\hline
+垂直母线额定电流 & 1600 A \\
+\hline
+绝缘电压 & 660 V \\
+\hline
+组合序号 & 03 \\
+\hline
+出厂编号 & 2012.311 \\
+\hline
+出厂日期 & 2012年3月 \\
+\hline
+制造公司 & 巴州南大机械设备制造有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP279.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP279.jpg:
+型号 &XJM 标准 &GB7251.3 \\
+\hline
+额定电压 &380V 额定频率 &50HZ \\
+\hline
+额定电流 &A 防护等级 &IP30 \\
+\hline
+出厂编号 &  & 出厂日期 &  \\
+\hline
+生产公司 & 江苏隆兵电气有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP280.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP280.jpg:
+压力除氧器 PRESSUREDEAERATOR 产品编号 14 - 800 设计压力 0.98 MPa 容量类别 最高工作压力 MPa 产品标准 1.84 MPa 设计温度 350 ℃ 介质 水、蒸汽 2006年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP281.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP281.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+产品名称 & 低压抽出式成套开关设备 \\
+\hline
+产品型号 &  \\
+\hline
+产品标准 & GB7251.1 \\
+\hline
+额定绝缘电压 & 660V \\
+\hline
+频率 & 50Hz \\
+\hline
+额定工作电压 & 380V \\
+\hline
+额定电流 & A \\
+\hline
+出厂编号 &  \\
+\hline
+制造日期 & 年 月 \\
+\hline
+制造公司 & 湖南一开正泰成套电器有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP282.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP282.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+产品型号 &  \\
+\hline
+工频耐压 & kV \\
+\hline
+额定电压 & kV \\
+\hline
+额定电流 & A \\
+\hline
+出厂编号 &  \\
+\hline
+出厂日期 & 200 年 月 \\
+\hline
+技术服务 & 13602573966 \\
+\hline
+传真 & 0755 - 29685802 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP283.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP283.jpg:
+---- & ---- \\
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 详情 \\
+\hline
+型号 &  \\
+\hline
+电压 &  \\
+\hline
+出厂编号 &  \\
+\hline
+出厂日期 & 年 月 \\
+\hline
+生产公司 & 安钢集团福利实业有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP284.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP284.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+标准代号 & GB6450 - 86 IEC726 \\
+\hline
+产品代号 & 3T.01.292 \\
+\hline
+型号 & SC39 - 500/10 \\
+\hline
+额定频率 & 50Hz \\
+\hline
+相数 & 3 相 \\
+\hline
+额定容量 & kVA(AN/AF) \\
+\hline
+冷却方式 & AN \\
+\hline
+额定电压（V）（高压侧 I） & 10500 \\
+\hline
+联接组标号 & Dyn11 \\
+\hline
+额定电压（V）（高压侧 II） & 10250 \\
+\hline
+阻抗电压 & 4% \\
+\hline
+额定电压（V）（高压侧 III） & 10000 \\
+\hline
+绝缘等级 & F \\
+\hline
+额定电压（V）（高压侧 IV） & 9750 \\
+\hline
+额定电压（V）（高压侧 V） & 9500 \\
+\hline
+额定电压（V）（低压侧） & 400 \\
+\hline
+温升限值 & 100K \\
+\hline
+绝缘水平 & LI75 AC 35/LI - AC 5 \\
+\hline
+使用条件 & 户内 \\
+\hline
+出厂序号 &  \\
+\hline
+总重 & 公斤 \\
+\hline
+制造厂家 & 中国海南金盘特种变压器厂 \\
+\hline
+制造日期 & 年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP285.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP285.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+单位 & 中铁十三局集团第一工程有限公司奉化金桥制梁场 \\
+\hline
+全长 & 32.6m \\
+\hline
+跨度 & 31.5m \\
+\hline
+载重等级 & 中 - 活载 \\
+\hline
+图号 & 通桥(2006)2221 - Ⅶ \\
+\hline
+梁重 & 795t \\
+\hline
+生产许可证号 & XK（部分信息缺失） \\
+\hline
+制作时间 & 200（部分信息缺失）年（部分信息缺失）月 \\
+\hline
+编号 & （信息缺失） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP286.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP286.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 内容 & 项目 & 内容 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 &  & 执行标准 & GB3906 - 2006 \\
+\hline
+额定工作电压 & kV & 额定频率 & Hz \\
+\hline
+额定短时耐受电流 & A & 额定电流 & A \\
+\hline
+额定短时开断电流 & kA & 防护等级 & IP33 \\
+\hline
+出厂编号 &  & 制造日期 & 年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP287.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP287.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+型号 & LS6CCB - 784ZD型全自动扁形茶炒制机 \\
+\hline
+品牌 & 绿森茶机（LVSENCHAJI） \\
+\hline
+标准号 & Q/SLF003 - 2012 \\
+\hline
+电机总功率 & 2.265 kW \\
+\hline
+电压 & 380 V \\
+\hline
+外形尺寸 & 2460X1350X1380mm \\
+\hline
+整机重量 & 450 Kg \\
+\hline
+出厂日期 & 年 月 日 \\
+\hline
+电热功率 & 20 kW \\
+\hline
+出厂编号 & LS 784 \\
+\hline
+转速 & 30 r/min \\
+\hline
+生产公司 & 嵊州市绿峰茶叶机械有限公司 \\
+\hline
+地址 & 浙江省嵊州市长乐镇开元人民北路40号 \\
+\hline
+电话 & 0575 - 83732223  013858575653 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP288.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP288.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+产品名称 & 全密封全绝缘充气式环网开关柜 \\
+\hline
+产品型号 & XGN - 12 \\
+\hline
+产品符合标准 & GB3906 - 2006、GB/T11022 - 1999、IEC60298 - 1990 \\
+\hline
+额定电压 & 12 KV \\
+\hline
+额定频率 & 50 HZ \\
+\hline
+额定电流 & （未显示具体数值）A \\
+\hline
+短时耐受电流 & （未显示具体数值）KA 4S \\
+\hline
+工频耐受电压 & 42 KV/Min \\
+\hline
+雷电冲击耐受电压 & 75 KV \\
+\hline
+额定峰值耐受电流 & 50 KA \\
+\hline
+防护等级 & IP 4X \\
+\hline
+出厂编号 & （未显示具体数值） \\
+\hline
+出厂日期 & 20（年份部分不全）年（月份未显示）月 \\
+\hline
+生产公司 & 深圳市国源电力设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP289.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP289.jpg:
+产品名称 & 详情 \\
+\hline
+产品名称 & 详情 \\
+\hline
+产品型号 & 无明确显示 \\
+\hline
+防护等级 & IP30 \\
+\hline
+额定电压 & 无明确显示 V \\
+\hline
+额定电流 & 无明确显示 A \\
+\hline
+额定功率 & 无明确显示 KW \\
+\hline
+频率 & 50Hz \\
+\hline
+出厂编号 & 无明确显示 \\
+\hline
+出厂日期 & 2017年4月 \\
+\hline
+生产厂家 & 东莞市祥科机电设备有限公司 \\
+\hline
+产品名称 & 详情 \\
+\hline
+产品名称 & 详情 \\
+\hhline
+产品名称 & 详情 \\
+\hline
+产品名称 & 详情 \\
+ \hline
+名称 & 详情 \\
+\hline
+产品名称 & 详情 \\
+\hline
+名称 & 详情 \\
+\hline
+产品名称 & 详情 \\
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP290.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP290.jpg:
+型号 GGD-DLQX 出厂编号 44120600001 额定电压 380V 相 数 3 额定电流 36A 出厂日期 2015年10月 山东博泵科技股份有限公司
+end of text
+                Done!
+========== processing DLMP291.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP291.jpg:
+\begin{tabular}{|c|c|}
+\hline
+类别 & 详情 \\
+\hline
+公司名称 & 东方电子股份有限公司 \\
+\hline
+产品名称 & 站所终端 \\
+\hline
+产品型号 & DF9312 - E0 \\
+\hline
+类型 & 三遥 \\
+\hline
+ID号 & D300E0193063201806250002 \\
+\hline
+装置电源 & AC220V \\
+\hline
+操作储能 & DC48V \\
+\hline
+额定电压线电压 & AC100V \\
+\hline
+合闸电源 & DC48V \\
+\hline
+额定电压零序电压 & — \\
+\hline
+分闸 & DC48V \\
+\hline
+额定电流相电流 & 5A \\
+\hline
+装置功耗 & ≤ 40VA \\
+\hline
+额定电流零序电流 & — \\
+\hline
+出厂编号 & 1806250002 \\
+\hline
+生产日期 & 20180625 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP292.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP292.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+动力柜型号 & XL \\
+\hline
+额定电压 & 380V \\
+\hline
+额定电流 &  \\
+\hline
+执行标准 & GB7251.1 \\
+\hline
+出厂编号 &  \\
+\hline
+出厂时间 &  \\
+\hline
+生产厂家 & 苍南新联标牌工艺厂、郑州发达电气有限公司 \\
+\hline
+网址 & wys988.1688.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP293.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP293.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 & 5HM - 4.5 \\
+\hline
+额定电压 & 380 V \\
+\hline
+外形尺寸 & 9760*3200*2700mm \\
+\hline
+配套总功率 & 8.3kw \\
+\hline
+生产日期 & 201 年 月 \\
+\hline
+出产编号 &  \\
+\hline
+公司名称 & 河北皓凯贸易有限公司 \\
+\hline
+地址 & 石家庄高新区307国道太行大街东 \\
+\hline
+电话 & 89680345 85096225 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP294.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP294.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & XQ - 6 \\
+\hline
+出厂编号NO & 150510 \\
+\hline
+输入电压 & 220 V \\
+\hline
+输入电流 & 2.5 A \\
+\hline
+配用试验变压器型号 & 5 kVA \\
+\hline
+输出断路电流 & 2.5 A \\
+\hline
+质量 & 75 Kg \\
+\hline
+出厂日期 & 2015年8月 \\
+\hline
+生产公司 & 武汉鼎升电力自动化有限责任公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP295.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP295.jpg:
+类型 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+类型 & 配电箱（柜） \\
+\hline
+型号 & XGM \\
+\hline
+额定电流 & 无 \\
+\hline
+执行标准 & 无 \\
+\hline
+出厂编号 & A \\
+\hline
+额定电压 & 380/220V \\
+\hline
+生产厂家 & 青岛全明电器设备有限公司 \\
+\hline
+出厂日期 & 无 \\
+\hline
+类型 & 配电箱 \\
+\hline
+品牌 & KEE \\
+\hline
+技术标准 & GB7251.3 - 2006 \\
+\hline
+型号 & XM \\
+\hline
+额定电压 & 380V \\
+\hline
+频率 & 50HZ \\
+\hline
+额定电流 & 无 \\
+\hline
+出厂编号 & 无 \\
+\hline
+出厂日期 & 201□年□月 \\
+\hline
+生产厂家 & 成都科星电力电器有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP296.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP296.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+名称 & 参数 & 单位 \\
+\hline
+---- & ---- & ---- \\
+\hline
+六氟化硫环网开关设备 & 型号 & / \\
+\hline
+六氟化硫环网开关设备 & 额定电压 & kV \\
+\hline
+六氟化硫环网开关设备 & 额定电流 & A \\
+\hline
+六氟化硫环网开关设备 & 额定工作气压 & MPa \\
+\hline
+六氟化硫环网开关设备 & 额定雷电冲击耐受电压 & kV \\
+\hline
+六氟化硫环网开关设备 & 防护等级 & / \\
+\hline
+六氟化硫环网开关设备 & 制造日期 & 年 月 \\
+\hline
+六氟化硫环网开关设备 & 出厂编号 & / \\
+\hline
+全自动胶塞清洗机 & 型号 & / \\
+\hline
+全自动胶塞清洗机 & 生产能力 & 万支/箱 \\
+\hline
+全自动胶塞清洗机 & 工作电压 & V（三相四线） \\
+\hline
+全自动胶塞清洗机 & 消耗功率 & kW \\
+\hline
+全自动胶塞清洗机 & 编号 & / \\
+\hline
+全自动胶塞清洗机 & 外形尺寸 & mm×mm×mm \\
+\hline
+全自动胶塞清洗机 & 纯化水压力 & MPa \\
+\hline
+全自动胶塞清洗机 & 注射水压力 & MPa \\
+\hline
+全自动胶塞清洗机 & 蒸汽压力 & MPa \\
+\hline
+全自动胶塞清洗机 & 整机重量 & Kg \\
+\hline
+全自动胶塞清洗机 & 出厂日期 & 年 月 日 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP297.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP297.jpg:
+\begin{tabular}{|c|c|}
+\hline
+产品规格Model & 减速机型号Reducer model \\
+\hline
+---- & ---- \\
+\hline
+转速Rotate speed & r/min & 生产能力Capacity & t/h \\
+\hline
+电机功率Motor power & kw & 设备自重Weight & kg \\
+\hline
+出厂编号Ex - factory number & 出厂日期Ex - factory date & 年 & 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP298.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP298.jpg:
+品牌型号 瑞江牌 制造国 中国 车辆识别代码（VIN） 整备质量 KG 最大设计总质量 KG 容积 m³ 牵引工作直径 mm \\
+\hline
+作用在牵引车上的最大设计载荷 & KG \\
+\hline
+外形尺寸（长X宽X高） & mmXmmXmm \\
+\hline
+生产序号 & 生产日期 & 年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP299.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP299.jpg:
+\begin{tabular}{|c|c|}
+\hline
+MODEL &  \\
+\hline
+SERIAL NO. &  \\
+\hline
+CAPACITY & TONS \\
+\hline
+NO.OF TURRET STATIONS &  \\
+\hline
+POWER REQUIRED & KVA \\
+\hline
+WEIGHT & TONS \\
+\hline
+DATE MANUFACTURED &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP300.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP300.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+名称 & 电力变压器 \\
+\hline
+品牌 & 超超电气 \\
+\hline
+型号 & / \\
+\hline
+标准代号 & GB1094、GB/T6451 \\
+\hline
+产品代号 & 1BT.710. \\
+\hline
+相 & 50Hz \\
+\hline
+联结组标号 & / \\
+\hline
+开关位置 & 高压侧A 低压侧A \\
+\hline
+冷却方式 & ONAN 户外式 \\
+\hline
+额定容量 & kVA<br>I 10500<br>II 10000<br>III 9500 \\
+\hline
+阻抗电压 & % \\
+\hline
+器身重 & kg \\
+\hline
+油重 & kg \\
+\hline
+总重 & kg \\
+\hline
+出厂序号 & / \\
+\hline
+制造单位 & 安徽·阜阳电气设备总厂 \\
+\hline
+制造时间 & 200 年 月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP301.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP301.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+储罐位号 & G - \\
+\hline
+储罐位置 &  \\
+\hline
+产品型号 &  \\
+\hline
+产品储量 & 吨 \\
+\hline
+产品出厂日期 & 年 月 日 \\
+\hline
+产品充装日期 & 年 月 日 \\
+\hline
+产品有效年限 & 年 \\
+\hline
+产品效日期 & 年 月 日 \\
+\hline
+产品生产厂家 &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP302.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP302.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+型号 & ZXDA46 S264 & 系列号 & 见条码 \\
+\hline
+电源 & 380V/3N/50Hz & 气流形态 & 端装端送端回 \\
+\hline
+机组额定制冷量 & 250kW & 内循环机外全压 & 150Pa \\
+\hline
+内循环额定风量 & 61000m³/h & 外循环额定风量 & 60000m³/h \\
+\hline
+DX系统最大制冷量 & 175kW & 压缩机总功率 & 46kW \\
+\hline
+间接蒸发额定功率 & 34kW & 机组外形尺寸(L*W*H) & L6500*W3000*H5800mm \\
+\hline
+A/B路最大输入电流 & 100A & C/D路最大输入电流 & 100A \\
+\hline
+制冷剂 & R410A & 机组重量 & 10000kg \\
+\hline
+机组编号 & 见条码 & 生产日期 & 见条码 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP303.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP303.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+公司 & 国网昌吉供电公司 \\
+\hline
+产品 & 计量箱 \\
+\hline
+型号 & PJF - 1BM \\
+\hline
+执行标准 & GB/T23641 - 2009 \\
+\hline
+额定电压 & 3×100V \\
+\hline
+箱体尺寸 & 800*600*500 \\
+\hline
+额定电流 & 15A \\
+\hline
+箱体材质 & SMC \\
+\hline
+表位数 & 2 \\
+\hline
+出厂日期 & 2017年3月 \\
+\hline
+生产公司 & 江苏东祥电气科技有限公司 \\
+\hline
+国家电网编号 & NO.05000006989322 \\
+\hline
+条形码编号 & 05000006989322 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP304.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP304.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+型号TYPE & SCB - 1430/10 \\
+\hline
+产品代号PRODUCT NO. & V607051 \\
+\hline
+标准代号STANDARD & GB6450 - 1986/IEC60076 - 11 - 2004 \\
+\hline
+额定容量RATED POWER（自冷AN） & 1430 kVA \\
+\hline
+额定容量RATED POWER（风冷AF） & kVA \\
+\hline
+额定电压（高压HV） & 10000 V \\
+\hline
+额定电压（低压LV） & 400 V \\
+\hline
+额定电流RATED CURRENT（高压HV自冷AN） & 82.2 A \\
+\hline
+额定电流RATED CURRENT（高压HV风冷AF） & A \\
+\hline
+高压分接联结TAPPING CONN.（自冷AN） & 3 - 4 \\
+\hline
+高压分接联结TAPPING CONN.（风冷AF） & 4 - 5 \\
+\hline
+高压分接电压TAPPING VOLT.（自冷AN） & 10500 V \\
+\hline
+高压分接电压TAPPING VOLT.（风冷AF） & 10250 V \\
+\hline
+短路阻抗SHORT - CIRCUIT IMP.（风冷AF） & 6 - 7 \\
+\hline
+短路阻抗SHORT - CIRCUIT IMP.（风况AF） & 9750 V \\
+\hline
+高压分接电压TAPPING CONN.（低压LV自冷AN） & 2064 A \\
+\hline
+高压分接电压TAPPING CONN.（低压LV风冷AF） & 4 - 5 \\
+\hline
+高压分接电压 TAPPING CONN.（低压LV自冷AN） & 6 - 7 \\
+\hline
+高压分接电压 TAPPING CONN.（低压LV风冷AF） & 10000 V \\
+\hline
+高压分接电压 TAPPING CONN.（
+end of text
+                Done!
+========== processing DLMP305.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP305.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 详情 & 项目 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & YRKK4504 - 6 & 频率 & Hz \\
+\hline
+功率 & 450 kW & 功率因数 &  \\
+\hline
+定子 & 6000 V，55.8 A & 接法 & 防护等级IP54 \\
+\hline
+转子 & 487 V，556 A & 接法 & 冷却方式IC611 \\
+\hline
+环境温度 & 40℃ & 绝缘等级 & 定子、转子 \\
+\hline
+旋转速度 & 990 r/min & 质量 & kg \\
+\hline
+轴承型号 &  & 轴伸端 & 非轴伸端 \\
+\hline
+标准编号 &  & 出品编号 &  \\
+\hline
+出品日期 & 2008年 月 & 工作制 & S1 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP306.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP306.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+公司名称 & 宜春万申制药机械有限公司（YICHUN WANSHEN PHARMACEUTICAL MACHINERY CO.,LTD） \\
+\hline
+系统名称 & 包装自动给料系统（AUTOMATIC FEEDING SYSTEM OF PACKAGING） \\
+\hline
+型号（Model） &  \\
+\hline
+产能（KG/H）（Capacity） &  \\
+\hline
+功率（KW）（Power） &  \\
+\hline
+出厂编号（Factory Numbers） &  \\
+\hline
+出厂日期（Date） & 年 月 日 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP307.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP307.jpg:
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & ZKHX- & 加热功力 & Kw \\
+\hline
+盘数 & 只 & 风机功力 & Kw \\
+\hline
+真空度 & ℃ & 出厂编号 & NO. \\
+\hline
+干燥温度 & ℃ & 出厂日期 & 年月 \\
+\hline
+生产公司 & 常州郎君机械科技有限公司 & 电话 & 0519 - 52897451 \\
+\hline
+名称 & 真空烘箱 \\
+\hline
+型号 & ZKHX- & 加热功力 & Kw \\
+\ h 真数 & 只 & 风机功力 & Kw \\
+\hline
+真空度代 & ℃ & 出厂编号 & NO. \\
+\hline
+干燥温度 &℃ & 出厂日期 & 年月 \\
+\hline
+生产公司 & 帄州郎君机械科技有限公司 & 电话 & 0519 - 52 897451 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP308.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP308.jpg:
+烟草行业固定资产设备统一编号 53004
+end of text
+                Done!
+========== processing DLMP309.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP309.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 低压无功功率动态补偿装置 \\
+\hline
+型号 & GJ - \\
+\hline
+额定电压 & 380V \\
+\hline
+额定电流 & 未提及 \\
+\hline
+执行标准 & GB/T15576 \\
+\hline
+频率 & 50Hz \\
+\hline
+出厂日期 & 1995年未提及月 \\
+\hline
+生产公司 & 濮阳市华海电器有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP310.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP310.jpg:
+\begin{tabular}{|c|c|}
+\hline
+类别 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+品牌 & SUGINO \\
+\hline
+设备名称 & 高精度强力钢架冲床（HIGH PRECISION COMPACT POWER PRESS） \\
+\hline
+型式（MODEL） &  \\
+\hline
+吨数（CAPACITY TONS） &  \\
+\hline
+行程（STROKE mm） &  \\
+\hline
+工作高度（DIE HEIGHT mm） &  \\
+\hline
+冲程数（S.P.M） &  \\
+\hline
+马达（MOTOR HP V） &  \\
+\hline
+制号（MFG.NO.） &  \\
+\hline
+制造日期（MFG.DATE 年 月 日） &  \\
+\hline
+执行标准 & GB 17120-2012，GB 27607-2011 \\
+\hline
+公司名称 & Sugino(Hong Kong)Trading co.,Limited \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP311.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP311.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 低压成套开关设备 \\
+\hline
+品牌 & 盛辉 \\
+\hline
+型号 & 无 \\
+\hline
+执行标准 & GB7251 - 05 \\
+\hline
+额定电压 & V \\
+\hline
+额定频率 & 50HZ \\
+\hline
+额定电流 & A \\
+\hline
+防护等级 & IP \\
+\hline
+设备名称 & 等离子废气净化器 \\
+\hline
+规格型号 & DLZ - \\
+\hline
+输入电压 & 220V/50hz \\
+\hline
+处理风量 & 000 m3/h \\
+\hline
+设备阻力 & <120pa \\
+\hline
+排烟浓度 & ≤2 mg/m3 \\
+\hline
+产品编号 & 5H - zz - 0 \\
+\hline
+净化效率 & ≥92% \\
+\hline
+生产日期 & 201 \\
+\hline
+生产公司 & 中国：爱诗力涂装设备（宁波）工程有限公司 \\
+\hline
+联系电话 & 0574 - 86571013 13586822031 \\
+\hline
+网址 & chinapab.1688.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP312.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP312.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 内容 & 名称 & 内容 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & TYPE & 出厂编号 S/N &  \\
+\hline
+额定功率 PRIME POWER & KW、KVA & 额定电压 VOLTAGE & 400/230 V \\
+\hline
+额定频率 FREQUENCY & 50 Hz & 额定电流 CURRENT &  \\
+\hline
+额定转速 RATED SPEED & 1500 r/min & 功率因素 P.F. & 0.8（滞后）DELAY \\
+\hline
+质量 WEIGHT & Kg & 相数 PHASE & 3 \\
+\hline
+执行标准 STANDARD & GB/T2820 &  &  \\
+\hline
+外形尺寸 DIMENSION & mm & 出厂日期 PRODUCE DATE &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP313.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP313.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+产品型号 & SDG \\
+\hline
+执行标准 & GB 7251.1-2005 \\
+\hline
+额定电压 & 380V/220V \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+额定电流 & A \\
+\hline
+防护等级 & IP30 \\
+\hline
+出厂编号 &  \\
+\hline
+出厂日期 & 20 年  月 \\
+\hline
+生产公司 & 昆明创炜电器有限公司（KUNMING CHANWE ELECTRIC CO., LTD.） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP314.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP314.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 详情 & 名称 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & MF2260D & 加工宽度 & 580 mm \\
+\hline
+电机总功率 & 20 Kw & 加工厚度 & 1~120 mm \\
+\hline
+使用电压 & 380 V & 出厂编号 &  \\
+\hline
+执行标准 & GB/T6202-2000 & 生产日期 & 20 年 月 \\
+\hline
+公司名称 & 佛山市顺德区豪盛强木工机械有限公司 &  &  \\
+\hline
+厂址 & 广东省佛山市顺德区伦教霞石工业大道 & 邮编 & 528308 \\
+\hline
+电话 & 0757-27736586 27735607 & 传真 & 0757-27736586 \\
+\hline
+网址 & www.cmlogo.cn &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP315.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP315.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品名称 & 产品型号 \\
+\hline
+出厂日期 & 无 \\
+\hline
+出厂编号 & 无 \\
+\hline
+地址 & 无锡市扬名高新技术产业园B区33号 \\
+\hline
+电话 & 0510 - 85400723 85400640 \\
+\hline
+传真 & 0510 - 85400731 \\
+\hline
+邮编 & 214024 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP316.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP316.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 动力配电箱 \\
+\hline
+型号 & （空白） \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+额定电压 & 380 V \\
+\hline
+额定电流 & （空白） \\
+\hline
+出厂编号 & （空白） \\
+\hline
+出厂日期 & 201（年） （空白）（月） \\
+\hline
+生产公司 & 上海大华电器设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP317.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP317.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 阀门控制柜 \\
+\hline
+英文名称 & VALVE CONTROL CABINET \\
+\hline
+型号 & GR1402 - 40 \\
+\hline
+出厂编号 & 162724009 \\
+\hline
+英文标识 & Model \\
+\hline
+英文标识 & Factory Code \\
+\hline
+额定电压 & 220VAC \\
+\hline
+额定功率 & 100VA \\
+\hline
+英文标识 & Rated Voltage \\
+\hline
+英文标识 & Rated Power \\
+\hline
+额定频率 & 50HZ \\
+\hline
+英文标识 & Rated Frequency \\
+\hline
+公司名称 & 上海基荏工程设备有限公司 \\
+\hline
+英文名称 & Shanghai Glory Engineering Equipment co., LTD \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP318.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP318.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品名称 & 三相四线全焊接不锈钢计量箱 \\
+\hline
+商标 & 也牌 \\
+\hline
+型号 & 无 \\
+\hline
+频率 & 50Hz \\
+\hline
+过载能力 & 无 \\
+\hline
+额定电压 & 无 千伏 \\
+\hline
+功率因数 & 0.8 \\
+\hline
+设备种类 & 无 \\
+\hline
+工频耐压执行国家 & GB311.1 - 1997 \\
+\hline
+一次对二次及地 & 无 千伏 \\
+\hline
+二次对地 & 无 千伏 \\
+\hline
+电流部分 - 电流比 & / 安培 \\
+\hline
+电流部分 - 电流等级 & 无 级 \\
+\hline
+电流部分 - 单元件容量 & 无 伏安 \\
+\hline
+电流部分 - 执行标准 & GB1208 - 1997、JJG313 - 1994 \\
+\hline
+电压部分 - 电压比 & /100 伏 \\
+\hline
+电压部分 - 电压等级 & 无 级 \\
+\hline
+电压部分 - 单元件容量 & 无 伏安 \\
+\hline
+电压部分 - 执行标准 & GB1207 - 1997、JJG313 - 1994 \\
+ \end{tabular}
+end of text
+                Done!
+========== processing DLMP319.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP319.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 内容 & 项目 & 内容 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号MODEL &  & 名义工况NORMAL COND & ℃ \\
+\hline
+额定电压VOLTAGE & 380V 三相 & 名义制冷量NORMAL CAP & kW \\
+\hline
+电机功率POWER & kW & 机组总重量WEIGHT & kg \\
+\hline
+产品编号PROD.NO &  & 制作日期PRODUCED IN & 年 月 \\
+\hline
+**生产公司** & **武汉新世界制冷工业有限公司 WUHAN - NEW WORLD REFRIGEBATION INDUSTRIAL CO.LT** &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP320.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP320.jpg:
+自动温控螺旋榨油机 产品型号 ZYXY120 - 主电机功率 11Kw 处理量 ≥6t/24h 温控功率 4.8Kw 主轴转速 32 - 38r/min 出厂日期 20 年 月 产品编号 中国 绵阳鑫宇公司宝川机器厂 ISO9001:2000国际质量认证企业 四川 产品型 ZYXY120 - 主电机功率 11Kw 失理量 ≥6t/24h 主轴转速 32 - 38r/min 出厂日期 2０ 年 月 产品编号 中国 绵阳鑫宇公司宝川机器厂ISO9001:2000国际质量认证企业 四川
+end of text
+                Done!
+========== processing DLMP321.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP321.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 低压抽出式开关柜 \\
+\hline
+符合标准 & GB7251.1 \\
+\hline
+额定电压 & 380 V \\
+\hline
+型号 & MDmax ST \\
+\hline
+额定电流 & 3200 A \\
+\hline
+防护等级 & IP40 \\
+\hline
+出厂日期 & 2013 - 09 \\
+\hline
+出厂编号 & 1 - 06 - 1 \\
+\hline
+生产公司 & 上海勇顺电气(集团)有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP322.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP322.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号(TYPE) &  \\
+\hline
+口径(CALIBER) &  \\
+\hline
+频率(FREQUENCY) & Hz V \\
+\hline
+年份(YEAR OF MFG) & 200 \\
+\hline
+最大流量(MAX CAP) & L/MIN \\
+\hline
+重量(WEIGHT) & Kg \\
+\hline
+最大扬程(MAX HEAD) & M \\
+\hline
+IP编号(IP CODE) &  \\
+\hline
+编号(S#) &  \\
+\hline
+制造号(SER. NO.) &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP323.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP323.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+产品型号 & KYN \\
+\hline
+标准编号 & GB 3906 IEC 298 \\
+\hline
+额定电压 & KV \\
+\hline
+额定电流 & A \\
+\hline
+额定短时耐受电流 & KA \\
+\hline
+额定峰值耐受电流 & KA \\
+\hline
+额定短路开断电流 & KA \\
+\hline
+防护等级 & IPX \\
+\hline
+出厂编号 &  \\
+\hline
+制造日期 & 年 月 \\
+\hline
+制造单位 & 福建省广正电力电气设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP324.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP324.jpg:
+分接  & 高压 &  & 产品型号 & 标准代号 \\
+\hline
+---- & ---- & ---- & ---- & ---- \\
+\hline
+位置 & 电压V & 电流A & 额定容量 & KVA & 产品代号 \\
+\hline
+1 &  &  &  &  &  \\
+\hline
+2 &  &  & 50Hz &  & 出厂序号 \\
+\hline
+3 &  &  &  &  &  \\
+\hline
+4 &  &  &  &  &  \\
+\hline
+5 &  &  &  &  &  \\
+\hline
+低压 &  &  & 冷却方式 & ONAN & 总重量 & kg \\
+\hline
+电压V & 电流A & 使用条件 & 户外 & 运输量 & kg \\
+\hline
+阻抗电压 & % &  & 绝缘水平 & AC /LI AC \\
+\hline
+浙江省江山市电炉变压器厂 &  &  & 年 & 月制造 \\
+\hline
+手机:13906701955 13506700700 &  &  &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP325.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP325.jpg:
+金属铠装中置式开关柜
+型号 & KYN28 \\
+\hline
+标准 & GB3906 \\
+\hline
+额定电压 & 6kV \\
+\hline
+额定电流 & 630A \\
+\hline
+额定短路开断电流 & 25KA \\
+\hline
+防护等级 & IP4X \\
+\hline
+出厂编号 & 2008030120 \\
+\hline
+出厂日期 & 2008年4月 \\
+\hline
+生产公司 & 青岛金科电气有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP326.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP326.jpg:
+\begin{tabular}{|c|c|c|}
+\hline
+名称 & 名称 & 名称 \\
+\hline
+---- & ---- & ---- \\
+\hline
+1# 高位油箱 & 1~3#机母联柜 & 电容补偿备用 \\
+\hline
+2# 高位油箱 & 站用配变柜 &  \\
+\hline
+10kv 进线总柜 & 检修电源箱 &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP327.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP327.jpg:
+故障复位
+2 #开卷送抬起 压下
+end of text
+                Done!
+========== processing DLMP328.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP328.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+型号 & ZUDZG - 15 - 3 \\
+\hline
+标准代号 & 冀Q1/JB \\
+\hline
+额定容量 & 15 仟伏安 \\
+\hline
+序号 & 无 \\
+\hline
+频率 & 50 赫兹 \\
+\hline
+设备种类 & 户内式 \\
+\hline
+相数 & 单相 \\
+\hline
+冷却方法 & 空气自冷 \\
+\hline
+初级额定电压 & 380 伏 \\
+\hline
+阻抗电压 & 无 \\
+\hline
+初级额定电流 & 39.5 安 \\
+\hline
+线圈温升 & 60℃ \\
+\hline
+次级额定电压 & 140 伏 \\
+\hline
+总重 & 无 \\
+\hline
+次级额定电流 & 107 安 \\
+\hline
+出厂 & 197 年 月 \\
+\hline
+细调/粗调 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\
+\hline
+1 & 51 & 52 & 53 & 54 & 55 & 56 & 57 & 58 & 59 & 60 \\
+\hline
+2 & 61 & 62 & 63 & 64 & 65 & 66 & 67 & 68 & 69 & 70 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP329.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP329.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 & S11 - M - 50/10 \\
+\hline
+符合标准 & GB/T 16434 \\
+\hline
+额定电压 & 10/0.4 kV \\
+\hline
+ & 高压 & 低压 \\
+\hline
+ & 电压V & 电流A & 电压V & 电流A \\
+\hline
+连接组别 & Dyn11 \\
+\hline
+ & 1 &  &  &  \\
+\hline
+额定容量 & 50kVA \\
+\hline
+ & 2 &  &  &  \\
+\hline
+额定频率 & 50Hz \\
+\hline
+相数 & 三相 \\
+\hline
+ & 3 &  &  &  \\
+\hline
+冷却方式 & ONAN \\
+\hline
+使用条件 & 户外 \\
+\hline
+ & 4 &  &  &  \\
+\hline
+绝缘水平 & LI20AC85/AC5 \\
+\hline
+ & 5 &  &  &  \\
+\hline
+出厂序号 & 18070132 \\
+\hline
+ & 短路阻抗 & % & 油重 & kg \\
+\hline
+制造日期 & 2018年 \\
+\hline
+ & 器身重 & kg & 总重 & kg \\
+\hline
+生产公司 & 河南森源电气股份有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP330.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP330.jpg:
+10kV 配电室
+\begin{tabular}{|c|c|}
+\hline
+序号 & 标识内容 \\
+\hline
+---- & ---- \\
+\hline
+1 & 国家电投 SPIC \\
+\hline
+2 & 10kV 配电室 \\
+\hline
+3 & 当心触电 \\
+\hline
+4 & 未经许可 禁止入内 \\
+\hline
+5 & 禁止烟火 \\
+\hline
+6 & 禁止吸烟 \\
+\hline
+7 & 必须戴安全帽 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP331.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP331.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 & YB□-12/0.4 \\
+\hline
+变压器流量 & KVA \\
+\hline
+额定电压 & 12/0.4KV \\
+\hline
+高压侧电流 & A \\
+\hline
+额定频率 & 50HZ \\
+\hline
+低压侧电流 & A \\
+\hline
+防护等级 & IP33D \\
+\hline
+出厂日期 & 年 月 \\
+\hline
+执行标准 & GB/T17467 \\
+\hline
+出厂编号 &  \\
+\hline
+生产公司 & 四川华瑞达电气有限公司 \\
+\hline
+订购热线 & 13410569877（微信同号） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP332.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP332.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+设备名称 & 设备编号 & 购买日期 & 责任部门 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+ & LF - GK - U005 &  & 生产部 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP333.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP333.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 详情 & 名称 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+产品型号 & GCK & 执行标准 & GB7251.1 \\
+\hline
+额定电压 & 380 V & 额定频率 & 50 Hz \\
+\hline
+额定电流 & A & 防护等级 & IP 30 \\
+\hline
+出厂编号 &  & 生产日期 & 201. \\
+\hline
+生产公司 & 广州永开电气科技有限公司 &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP334.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP334.jpg:
+\begin{tabular}{|c|}
+\hline
+标识内容 \\
+\hline
+www.ENVIROFIT.ORG EM1G085000 \\
+\hline
+电源指示 Power Indiator \\
+\hline
+停止按钮 \\
+\hline
+B - 018 \\
+\hline
+B22 \\
+\hline
+电源指示 \\
+\hline
+PLA 23325 MU \\
+\hline
+电源指示 \\
+\hline
+点 进 \\
+\hline
+液压站 停止 启动 \\
+\hline
+System Pressure 系统压力 \\
+\hline
+PA001 \\
+\hline
+021 - 69898845 \\
+\hline
+电源指示 \\
+\hline
+电源指示 \\
+\hline
+启 动 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP335.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP335.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息类别 & 详情 \\
+\hline
+产品型号 & S9 - M 800 / 6 \\
+\hline
+标准代号 & GB1094.1.2 - 1996 \\
+\hline
+额定容量 & 800 KVA \\
+\hline
+相关标准 & GB1094.3.5 - 2003 \\
+\hline
+额定电压 & 6000 ± 5% / 400 \\
+\hline
+相关标准 & GB/T6451 - 1999 \\
+\hline
+联接组标号 & Yyn0 3相50Hz \\
+\hline
+出厂序号 & 2703953 \\
+\hline
+冷却方式 & ONAN 户外 \\
+\hline
+分接 & 高压 & 低压 \\
+\hline
+ & 电压V & 电流A & 电压V & 电流A \\
+\hline
+短路阻抗 & 4.5% &  &  &  &  \\
+\hline
+器身吊重 & 1410 kg &  &  &  &  \\
+\hline
+油重 & 420 kg &  &  &  &  \\
+\hline
+总重 & 2295 kg &  &  &  &  \\
+\hline
+绝缘水平 & L1 75AC 35 / AC 5 &  &  &  &  \\
+\hline
+生产厂家 & 青州市电力变压器厂 &  &  &  &  \\
+\hline
+分接位置Ⅰ & 6300 &  & 400 &  &  \\
+\hline
+分接位置Ⅱ & 6000 & 77 & 400 & 1154.7 &  \\
+\hline
+分接位置Ⅲ & 5700 &  &  &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP336.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP336.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 粉料自动取样器 \\
+\hline
+英文名称 & Powder Auto - Sample Collector \\
+\hline
+专利号 & 201020164409.4 \\
+\hline
+型号 & CT - P/[部分信息模糊] \\
+\hline
+额定电压 & [具体数值模糊]V \\
+\hline
+额定电流 & [具体数值模糊]A \\
+\hline
+取样量 & [具体数值模糊]g/次 \\
+\hline
+产品编号 & [具体数值模糊] \\
+\hline
+制造日期 & 20[部分年份信息模糊]年[部分月份信息模糊]月 \\
+\hline
+制造商 & 襄阳中和机电技术有限公司（原襄阳大力机电技术有限公司） \\
+\hline
+英文制造商 & Xiangyang ZhongHe M&E Technology Co.,Ltd \\
+\hline
+网址 & Http://www.zhonghe99.com \\
+\hline
+电话 & 0086 - 710 - 3230182 \\
+\hline
+传真 & 0086 - 710 - 3275909 \\
+\hline
+产地 & 中华人民共和国制造 MADE IN CHINA \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP337.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP337.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 高压金属铠装移开式开关设备 \\
+\hline
+品牌 & 国网天和 \\
+\hline
+型号 & KYN28 - 12 \\
+\hline
+执行标准 & GB/T3906 - 2006 \\
+\hline
+额定电压 & 12 KV \\
+\hline
+工频耐压 & 42 KV \\
+\hline
+额定电流 & A \\
+\hline
+防护等级 & IP4X \\
+\hline
+短时耐受电流 & 25 KA 4 S \\
+\hline
+出厂编号 &  \\
+\hline
+出厂日期 &  \\
+\hline
+生产公司 & 河南国网天和电力设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP338.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP338.jpg:
+额定频率 50 Hz
+电压 & 380 V \\
+电压 & 660 V \\
+电压 & A（未填具体值） \\
+标准号 & （未填） \\
+防护等级 & （未填） \\
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP339.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP339.jpg:
+www.Cntrades.Com
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 数值 & 名称 & 数值 \\
+\hline
+型号Type & EZN2E030BSC & 扬程Head & 20 m \\
+\hline
+流量Flow & 20 m³/h & 转速Speed & 2880 rpm \\
+\hline
+功率Power & 3 kw & 日期Date & 2008.3 \\
+\hline
+编号Number & 080305 &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP340.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP340.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+设备名称 & 低压成套开关设备 \\
+\hline
+型号 & 无（空白） \\
+\hline
+额定电压 & 380 V \\
+\hline
+执行标准 & GB7251 - 12 \\
+\hline
+额定电流 & A \\
+\hline
+额定频率 & 50Hz \\
+\hline
+出厂编号 & 无（空白） \\
+\hline
+防护等级 & IP30 \\
+\hline
+生产厂家 & 贵州中通电气有限公司 \\
+\hline
+出厂日期 & 201 年 月（年份不完整） \\
+\hline
+标牌联系 & 远诚标牌 13958778642 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP341.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP341.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & S11 - 1600 \\
+\hline
+产品代号 &  \\
+\hline
+标准代号 & GB1094.1 - 5 - 96 \\
+\hline
+额定容量 & 1600kVA \\
+\hline
+联结组 & Yyn0 \\
+\hline
+阻抗电压 & % \\
+\hline
+三相 & 50Hz ONAN 户外使用 \\
+\hline
+开关位置 & 高压 V A  低压 V A \\
+\hline
+I & 10500 \\
+\hline
+II & 10000 9.24 400 230.9 \\
+\hline
+III & 9500 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP342.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP342.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+标准代号 & GB1094.1 - 2 - 1996、GB1094.3 - 2003、GB1094.5 - 2008 \\
+\hline
+产品型号 & S11 - M - □ \\
+\hline
+联结组标号 & Dyn11 \\
+\hline
+使用条件 & 户外式 \\
+\hline
+产品代号 & TKE 710 \\
+\hline
+冷却方式 & ONAN \\
+\hline
+额定频率 & 50Hz \\
+\hline
+绝缘水平 & LI 75 AC 35 / LI AC 3 相 \\
+\hline
+总重 & □kg \\
+\hline
+额定容量（KVA） & □ \\
+\hline
+分接开关位置 & 1、2、3 \\
+\hline
+高压电压（V） & 10500、10000 \\
+\hline
+高压电流（A） & □ \\
+\hline
+低压电压（V） & □ \\
+\hline
+低压电流（A） & □ \\
+\hline
+阻抗电压（%） & □ \\
+\hline
+制造厂 & 成都市温江区科尔电器制造厂 \\
+\hline
+出厂序号 & □ \\
+\hline
+出厂年月 & □年□月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP343.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP343.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 详情 & 名称 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & JY /22 & 电机功率 & 22kW \\
+\hline
+卷带宽度 & ≤mm & 电机电压 & / V \\
+\hline
+卷带直径 & ≤mm & 系统油压 & 16MPa \\
+\hline
+卷带重量 & ≤kg & 油箱容量 & 300L \\
+\hline
+卷带长度 & ≤100m & 安标证号 & / \\
+\hline
+出厂编号 & / & 出厂日期 & 年 月 \\
+\hline
+生产公司 & 淮北金力工贸有限责任公司 & / & / \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP344.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP344.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 内容 & 项目 & 内容 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & YB□ - 12 & 执行标准 & GB/17467 - 1998 \\
+\hline
+变压器额定容量 & KVA & 额定频率 & 50 HZ \\
+\hline
+额定电压 & KV & 额定电流 & A \\
+\hline
+最高工作电压 & 12 KV & 防护等级 & IP 33 \\
+\hline
+外形尺寸 &  & 总重量 & Kg \\
+\hline
+出厂编号 & HY & 出厂时间 & 200 年 月 \\
+\hline
+生产公司 & 深圳市华宇电气有限公司 & 电话 & 0755 - 29685801 \\
+\hline
+ & Shenzhen Huayu Electrical Co., Ltd & 传真 & 0755 - 29685802 \\
+\hline
+ &  & 网址 & yecp1688.cn.alibaba.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP345.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP345.jpg:
+\begin{tabular}{|c|c|}
+\hline
+信息分类 & 详情 \\
+\hline
+品牌标识 & ABB & cidu \\
+\hline
+产品名称 & 低压成套开关柜 \\
+\hline
+产品型号 & MNS-E \\
+\hline
+执行标准 & GB 7251.1-2005 \\
+\hline
+额定电压 & 未提及 \\
+\hline
+开关柜排列序号 & 未提及 \\
+\hline
+额定电流 & 未提及 \\
+\hline
+防护等级 & IP30 \\
+\hline
+频率 & 50HZ \\
+\hline
+出厂编号 & 未提及 \\
+\hline
+额定绝缘电压 & AC660V \\
+\hline
+出厂日期 & 未提及 \\
+\hline
+开关柜类型 & 未提及 \\
+\hline
+生产信息 & ABB授权生产，内蒙古西电电气股份有限公司 \\
+\hline
+服务热线 & 400 7212 111 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP346.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP346.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 &  \\
+\hline
+额定电压 & 380 V \\
+\hline
+额定绝缘电压 & 660 V \\
+\hline
+额定工作电流 & A \\
+\hline
+额定工作频率 & 50 Hz \\
+\hline
+出厂编号 &  \\
+\hline
+标准代 &  \\
+\hline
+水平母线额定 &  \\
+\hline
+额定短时耐受 &  \\
+\hline
+垂直母线额定 &  \\
+\hline
+防护等 &  \\
+\hline
+制造日 &  \\
+\hline
+联系人 & 杨碧玉 \\
+\hline
+电话 & 18059229324 \\
+\hline
+QQ & 898371232 \\
+\hline
+生产公司 & 安徽埃克森科技集团有限公司、北京供电福斯特开关设备有限 \\
+\hline
+网址 & china.makepolo.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP347.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP347.jpg:
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|C|}
+\hline
+容量kVA & 电压组合 &  &  & 联结组标号 & 空载电流% & 损耗（W） &  & 短路阻抗% & 重量 &  \\
+\hline
+---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\
+\hline
+ & 高压kV & 调压范围 & 低压kV &  &  & 空载（P0） & 负载（Pw）（75℃） &  & 油量kg & 总量kg \\
+\hline
+30 & 6<br>6.3<br>10<br>10.5<br>11 & ±5%或±2×2.5% & 0.4 & Yyn0或Dyn11 & 2.1 & 100 & 630/600 & 4.0 & 100 & 440 \\
+\hline
+50 &  &  &  & 2.0 & 130 & 910/870 &  & 105 & 460 \\
+\hline
+80 &  &  &  & 1.8 & 180 & 1310/1250 &  & 125 & 590 \\
+\hline
+100 &  &  &  & 1.6 & 200 & 1580/1500 &  & 150 & 670 \\
+\hline
+160 &  &  &  & 1.4 & 280 & 2310/2200 &  & 180 & 860 \\
+\hline
+200 &  &  &  & 1.3 & 340 & 2730/2600 &  & 200 & 980 \\
+\hline
+250 &  &  &  & 1.2 & 40
+end of text
+                Done!
+========== processing DLMP348.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP348.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & ZW8 - 12/630 - 20 \\
+\hline
+电流比 & 200/5、400/5、600/5 \\
+\hline
+额定电压 & 12 kV \\
+\hline
+分接头 & 200/5 \\
+\hline
+额定电流 & 630 A \\
+\hline
+额定短路开断电流 & 20 kA \\
+\hline
+额定雷电耐受电压 & 75/85 kV \\
+\hline
+额定工频耐受电压 & 42/48 kV \\
+\hline
+额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\
+\hline
+总重 & 135 kg \\
+\hline
+出厂编号 & 1410198 \\
+\hline
+出厂日期 & 2014年10月 \\
+\hline
+生产公司 & 西安泰开电力科技有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP349.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP349.jpg:
+型号 XL - 21 额定电流 160 A 额定电压 380V/220V 额定频率 50 Hz 防护等级 IP 执行标准 GB/7251.3 出产编号 出厂日期 2015.12.13 南京  环境科技有限公司 电话：
+end of text
+                Done!
+========== processing DLMP350.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP350.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品名称 & 金属铠装移开式中置高压开关柜 \\
+\hline
+型号 & KYN44 - 12（Z） \\
+\hline
+主电路方案号 & 无 \\
+\hline
+产品符合标准号 & GB3906 - 2006，DL/T404 - 2007 \\
+\hline
+额定电压 & 12 KV \\
+\hline
+额定电流 & 1250 A \\
+\hline
+额定短路开断电流 & 25 KA \\
+\hline
+额定关合电流 & 无 \\
+\hline
+额定短时耐受电流 & 25 KA \\
+\hline
+额定短路持续时间 & 4 S \\
+\hline
+额定峰值耐受电流 & 63 KA \\
+\hline
+设计等级 & 2 \\
+\hline
+防护等级 & IP3X \\
+\hline
+出厂日期 & 2010年03月 \\
+\hline
+出厂编号 & 无 \\
+\hline
+生产公司 & 长沙市美宇电器有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP351.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP351.jpg:
+\begin{tabular}{|c|c|}
+\hline
+类型 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+产品名称 & 低压固定式开关柜 \\
+\hline
+型号 & GGD \\
+\hline
+执行标准 & GB7251.12 \\
+\hline
+额定电压 & 380V \\
+\hline
+额定电流 & （未显示具体数值）A \\
+\hline
+额定频率 & 50HZ \\
+\hline
+出厂编号 & （未显示具体数值） \\
+\hline
+出厂日期 & （年、月未显示具体数值） \\
+\hline
+生产公司 & 濮阳市华海电器有限公司 \\
+\hline
+产品名称 & 低压固定式开关柜 \\
+\hline
+类型 & 低压固定式开关柜 \\
+\hline
+型号 & GGD \\
+\h标号 & GB7251.12 \\
+\hline
+额定电压 & 电压（未显示具体数值）A \\
+\hline
+额定电流 & （未显示具体数值） \\
+\hline
+出厂编号 & （未显示具体数值） \\
+\hline
+生产日期 & （年、月未显示具体数值） \\
+\hline
+生产公司 & 13705773818 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP352.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP352.jpg:
+公司名称 & 详情 & 项目 & 内容 \\
+\hline
+标准 & GB 7251.1 & 防护等级 & IP 65 \\
+\hline
+额定工作电压 & AC380V & 额定电流 & 63 A \\
+\hline
+额定频率 & 50Hz & 额定短时耐受电流 & 15 kA \\
+\hline
+生产日期 & 2013.04 & 出厂编号 &  \\
+\hline
+生产公司 & 厦门协成实业有限公司（XIAMEN XIECHENG INDUSTRY CO., LTD.） &  \\
+\hline
+联系电话 & 18059229327 &  &  \\
+\hline
+QQ & 710939438 &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP353.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP353.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+型號 &  \\
+\hline
+馬力 & AC3φ  ㄊㄊ \\
+\hline
+製造日期 & 年  月  日 \\
+\hline
+製造號碼 &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP354.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP354.jpg:
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+名称 & 详情 & 名称 & 详情 & 名称 \\
+\hline
+---- & ---- & ---- & ---- & ---- \\
+\hline
+产品代号 & 18HX.710.333 & 标准代号 & GB/T10228 - 2008 &  \\
+\hline
+型号 & SCB10 - 800/10 & 出厂序号 & 20140506 &  \\
+\hline
+额定容量 & 800 KVA & 绝缘水平 & LI75AC35/400 &  \\
+\hline
+额定电压 & 高压 & 10000 V & 绝缘耐 & 高压级 & 相数Hz \\
+\hline
+额定电压 & 低压 & 690 V & 热等级 & 低压级 & 冷却方式 \\
+\hline
+额定电流 & 高压 & 46.2 A & 联接组标号 & 使用条件户内式 &  \\
+\hline
+ & 低压 & 669.4 A & 短路阻抗 & 总重 Kg &  \\
+\hline
+高压分接联结 & 2 - 3 & 3 - 4 & 4 - 5 & 5 - Bai66 &  \\
+\hline
+高压分接电压(V) & 3500 & 10250 &  & jingyan.baidu.com &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP355.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP355.jpg:
+产品型号 & XM & 执行标准 & GB7251.3 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+额定电压 & 380 V & 额定频率 & 50 Hz \\
+\hline
+额定电流 & 25 A & 防护等级 & IP 30 \\
+\hline
+绝缘电压 & 500 V & 额定短时耐受电流 & 4KA \\
+\hline
+出厂编号 & C160514 & 出厂日期 & 2016年3月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP356.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP356.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & ZW8 - 12/630 - 20 \\
+\hline
+电流比 & 200/5、400/5、600/5 \\
+\hline
+额定电压 & 12 kV \\
+\hline
+分接头 & 200/5 \\
+\hline
+额定电流 & 630 A \\
+\hline
+额定短路开断电流 & 20 kA \\
+\hline
+额定雷电耐受电压 & 75/85 kV \\
+\hline
+额定工频耐受电压 & 42/48 kV \\
+\hline
+额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\
+\hline
+总重 & 135 kg \\
+\hline
+出厂编号 & 1410198 \\
+\hline
+出厂日期 & 2014年10月 \\
+\hline
+生产公司 & 西安泰开电力科技有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP357.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP357.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+项目 & 详情 & 项目 & 详情 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+产品型号 & VB2 & 出厂编号 & C100555 \\
+\hline
+product type &  & serial number &  \\
+\hline
+额定电压 & 12 kV & 电机电压 & -220 V \\
+\hline
+rated voltage(Ur) &  & motor voltage &  \\
+\hline
+额定电流 & 12.0 A & 合闸电压 & -220 V \\
+\hline
+rated normal current(Ir) &  & closing voltage &  \\
+\hline
+额定频率 & 50 Hz & 分励电压 & -220 V \\
+\hline
+rated frequency &  & opening voltage &  \\
+\hline
+额定短路开断电流 &  & 过流线圈电流 & A \\
+\hline
+rated short - circuit breaking current(lsc) &  & over-current coil current &  \\
+\hline
+额定热稳定时间 & 4 S & 重 量 & 196 kg \\
+\hline
+rated duration of short circuit(tk) &  & weight &  \\
+\hline
+标准雷电冲击耐压(峰值) & 75 kV & 出厂日期 & 2010 - 9 \\
+\hline
+rated lightning impulse withstand voltage(Uw) &  & manufactured date &  \\
+\hline
+参考标准 & GB1984 - 2003 &  &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP358.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP358.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+公司名称 & 重庆市亚东亚电气(集团)有限责任公司 \\
+\hline
+设备名称 & 高压成套开关设备 \\
+\hline
+产品型号 & 无 \\
+\hline
+符合标准 & GB3906 \\
+\hline
+额定电压 & 10 kV \\
+\hline
+额定电流 & 无 \\
+\hline
+额定动稳定电流 & 无 \\
+\hline
+额定热稳定电流 & 无 \\
+\hline
+防护等级IP & 无 \\
+\hline
+并列号 & 无 \\
+\hline
+出厂编号 & 无 \\
+\hline
+出厂日期 & 无 年 无 月 \\
+\hline
+电话 & 61717795 \\
+\hline
+传真 & 61717786 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP359.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP359.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+额定电压 Rated voltage & 126 kV & 出厂编号 Serial number & JH 17022101 \\
+\hline
+额定雷电冲击耐受电压 & 650 kV & 合闸和分闸装置的额定电压 &  \\
+\hline
+额定频率 & 50 Hz & Rated supply voltage of closing and opening devices & 220 VDC \\
+\hline
+额定电流 & 3150 A & 福助回路的额定电压 Rated supply voltage of auxiliary circuits & 220 VDC \\
+\hline
+额定短路持续时间 & 20 kA & 电机的额定电压 Rated supply voltage of capacity & 220 VDC \\
+\hline
+额定短路持续时间 & / & 40 kA &  \\
+\hline
+额定短路持续时间 & 30 kA & 电机的额定电压 Rated supply voltage of capacity & 2250 V \\
+\hline
+额定短路持续时间 & / & 1.5 & 六氟化硫气体重量 Mass of SF6 gas & 12 kg \\
+\hline
+首开根系数 & 50 A & 断路器重量 Mass of the circuit breaker & 1352 kg \\
+\hline
+额定线路充电开断电流 Rated line-charging breaking current & 0.3 - 3 - CO - 180s - CO & 0.6 MPa &  \\
+\hline
+额定操作顺序 Rated operating & 20℃, 1013hpa & 0.6 MPa &  \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP360.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP360.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 参数 \\
+\hline
+型号 & ZW7 - 40.5/1250A \\
+\hline
+配 & CT19BW型操动机构 \\
+\hline
+额定电压 & 40.5 KV \\
+\hline
+合闸电压 & 220 V \\
+\hline
+分闸电压 & 220 V \\
+\hline
+额定电流 & 1250 A \\
+\hline
+配电流互感器 & LZZBJ4 - 35 \\
+\hline
+额定频率 & 50 Hz \\
+\hline
+测量 & 3只 \\
+\hline
+保护 & 3只 \\
+\hline
+额定短路开断电流 & 31.5 KA \\
+\hline
+分接头 & S1 - S2、S1 - S3、S1 - S4 \\
+\hline
+额定短路持续时间 & 4 S \\
+\hline
+电流比 & 200/5、400/5、600/5 \\
+\hline
+额定操作顺序 & 分 - 0.3s - 合分 - 180s - 合分 \\
+\hline
+准确级 & 1S 0.2S级、2S 0.5级、3S 10P20级、4S 10P20级 \\
+\hline
+标准雷电冲击耐压(峰值) & 185 KV \\
+\hline
+重量 & 800 kg \\
+\hline
+出厂编号 & 21031102 \\
+\hline
+出厂日期 & 2021年3月 \\
+\hline
+生产公司 & 四川曙辰电气设备有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP361.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP361.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+型号 & JZW - 10型户外干式带操作电源电压互感器 \\
+\hline
+许可证号 & 量制湘字00000039号 \\
+\hline
+额定绝缘水平 & 12/42/75 kV \\
+\hline
+相数 & 单相 \\
+\hline
+额定频率 & 50Hz \\
+\hline
+装置类型 & 户外装置 \\
+\hline
+一次绕组额定电压 & A - B 10kV \\
+\hline
+测量绕组额定电压 & 1a - 1b 100V, 0.5级, 30VA \\
+\hline
+操作电源绕组额定电压 & 2a - 2b 220V, 极限输出1000VA \\
+\hline
+标准 & GB1207 - 2006《电磁式电压互感器》 \\
+\hline
+重量 & 50 kg \\
+\hline
+出厂序号 & 1J4 2084 \\
+\hline
+制造日期 & 2012年10月 \\
+\hline
+制造公司 & 中国 衡阳一互电气有限公司 \\
+\hline
+注意事项 & 运行时严禁二次短路！ \\
+\hline
+客服电话 & 0734 - 3131363 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP362.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP362.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & ZW32 - 12M/630 - 20 \\
+\hline
+额定开断电流 & 20 KA \\
+\hline
+生产公司 & 陕西长开电气有限公司 \\
+\hline
+额定电压 & 12 KV \\
+\hline
+分接头 & A - BA - CA - DA - E \\
+\hline
+额定电流 & 630 A \\
+\hline
+电流比 & 200 400 600 /5 \\
+\hline
+额定操作顺序 & 分 - 0.3S - 合分180S - 合分 \\
+\hline
+总重 & 110 kg \\
+\hline
+出厂编号 & 201506 \\
+\hline
+日期 & 2015年8月 \\
+\hline
+公司 & 陕西长开电气有限公司 \\
+\hline
+网址 & www.Cntrades.Com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP363.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP363.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+型号 & ZW32 - 12F/630 - 25 \\
+\hline
+额定电流 & 600A \\
+\hline
+额定电压 & 12kV \\
+\hline
+主母线额定电流 & 630A \\
+\hline
+额定开断电流 & 20kA \\
+\hline
+额定动稳定电流 & 25kA \\
+\hline
+4s热稳定电流 & 20kA \\
+\hline
+防护等级 & IP43 \\
+\hline
+出厂编号 & YC1800323·C \\
+\hline
+出厂日期 & 2018年8月 \\
+\hline
+生产公司 & 上海永册电气有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP364.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP364.jpg:
+\begin{tabular}{|c|c|c|c|}
+\hline
+名称 & 数值 & 名称 & 数值 \\
+\hline
+---- & ---- & ---- & ---- \\
+\hline
+型号 & （空白） & 频率 & 50Hz \\
+\hline
+风量 & （空白）m/h & 风压 & （空白）pa \\
+\hline
+转速 & （空白）r/min & 功率 & （空白）KW \\
+\hline
+介质温度 & ≤80℃ & 产品编号 & （空白） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP365.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP365.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+型号 & BDZ52 - 40/3XX \\
+\hline
+防爆标志 & ExdeIIBT6/DIPA20TA,T6 \\
+\hline
+额定电流 & 40 A \\
+\hline
+防爆合格证号 & 8100837 \\
+\hline
+额定电压 & 380 V \\
+\hline
+脱扣电流 & 40 A \\
+\hline
+生产时间 & 2015年11月 \\
+\hline
+生产厂家 & 新黎明科技股份有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP366.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP366.jpg:
+产品名称 & 详情 \\
+\hline
+产品名称 & 矿用隔爆型真空馈电开关 \\
+\hline
+型号 & KBZ - /1140 \\
+\hline
+防爆类型 & dI \\
+\hline
+额定电压 & （空白） \\
+\hline
+额定电流 & A \\
+\hline
+生产许可证号 & （空白） \\
+\hline
+重量 & （空白） \\
+\hline
+防爆合格证号 & （空白） \\
+\hline
+煤安标志证号 & （空白） \\
+\hline
+出厂编号 & （空白） \\
+\hline
+日期 & 20 年  月 \\
+\hline
+生产公司 & 涟源市湘源机电有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP367.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP367.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+产品型号 & S7 \\
+\hline
+标准代号 & GB1094.1 - 85 \\
+\hline
+额定容量 & 未识别 & KVA \\
+\hline
+产品代号 & HC.7100 \\
+\hline
+额定电压 & 10000±5%/400V \\
+\hline
+出厂序号 & 192888 \\
+\hline
+额定频率 & 50Hz 3相 \\
+\hline
+连接组标号 & Y,yn0 \\
+\hline
+开关位置 & 高压 & 低压 \\
+\hline
+ & V & A & V & A \\
+\hline
+冷却方式 & ONAN \\
+\hline
+ & I & 10500 &  &  &  \\
+\hline
+使用条件 & 户外式 \\
+\hline
+ & II & 10000 & 28.9 & 400 & 577.4 \\
+\hline
+ & III & 9500 &  &  &  \\
+\hline
+器身重量 & 未识别 & kg & 油重 & 235 & kg & 总重 & 1575 & kg \\
+\hline
+生产厂家 & 中华人民共和国 广州南洋威电器厂 \\
+\hline
+网址 & www.fengj.com \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP368.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP368.jpg:
+\begin{tabular}{|c|c|}
+\hline
+参数名称 & 参数值 \\
+\hline
+型号/Type & VS1(ZN63A) \\
+\hline
+频率/Frequency & 50 Hz \\
+\hline
+电压/Voltage & 12 kV \\
+\hline
+电流/Normal current & 630 A, 1250 A, 1600 A, 2000 A, 2500 A, 3150 A, 4000 A \\
+\hline
+短路开断电流/Short - circuit breaking current & 20 kA, 25 kA, 31.5 kA, 40 kA, 50 kA \\
+\hline
+短路持续时间/Duration of Short - circuit & 4 s \\
+\hline
+操作顺序/Operating sequence & O - 0.3s - CO - 180s - CO, O - 180s - CO - 180s - CO \\
+\hline
+操作电压/Operating voltage & AC, DC, 220 V, 110 V, 24 V \\
+\hline
+电机电压/Motor voltage & AC, DC, 220 V, 110 V, 324 V \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP369.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP369.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+型号 & HDSR - 150BDRZ \\
+\hline
+主轴转速 & 1620rpm \\
+\hline
+功率 & 4P - 55KW \\
+\hline
+流量 & 23m³/min \\
+\hline
+升压 & 78.4kPa \\
+\hline
+出厂日期 & 2018年08月07日 \\
+\hline
+风机编号 & 15031503030 \\
+\hline
+公司名称 & 山东华东风机有限公司 \\
+\hline
+电话 & 0086 - 531 - 83471388 83486808 \\
+\hline
+中文网址 & www.hdfj11.com \\
+\hline
+英文网址 & www.huadongblower.com \\
+\hline
+地址 & 山东·章丘市绣惠太平工业园 \\
+\hline
+品牌 & 鑫华东 \\
+\hline
+全称 & 罗茨鼓风机（真空泵）Roots Blower(Vacuum Pump) \\
+\hline
+服务热线 & 4008 - 797 - 786 \\
+\hline
+质量体系认证 & ISO9001 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP370.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP370.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+---- & ---- \\
+\hline
+名称 & 户外高压真空断路器 \\
+\hline
+型号 & ZW32 - 12/630 - 20 \\
+\hline
+雷电冲击耐压峰值 & 75KV \\
+\hline
+额定电压 & 12KV \\
+\hline
+额定电流 & 630A \\
+\hline
+出厂编号 & 无 \\
+\hline
+出厂日期 & 无 \\
+\hline
+生产公司 & 山东纵华智能电气有限公司 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP371.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP371.jpg:
+禁止攀爬的图示 禁止攀爬的图示
+中文警示语
+
+end of text
+                Done!
+========== processing DLMP372.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP372.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+标准编号 & Q/JBQC 60 \\
+\hline
+定额 & S1 \\
+\hline
+型号 & YTSP315M2 - 4 \\
+\hline
+标称功率 & 160kW \\
+\hline
+额定电压 & 380V \\
+\hline
+额定电流 & 280A \\
+\hline
+额定频率 & 50Hz \\
+\hline
+额定转矩 & 1018.5N·m \\
+\hline
+恒转矩范围 & 5 - 50Hz \\
+\hline
+恒功率范围 & 50 - 100Hz \\
+\hline
+绝缘等级 & F \\
+\hline
+极数 & 4 \\
+\hline
+接法 & △ \\
+\hline
+防护等级 & IP54 \\
+\hline
+重量 & 1095kg \\
+\hline
+产品编号 & 1GX8179 - 6 \\
+\hline
+出品日期 & 2014年2月 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP373.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP373.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+类型 & 三相异步电动机 \\
+\hline
+型号TYPE & Y355L2 - 4 \\
+\hline
+功率OUTPUT & 315 kW \\
+\hline
+电压VOLTAGE & 380 V \\
+\hline
+电流CURRENT & 555 A \\
+\hline
+绝缘INSULATION & F \\
+\hline
+功率因数P.F. & 0.87 \\
+\hline
+接法CONNECTION & △（W2 - U2 - V2，U1 - V1 - W1） \\
+\hline
+转速SPEED & 1490 r/min \\
+\hline
+频率 & 50 Hz \\
+\hline
+重量WEIGHT & 1650 kg \\
+\hline
+定额RATING & S1 \\
+\hline
+防护等级 & IP44 \\
+\hline
+出厂编号No. & 16 \\
+\hline
+标准STANDARD NO. & JB5274 - 1991 \\
+\hline
+日期DATE & 08年 月 \\
+\hline
+制造商 & 中国六安江淮电机有限公司（LUAN JIANGHUAI MOTOR CO., LTD, CHINA） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP374.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP374.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+型号 & Y80M2 - 4 \\
+\hline
+功率 & 0.75 kW \\
+\hline
+频率 & 50 Hz \\
+\hline
+电压 & 380 V \\
+\hline
+电流 & 2.0 A \\
+\hline
+效率 & 73.0% \\
+\hline
+功率因数 & 0.76 \\
+\hline
+绝缘等级 & B \\
+\hline
+接法 & Y \\
+\hline
+防护等级 & IP44 \\
+\hline
+转速 & 1390 r/min \\
+\hline
+重量 & 18 kg \\
+\hline
+出厂日期 & 09.10 \\
+\hline
+编号 & F04299X \\
+\hline
+生产厂家 & 江门市江晟电机厂有限公司 \\
+\hline
+英文名称 & 3 - PHASE INDUCTION MOTOR \\
+\hline
+认证 & CE、CCC \\
+\hline
+标准 & GB18613 - 2006 \\
+\hline
+接线端子 & W2 U2 V2<br>U1 V1 W1<br>W2 U2 V2<br>U1 V1 W1 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP375.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP375.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & Y112M - 4 \\
+\hline
+功率 & 4 kW \\
+\hline
+电压 & 380 V \\
+\hline
+电流 & 8.8 \\
+\hline
+转速 & 1440 r/min \\
+\hline
+噪声 & dB(A) \\
+\hline
+定额 & S1 \\
+\hline
+频率 & 50 Hz \\
+\hline
+接法 & W2 U2 V2<br>U1 V1 W1 \\
+\hline
+防护等级 & IP 44 \\
+\hline
+效率 & 84.5 % \\
+\hline
+重量 &  \\
+\hline
+绝缘 & B \\
+\hline
+功率因数 & 0.82 \\
+\hline
+出厂编号 &  \\
+\hline
+标准 & JB/T10391 - 2008 \\
+\hline
+日期 &  \\
+\hline
+制造单位 & 上海应发风机厂联合制造 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP376.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP376.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 内容 \\
+\hline
+型号 & Y132M - 4 \\
+\hline
+防护等级 & IP44 \\
+\hline
+噪声 & LW74dB(A) \\
+\hline
+接法 & △ \\
+\hline
+功率 & 7.5 KW \\
+\hline
+绝缘等级 & B级 \\
+\hline
+电流 & 15.8 A \\
+\hline
+转速 & 1440 r/min \\
+\hline
+频率 & 50Hz \\
+\hline
+工作制 & S1 \\
+\hline
+电压 & 380 V \\
+\hline
+标准 & JB/T10391 - 2002 \\
+\hline
+重量 & 201 年 月（此处“201 年 月”表述可能有误，推测是重量相关信息记录异常） \\
+\hline
+生产厂家 & 宇鹏建筑机械厂 \\
+\hline
+接线图 & W₂ U₂ V₂<br>O O O<br>O O O<br>U₁ V₁ W₁ \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP377.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP377.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+型号 & Y132S₂ - 2 \\
+\hline
+No. & 无 \\
+\hline
+功率 & 7.5kW \\
+\hline
+电压 & 380V \\
+\hline
+频率 & 50Hz \\
+\hline
+电流 & 11.1A \\
+\hline
+转速 & 2920r/min \\
+\hline
+效率 & 85.5% \\
+\hline
+功率因数 & COSφ0.88 \\
+\hline
+接线方法 & △ \\
+\hline
+绝缘等级 & B \\
+\hline
+能效等级 & 3 \\
+\hline
+防护等级 & IP44 \\
+\hline
+重量 & 64kg \\
+\hline
+执行标准 & JB/T10391 - 2008 \\
+\hline
+出厂日期 & 无 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP378.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP378.jpg:
+\begin{tabular}{|c|c|}
+\hline
+名称 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+类型 & 三相异步电动机 \\
+\hline
+品牌 & 安特（ANTE） \\
+\hline
+型号 & Y \\
+\hline
+功率单位 & kW \\
+\hline
+编号 & 无 \\
+\hline
+电流单位 & A \\
+\hline
+绝缘 & B \\
+\hline
+防护等级 & IP44 \\
+\hline
+效率单位 & % \\
+\hline
+电压 & 380 V \\
+\hline
+接法 & W2、U2、V2；U1、V1、W1（△接法图示） \\
+\hline
+转速单位 & r/min \\
+\hline
+能效等级 & 无 \\
+\hline
+噪声单位 & dB(A) \\
+\hline
+工作制 & S1 \\
+\hline
+频率 & 50 Hz \\
+\hline
+功率因数 & 无 \\
+\hline
+重量单位 & kg \\
+\hline
+标准 & JB/T10391 - 2008 \\
+\hline
+日期 & 201 年 月（年份不完整） \\
+\hline
+生产公司 & 安徽安达电机有限公司（ANHUIANDAJIDIANYOUXIANGONGSI） \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP379.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP379.jpg:
+\begin{tabular}{|c|c|}
+\hline
+项目 & 详情 \\
+\hline
+---- & ---- \\
+\hline
+品牌 & SUNWORLD \\
+\hline
+产品名称 & 电流互感器 \\
+\hline
+型号 & LMZ1 - 0.5 \\
+\hline
+编号 & 2753 \\
+\hline
+电流比 & 100/5 \\
+\hline
+最高电压 & 0.72 kV \\
+\hline
+标准 & GB1208 - 1997 \\
+\hline
+准确度 & 0.5 级 \\
+\hline
+负载 & 0.15Ω 0.2Ω 50Hz \\
+\hline
+制造时间 & 2005 年□月 \\
+\hline
+一次电流(A) & 200、100、50、40、20 \\
+\hline
+一次圈绕匝数 & 1、2、4、5、10 \\
+\hline
+生产厂家 & 新华集团 新华互感器厂 \\
+\hline
+\end{tabular}
+end of text
+                Done!
+========== processing DLMP380.jpg ============:
+        generating input tensor……               Done!
+Result for DLMP380.jpg:
+Traceback (most recent call last):
+  File "/root/autodl-tmp/GOT-DLMP/main.py", line 149, in <module>
+    json.dump(result, f,indent=4,ensure_ascii=False)
+  File "/root/miniconda3/lib/python3.10/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 35-36: ordinal not in range(128)
+root@autodl-container-c0824ebb6e-4ee69bbb:~/autodl-tmp/GOT-DLMP#

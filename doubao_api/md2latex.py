@@ -1,3 +1,14 @@
+def template(info):
+    response, image_path = info
+    return {"image": image_path,
+            "conversations": [
+                {"from": "human",
+                 "value": "<image>\nOCR_DLMP:"},
+                {"from": "gpt",
+                 "value": response}
+            ]}
+
+
 def md_to_latex_table(md_table):
     lines = md_table.strip().split('\n')
     # 移除表头分隔线
@@ -17,15 +28,7 @@ def md_to_latex_table(md_table):
 
     latex_table += "\\end{tabular}"
     return latex_table
-def template(info):
-    response,image_path = info
-    return {"image": image_path,
-            "conversations":[
-                {"from":"human",
-                 "value":"<image>\nOCR_DLMP:"},
-                {"from":"gpt",
-                 "value":response}
-            ]}
+
 if __name__ == '__main__':
 
     # 示例 Markdown 表格

@@ -40,7 +40,7 @@ DEFAULT_IM_START_TOKEN = '<img>'
 DEFAULT_IM_END_TOKEN = '</img>'
 disable_torch_init()
 
-model_name = "GOT_weights/"
+model_name = "results/dlmp/checkpoint-3480"
 
 print(f'loading model……',end='')
 model_name = os.path.expanduser(model_name)
@@ -140,7 +140,7 @@ def eval_model(image_folder,template="mpt"):
 #%%
 
 
-image_folder = "datasets/DLMP/org_imgs/"    # 直接设置图片文件夹路径
+image_folder = "datasets/DLMP_got/org_imgs/"    # 直接设置图片文件夹路径
 
 result = eval_model(image_folder,template='mpt')
 

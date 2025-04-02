@@ -16,12 +16,11 @@ try:
 except:
     pass
 new_label_path = '../../../result.json'
-# 设置编码格式
-new_label_path = '../../../result.json'
+# new_label_path = '../../../results/result-plaintext.json'
 new_labels = json.load(open(new_label_path, encoding='utf-8', errors='ignore'))
 
-similarity_df = pd.read_csv('similarity.csv',encoding='utf-8')
-# similarity_df = []
+# similarity_df = pd.read_csv('similarity.csv',encoding='utf-8')
+similarity_df = []
 for similarity_method in [0,1]:
     if not isinstance(similarity_df,pd.DataFrame):
         similarities= []
@@ -31,6 +30,11 @@ for similarity_method in [0,1]:
             img_txt_lines = [line.split(',')[-1].replace('\n','') for line in img_txt_file.readlines()]
             new_img_name = f'DLMP{int(img_n):03d}.jpg'
             new_label = new_labels[new_img_name]
+            # 去除LaTeX代码，保留纯文本
+            new_label = ' '.join([word for word in new_label.split()
+                                if not word.startswith('\\') and
+                                not any(c in word for c in ['{','}','$','_','^'])])
+            new_label = new_label.replace('&','').replace('----','')
             old_label = ''.join(img_txt_lines)
             # 新增相似度比较
             if similarity_method == 0:
