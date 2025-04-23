@@ -1,5 +1,8 @@
 import json
 import os
+
+from PIL.Image import Image
+
 try:
     os.chdir('./doubao_api')
 except:
@@ -20,9 +23,13 @@ client = Ark(
 )
 # 定义方法将指定路径图片转为Base64编码
 def encode_image(image_path):
-  with open(image_path, "rb") as image_file:
-    return base64.b64encode(image_file.read()).decode('utf-8')
-image_folder = "./org_imgs/"
+    with open(image_path, "rb") as image_file:
+      # 判断image_file 的像素大小，如过大（超过2000*2000），则等比缩放，使最大边为2000
+      if image_file.size > 2000*2000:
+          image_file = Image.open(image_path)
+          image_file.thumbnail((2000, 2000))
+          image_file.save(image_path)
+image_folder = "./eval_imgs/"
 for file in tqdm(os.listdir(image_folder)):
     if not file.endswith(".jpg"):
         continue

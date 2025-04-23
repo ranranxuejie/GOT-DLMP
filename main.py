@@ -40,8 +40,8 @@ DEFAULT_IM_START_TOKEN = '<img>'
 DEFAULT_IM_END_TOKEN = '</img>'
 disable_torch_init()
 
-model_name = "results/dlmp/checkpoint-3480"
-
+# model_name = "results/dlmp/checkpoint-8000-encoder"
+model_name = "GOT_weights"
 print(f'loading model……',end='')
 model_name = os.path.expanduser(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
@@ -57,7 +57,7 @@ def eval_model(image_folder,template="mpt"):
         image_processor = BlipImageEvalProcessor(image_size=1024)
         image_processor_high = BlipImageEvalProcessor(image_size=1024)
         # 固定提示词
-        qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * 256 + DEFAULT_IM_END_TOKEN + '\nOCR: '# with format
+        qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_PATCH_TOKEN * 256 + DEFAULT_IM_END_TOKEN + '\nOCR with format: '# with format
         # 对话模板
         conv = conv_templates[template].copy()
         conv.append_message(conv.roles[0], qs)
@@ -75,11 +75,11 @@ def eval_model(image_folder,template="mpt"):
             return
         # 获取并处理所有图片
         image_files = glob.glob(os.path.join(image_folder, "*.jpg"))  # 添加通配符匹配
-        try:
-            with open('result.json','r') as f:
-                result_text = json.load(f)
-        except:
-            result_text = {}
+        # try:
+        #     with open('result.json','r') as f:
+        #         result_text = json.load(f)
+        # except:
+        result_text = {}
         for img_path in natsorted(image_files):  # 保持自然排序
             img_name = os.path.basename(img_path)
             if img_name in result_text:
@@ -132,20 +132,20 @@ def eval_model(image_folder,template="mpt"):
     finally:
         # 按照键值排序
         result_text = dict(sorted(result_text.items()))
-        with open('result.json','w') as f:
-            json.dump(result_text, f,indent=4)
+        # with open('result.json','w') as f:
+        #     json.dump(result_text, f,indent=4)
 
         return result_text
 
 #%%
 
 
-image_folder = "datasets/DLMP_got/org_imgs/"    # 直接设置图片文件夹路径
+image_folder = "datasets/eval_imgs/"    # 直接设置图片文件夹路径
 
 result = eval_model(image_folder,template='mpt')
 
 # 将字典result保存为json文件
-with open('result.json', 'w') as f:
+with open(f'result_{model_name.split("/")[-1]}.json', 'w') as f:
     json.dump(result, f,indent=4,ensure_ascii=False)
 
 # with open('result.json', 'r') as f:
