@@ -14,6 +14,7 @@ from GOT.model import *
 from GOT.utils.utils import KeywordsStoppingCriteria
 from PIL import Image
 import os
+os.chdir('/mnt/d/PycharmProjects/2024B/GOT-DLMP/')
 import requests
 from PIL import Image
 from io import BytesIO
@@ -22,11 +23,13 @@ from transformers import TextStreamer
 from natsort import natsorted
 import glob
 
-# model_name = "results/dlmp/checkpoint-8000-encoder"
-model_name = "GOT_weights"
+save_json_path = '../../2025A/new_vue/vue-element-admin/datasets/result.json'
+# 使用解析后的参数
+image_folder = '../../2025A/new_vue/vue-element-admin/datasets/backlog'
+model_name = "results/dlmp/checkpoint-8000-encoder"
+# model_name = "GOT_weights"
 # model_name = "results/dlmp-encoder"
 # image_folder = "datasets/DLMP_got/org_imgs/"    # 直接设置图片文件夹路径
-image_folder = "datasets/eval_imgs/"    # 直接设置图片文件夹路径
 dataset_name = image_folder.split('/')
 dataset_name = dataset_name[-2] if dataset_name[-1] == '' else dataset_name[-1]
 #
@@ -79,11 +82,11 @@ def eval_model(image_folder,template="mpt"):
             return
         # 获取并处理所有图片
         image_files = glob.glob(os.path.join(image_folder, "*.jpg"))  # 添加通配符匹配
-        # try:
-        #     with open('result.json','r') as f:
-        #         result_text = json.load(f)
-        # except:
-        result_text = {}
+        try:
+            with open(save_json_path,'r') as f:
+                result_text = json.load(f)
+        except:
+            result_text = {}
         for img_path in natsorted(image_files):  # 保持自然排序
             img_name = os.path.basename(img_path)
             if img_name in result_text:
@@ -91,8 +94,6 @@ def eval_model(image_folder,template="mpt"):
                 continue
             print(f'========== processing {img_name} ============:')
             print('\tgenerating input tensor……',end='')
-
-
 
             # 单图处理流程
             image = load_image(img_path)
@@ -147,7 +148,7 @@ def eval_model(image_folder,template="mpt"):
 result = eval_model(image_folder,template='mpt')
 
 # 将字典result保存为json文件
-with open(f'result_{model_name.split("/")[-1]}_{dataset_name}.json', 'w') as f:
+with open(f'{save_json_path}', 'w') as f:
     json.dump(result, f,indent=4,ensure_ascii=False)
 
 # with open('result.json', 'r') as f:

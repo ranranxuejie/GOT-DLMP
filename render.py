@@ -2,11 +2,13 @@ from markdown import markdown
 import datetime
 import imgkit
 import json
-result = json.load(open('./GOT/eval/result_checkpoint-8000-encoder.json', encoding='utf-8'))
-
-current_time = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 import os
-os.environ["PATH"] += "C:\Program Files\wkhtmltopdf\\bin"
+os.chdir('D:/PycharmProjects/2024B/GOT-DLMP')
+os.environ["PATH"] += "C:/Program Files/wkhtmltopdf/bin"
+# result = json.load(open('./GOT/eval/result_checkpoint-8000-encoder.json', encoding='utf-8'))
+result = json.load(open('../../2025A/new_vue/vue-element-admin/datasets/result.json', encoding='utf-8'))
+save_folder = '../../2025A/new_vue/vue-element-admin/datasets/html'
+current_time = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
 def latex_table_to_markdown(latex_table):
     """
@@ -88,6 +90,6 @@ for img_name,outputs in result.items():
         markdown_table = latex_table_to_markdown(outputs)
         html_content = md2html(markdown_table)
         # 保存为HTML文件
-        os.makedirs(f'./results/html/{current_time}',exist_ok=True)
-        with open(f'./results/html/{current_time}/{img_name}.html', 'w', encoding='GB18030') as f:
+        os.makedirs(f'{save_folder}',exist_ok=True)
+        with open(f'{save_folder}/{img_name.split('.')[0]}.html', 'w', encoding='GB18030') as f:
             f.write(html_content)

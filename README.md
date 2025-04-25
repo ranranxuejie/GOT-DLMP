@@ -169,29 +169,28 @@ The rendering results can be found in /results/demo.html. Please open the demo.h
 
 ```Shell
 deepspeed   GOT/train/train_GOT.py \
- --deepspeed zero_config/zero2.json    --model_name_or_path stepfun-ai/GOT-OCR2_0 \
+ --deepspeed zero_config/zero2.json    --model_name_or_path GOT_weights/ \
  --use_im_start_end True   \
  --bf16 True   \
- --gradient_checkpointing True \
- --gradient_accumulation_steps 4    \
+ --gradient_accumulation_steps 2    \
  --evaluation_strategy "no"   \
  --save_strategy "steps"  \
- --save_steps 20   \
+ --save_steps 1000   \
  --save_total_limit 1   \
  --weight_decay 0.    \
  --warmup_ratio 0.001     \
  --lr_scheduler_type "cosine"    \
  --logging_steps 1    \
  --tf32 True     \
- --model_max_length 8192    \
+ --model_max_length 4096    \
  --gradient_checkpointing True   \
  --dataloader_num_workers 16    \
  --report_to none  \
- --per_device_train_batch_size 1    \
- --num_train_epochs 10  \
+ --per_device_train_batch_size 8    \
+ --num_train_epochs 21  \
  --learning_rate 2e-5   \
  --datasets dlmp \
- --output_dir results/dlmp
+ --output_dir results/dlmp-encoder
 ```
 
 **Note**:
@@ -205,13 +204,13 @@ Quick Fine-tune with ms-swift:
 
 ```Shell
 git clone https://github.com/modelscope/ms-swift.git
-cd ms-swift-2.5.0
+cd ms-swift
 pip install -e .[llm]
 ```
 
 ```Shell
 # default：sft LLM & projector, freeze vision encoder
-swift sft --model_type got-ocr2 --model_id_or_path ./GOT_weights --sft_type lora --dataset ./datasets/DLMP_got/DLMP_got_lora.jsonl
+swift sft --model_type got-ocr2 --model_id_or_path ./GOT_weights --sft_type lora --dataset dlmp
 
 # Deepspeed ZeRO2
 NPROC_PER_NODE=4 \
