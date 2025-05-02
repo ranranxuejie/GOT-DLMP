@@ -1,8 +1,7 @@
 import json
 import os
-
-from PIL.Image import Image
-
+from PIL import Image
+import io
 try:
     os.chdir('./doubao_api')
 except:
@@ -11,6 +10,8 @@ from volcenginesdkarkruntime import Ark
 import base64
 from tqdm import tqdm
 from md2latex import md_to_latex_table,template
+
+image_folder = "./val_imgs/"
 
 finished_list = [file.split('.')[0]+".jpg" for file in os.listdir('./latex')]
 # 请确保您已将 API Key 存储在环境变量 ARK_API_KEY 中
@@ -22,14 +23,21 @@ client = Ark(
     api_key="fc4479b9-0f72-43b4-8b87-a72dfb07cd0b",
 )
 # 定义方法将指定路径图片转为Base64编码
+
+
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
-      # 判断image_file 的像素大小，如过大（超过2000*2000），则等比缩放，使最大边为2000
-      if image_file.size > 2000*2000:
-          image_file = Image.open(image_path)
-          image_file.thumbnail((2000, 2000))
-          image_file.save(image_path)
-image_folder = "./eval_imgs/"
+        img_data = image_file.read()
+        # 强制转换为RGB格式的JPEG图片
+        img = Image.open(io.BytesIO(img_data))
+        if img.mode in ('RGBA', 'P'):
+            img = img.convert('RGB')
+        # 统一保存为JPEG格式
+        buffer = io.BytesIO()
+        img.save(buffer, format='JPEG', quality=85)
+        img_data = buffer.getvalue()
+        return base64.b64encode(img_data).decode('utf-8')
+
 for file in tqdm(os.listdir(image_folder)):
     if not file.endswith(".jpg"):
         continue
@@ -50,7 +58,7 @@ for file in tqdm(os.listdir(image_folder)):
                 {
                     "role": "user",
                     "content": [
-                        {"type": "text", "text": "提取表格，并仅仅识别表格内容，不要输出其他内容（包括“未识别”、“无法识别”等）："},
+                        {"type": "text", "text": "请仔细识别以下表格文本，注意准确分辨行列结构、各单元格的内容，包括数字、文字、特殊符号等。对于模糊或难以辨认的部分，请基于上下文合理推断。确保输出的识别结果格式清晰、内容完整且准确无误，若有表头，需准确提取表头信息。请注意识别表格上方的设备名称，并将其放在输出的表格内。"},
                         {
                             "type": "image_url",
                             "image_url": {

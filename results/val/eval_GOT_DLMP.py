@@ -3,6 +3,8 @@ import os
 
 # from doctextVQAeval import VQAEval
 import nltk
+from tqdm import tqdm
+
 nltk.download('wordnet')
 import argparse
 # import fitz as pymupdf
@@ -20,13 +22,11 @@ from nltk.translate import meteor_score
 
 # from marker_scoring import score_text
 # from utils import contain_chinese_string
-
-gt_path = './eval.json'
-# out_path = './result_checkpoint-8000-encoder.json'
-# out_path = './result_GOT_weights.json'
-# save_csv_path = './org_result'
-out_path = './result_dlmp-encoder_eval_imgs.json'
-save_csv_path = './train_result_encoder'
+import os
+k=512
+gt_path = 'gt.json'
+out_path = f'val_{k}.json'
+save_csv_path = f'svd_{k}'
 def preprocess(text, predict_root_):
     if 'InternVL' in predict_root_:
         text = text.split("All words in the image:\n")[1]
@@ -198,9 +198,7 @@ def doc_formated_text_eval():
 
     print(json.dumps(mean_dict, indent=4))
     math_results = pd.DataFrame(math_results)
-    # math_results['img_name'] = img_name
     table_results = pd.DataFrame(table_results)
-    # table_results['img_name'] = img_name
     text_results = pd.DataFrame(text_results)
     text_results['img_name'] = img_name
     result_path = save_csv_path

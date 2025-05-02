@@ -2,6 +2,9 @@
 import glob  # 添加文件遍历功能
 import argparse
 import json
+import pickle
+
+# from flash_attn import flash_attn_qkvpacked_func  # 添加flash attention导入
 from transformers import TextStreamer
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -9,10 +12,10 @@ import torch
 import os
 from GOT.utils.conversation import conv_templates, SeparatorStyle
 from GOT.utils.utils import disable_torch_init
-from transformers import CLIPVisionModel, CLIPImageProcessor, StoppingCriteria
+# from transformers import CLIPVisionModel, CLIPImageProcessor, StoppingCriteria
 from GOT.model import *
 from GOT.utils.utils import KeywordsStoppingCriteria
-from PIL import Image
+# from PIL import Image
 import os
 os.chdir('/mnt/d/PycharmProjects/2024B/GOT-DLMP/')
 import requests
@@ -23,16 +26,18 @@ from transformers import TextStreamer
 from natsort import natsorted
 import glob
 
+use_result = False
 save_json_path = '../../2025A/new_vue/vue-element-admin/datasets/result.json'
 # 使用解析后的参数
 image_folder = '../../2025A/new_vue/vue-element-admin/datasets/backlog'
 model_name = "results/dlmp/checkpoint-8000-encoder"
+# model_name = "results/dlmp/checkpoint-8000-encoder-int8"
 # model_name = "GOT_weights"
 # model_name = "results/dlmp-encoder"
 # image_folder = "datasets/DLMP_got/org_imgs/"    # 直接设置图片文件夹路径
 dataset_name = image_folder.split('/')
 dataset_name = dataset_name[-2] if dataset_name[-1] == '' else dataset_name[-1]
-#
+
 def load_image(image_file):
     if image_file.startswith('http') or image_file.startswith('https'):
         response = requests.get(image_file)
@@ -41,23 +46,23 @@ def load_image(image_file):
         image = Image.open(image_file).convert('RGB')
     return image
 
-
 DEFAULT_IMAGE_TOKEN = "<image>"
 DEFAULT_IMAGE_PATCH_TOKEN = '<imgpad>'
 DEFAULT_IM_START_TOKEN = '<img>'
 DEFAULT_IM_END_TOKEN = '</img>'
 disable_torch_init()
 
-
 print(f'loading model……',end='')
 model_name = os.path.expanduser(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
-model = GOTQwenForCausalLM.from_pretrained(model_name, low_cpu_mem_usage=True,
-                                           device_map='cuda', use_safetensors=True, pad_token_id=151643).eval()
+model = GOTQwenForCausalLM.from_pretrained(model_name,
+       low_cpu_mem_usage=True,
+       device_map='auto', use_safetensors=True,
+       pad_token_id=151643,
+        ).eval()
 model.to(device='cuda', dtype=torch.bfloat16)
 print('\t\tDone!')
-
-
+#%%
 def eval_model(image_folder,template="mpt"):
     try:
         # 图像处理器初始化
@@ -85,6 +90,8 @@ def eval_model(image_folder,template="mpt"):
         try:
             with open(save_json_path,'r') as f:
                 result_text = json.load(f)
+            if not use_result:
+                result_text = {}
         except:
             result_text = {}
         for img_path in natsorted(image_files):  # 保持自然排序
@@ -137,19 +144,12 @@ def eval_model(image_folder,template="mpt"):
     finally:
         # 按照键值排序
         result_text = dict(sorted(result_text.items()))
-        # with open('result.json','w') as f:
-        #     json.dump(result_text, f,indent=4)
-
         return result_text
 
 #%%
-
-
 result = eval_model(image_folder,template='mpt')
-
 # 将字典result保存为json文件
 with open(f'{save_json_path}', 'w') as f:
     json.dump(result, f,indent=4,ensure_ascii=False)
-
 # with open('result.json', 'r') as f:
 #     result_text = json.load(f)

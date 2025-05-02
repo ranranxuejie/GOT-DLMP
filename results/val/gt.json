@@ -1,0 +1,2030 @@
+[
+    {
+        "image": "val001.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 船用充电电源 Marine Charging Power \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 Model & CDHD- \\\\\n\\hline\n编号 Serial Number &  \\\\\n\\hline\n输入电压 Input Voltage & V \\\\\n\\hline\n输出电压 Output Voltage & V \\\\\n\\hline\n输出电流 Output Current & A \\\\\n\\hline\n出厂日期 Date &  \\\\\n\\hline\n生产公司 & 武汉航达电源科技有限公司 Wuhan Hangda Electrical Source Technological Co.,Ltd. \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val002.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 宽频三相异步电动机 \\\\\n\\hline\n品牌 & LEADGO \\\\\n\\hline\n接法 & W2 U2 V2<br>△ U1 V1 W1<br>W2 U2 V2<br>Y U1 V1 W1 \\\\\n\\hline\n型号 & YP2 - 160L - 6 \\\\\n\\hline\n编号 & 11811 \\\\\n\\hline\n功率 & 11 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n电流 & 24.4 A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n噪声 & 73 dB(A) \\\\\n\\hline\n效率 & 88.7% \\\\\n\\hline\n变转矩频率 & 30 - 50 Hz \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n转速 & 965 r/min \\\\\n\\hline\n恒功率频率 & 50 - 60 Hz \\\\\n\\hline\n防护等级 & IP54 \\\\\n\\hline\n标准编号 & Q/1083 SLJ 011 - 2015 \\\\\n\\hline\n重量 & kg \\\\\n\\hline\n生产日期 & 2016 07 \\\\\n\\hline\n生产厂家 & 山东力久特种电机股份有限公司 \\\\\n\\hline\n地址 & 乳山市山海大道22号 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val003.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n品牌 & 福田牌 \\\\\n\\hline\n型号 & BJ6438M16VA - PX \\\\\n\\hline\n总质量 & 1845 Kg \\\\\n\\hline\n乘坐人数 & 7 人 \\\\\n\\hline\n发动机型号 & 4G18S \\\\\n\\hline\n额定功率 & 74 Kw \\\\\n\\hline\n排量 & 1584 ml \\\\\n\\hline\n最大设计牵引质量 & 无 \\\\\n\\hline\n制造日期 & 2010 年 01 月 13 日 \\\\\n\\hline\nVIN & ☆LVCF2GVADAA101195☆ \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val004.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类型 & 详情 \\\\\n\\hline\n制造商 & 中国.重庆长安铃木汽车有限公司 \\\\\n\\hline\n车辆识别代号 & LS5A3ABD7AB158999 \\\\\n\\hline\n品牌 & 长安牌 \\\\\n\\hline\n型号 & SC7103 \\\\\n\\hline\n总质量 & 1265kg \\\\\n\\hline\n发动机型号 & K10B \\\\\n\\hline\n乘员数 & 5 \\\\\n\\hline\n额定功率 & 52kw \\\\\n\\hline\n制造年月 & 2010/11/03 \\\\\n\\hline\n发动机排量 & 0.996L \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val005.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电梯曳引机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & YJ \\\\\n\\hline\n额定速度 & M/S \\\\\n\\hline\n额定载重 & kg \\\\\n\\hline\n绳轮节径 & φmm \\\\\n\\hline\n钢丝绳直径 & φmm \\\\\n\\hline\n曳引方式 &  \\\\\n\\hline\n速比 &  \\\\\n\\hline\n曳引机净重 & kg \\\\\n\\hline\n电机功率 & kW \\\\\n\\hline\n标准编号 & GB/T13435 \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n出厂日期 &  \\\\\n\\hline\n制造公司 & 广东省南海市三美电梯有限公司 \\\\\n\\hline\n监制 & 海日电梯 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val006.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & SDEE 地下式变压器 DistributionTransformer \\\\\n\\hline\n产品型号 & SB14 - MD - 800/10 \\\\\n\\hline\n标准代号 & GB1094.1 - 2 - 2013, GB1094.3 - 2017, GB1094.5 - 2008 \\\\\n\\hline\n额定容量 & 800 kVA \\\\\n\\hline\n产品代号 & 1ZN.710.0813.1 \\\\\n\\hline\n额定电压 & 10000±2×2.5%/400V \\\\\n\\hline\n出厂序号 & N1905057 - 49 \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n联结组标号 & Dyn11 \\\\\n\\hline\n使用条件 & 户外 Out Door \\\\\n\\hline\n短路阻抗 & 4.69 % \\\\\n\\hline\n器身吊重 & 1750 kg \\\\\n\\hline\n油重 & 385 kg \\\\\n\\hline\n总重 & 2620 kg \\\\\n\\hline\n生产日期 & 2019年8月 \\\\\n\\hline\n开关位置 & 高压 H.V.，低压 L.V. \\\\\n\\hline\n & 电压,V Voltage，电流,A Current，电压,V Voltage，电流,A Current \\\\\n\\hline\n1 & 10500 \\\\\n\\hline\n2 & 10250 \\\\\n\\hline\n3 & 10000，46.2，400，1154.7 \\\\\n\\hline\n4 & 9750 \\\\\n\\hline\n5 & 9500 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val007.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n标准代号 & GB1094.1;2-1996<br>GB1094.3;5-2003 \\\\\n\\hline\n型号 &  \\\\\n\\hline\n产品代号 & 1TF.710. \\\\\n\\hline\n额定容量 & KVA \\\\\n\\hline\n相数 & 3相 \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n联结组标号 &  \\\\\n\\hline\n分接位置 & 电压（V） & 电流（A） \\\\\n\\hline\n & 高压 & 低压 & 高压 & 低压 \\\\\n\\hline\n1 &  &  &  &  \\\\\n\\hline\n2 &  &  &  &  \\\\\n\\hline\n3 &  &  &  &  \\\\\n\\hline\n4 &  &  &  &  \\\\\n\\hline\n5 &  &  &  &  \\\\\n\\hline\n短路阻抗 & % \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n使用条件 & 户外式 \\\\\n\\hline\n器身重 & Kg \\\\\n\\hline\n油重 & Kg \\\\\n\\hline\n总重 & Kg \\\\\n\\hline\n绝缘水平 & LI<br>AC \\\\\n\\hline\n电话 & 13653328784 \\\\\n\\hline\n制造日期 & 20 年 月 \\\\\n\\hline\n生产公司 & 江苏华辰变压器有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val008.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n型号 & S□ - □□/10 \\\\\n\\hline\n产品代号 & 1ZB.710.□□□ \\\\\n\\hline\n额定容量 & □□□kVA \\\\\n\\hline\n标准代号 & GB1094 \\\\\n\\hline\n额定电压 & (10000±2×2.5%)/400V \\\\\n\\hline\n相数 & 3 相 \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n联结组标号 & Dyn11 \\\\\n\\hline\n分接 & 高压 & 低压 \\\\\n\\hline\n & 位置 & 电压 & 电流 & 电压 & 电流 \\\\\n\\hline\n & Ⅰ & 10500V &  &  &  \\\\\n\\hline\n & Ⅱ & 10250V &  &  &  \\\\\n\\hline\n & Ⅲ & 10000V &  & 400V &  \\\\\n\\hline\n & Ⅳ & 9750V &  &  &  \\\\\n\\hline\n & Ⅴ & 9500V &  &  &  \\\\\n\\hline\n短路阻抗 & □.□2% \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n使用条件 & 户外式 \\\\\n\\hline\n绝缘水平 & LI75AC35 \\\\\n\\hline\n器身重 & □kg \\\\\n\\hline\n总重 & □kg \\\\\n\\hline\n出厂序号 & 1 \\\\\n\\hline\n制造单位 & 浙江电力变压器有限公司 \\\\\n\\hline\n制造年月 & 20□年□月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val009.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n国家认定证号 & 1094500233 \\\\\n\\hline\n国家鉴定证号 & [1990]机管便鉴定61号 \\\\\n\\hline\n标准代号 & GB1094 \\\\\n\\hline\n产品代号 & 1BY.710 ·537 \\\\\n\\hline\n出厂序号 & 01041376 \\\\\n\\hline\n产品型号 & S9 - 2000/35 \\\\\n\\hline\n额定容量 & 2000 kVA \\\\\n\\hline\n额定电压 & 35000 ± 5 % / 10500 V \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n联接组标号 & Yd11 \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n使用条件 & 户外 \\\\\n\\hline\n阻抗电压 & 6.37 % \\\\\n\\hline\n绝缘水平 & L1 200 AC 85 \\\\\n\\hline\n器身吊重 & 3206 kg \\\\\n\\hline\n油重 & 1348 kg \\\\\n\\hline\n总重 & 5988 kg \\\\\n\\hline\n生产日期 & 2001年4月 \\\\\n\\hline\n分接位置 & 高压电压V & 高压电流A & 低压电压V & 低压电流A \\\\\n\\hline\nI & 36750 &  &  &  \\\\\n\\hline\nII & 35000 & 33 & 10500 & 110 \\\\\n\\hline\nIII & 33250 &  &  &  \\\\\n\\hline\nIV &  &  &  &  \\\\\n\\hline\nV &  &  &  &  \\\\\n\\hline\n制造单位 & 中华人民共和国 桂林变压器厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val010.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n项目 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n设备名称 & 干冰粉末喷射机 \\\\\n\\hline\n公司名称 & 东莞市捷冠自动化科技有限公司 \\\\\n\\hline\n英文名称 & Dongguan Shi Jieguan Automation Technology Co. Ltd \\\\\n\\hline\n品名 & 干冰粉末喷射机 \\\\\n\\hline\n重量 & 无 \\\\\n\\hline\n电压 & 220V \\\\\n\\hline\n长宽高 & 无 \\\\\n\\hline\n功率 & 500W \\\\\n\\hline\n型号 & 无 \\\\\n\\hline\n联系电话 & 18675383635 \\\\\n\\hline\n出厂日期 & 无 \\\\\n\\hline\n地址 & 东莞市虎门镇龙眼东一路七巷十一号 \\\\\n\\hline\n网址 & http://www.jieguan16888.icoc.me \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val011.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n设备名称 & 移动式垃圾压缩机 \\\\\n\\hline\n品牌 & 徐工牌 \\\\\n\\hline\n整机型号 & YJY \\\\\n\\hline\n电机额定功率 & __ kW \\\\\n\\hline\n产品名称 & 移动式垃圾压缩机 \\\\\n\\hline\n系统压力 & __ MPa \\\\\n\\hline\n设备质量 & __ kg \\\\\n\\hline\n垃圾压缩力 & __ KN \\\\\n\\hline\n箱体容积 & __ m³ \\\\\n\\hline\n最大外形尺寸(长×宽×高/mm) & __×__×__ \\\\\n\\hline\n生产序号 & __ \\\\\n\\hline\n生产日期 & __年__月 \\\\\n\\hline\n生产厂 & 徐州徐工环境技术有限公司 \\\\\n\\hline\n制造商 & 中国 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val012.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n产品型号 & S11-M-315/10 \\\\\n\\hline\n标准代号 & GB1094.1-1996 GB1094.5-2008 GB1094.3-2003 \\\\\n\\hline\n额定容量 & 315kva \\\\\n\\hline\n出厂序号 & 120202002 \\\\\n\\hline\n额定电压 & 10000±5%/400 \\\\\n\\hline\n额定频率 & 50HZ \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n联结组标号 & Dyn11 \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n使用条件 & 户外式 \\\\\n\\hline\n阻抗电压 & 4.05% \\\\\n\\hline\n器身吊重 & 780kg \\\\\n\\hline\n油重 & 230kg \\\\\n\\hline\n总重 & 1250kg \\\\\n\\hline\n开关位置 & 高压V & 低压V \\\\\n\\hline\n1 & 10500 & 400 \\\\\n\\hline\n2 & 10000 & 18.19 & 454.7 \\\\\n\\hline\n3 & 9500 &  &  \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val013.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高/低压预装式变电站 \\\\\n\\hline\n产品型号 & （空白） \\\\\n\\hline\n变压器额定容量 & （空白）kVA \\\\\n\\hline\n标准代号 & GB/T17467 - 1998 \\\\\n\\hline\n高压额定电压 & （空白）V \\\\\n\\hline\n产品代号 & 1NB 710 \\\\\n\\hline\n低压额定电压 & （空白）V \\\\\n\\hline\n出厂序号 & （空白） \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n外形尺寸 & （空白） \\\\\n\\hline\n使用条件 & 户外式 \\\\\n\\hline\n总重 & （空白）kg \\\\\n\\hline\n生产公司 & 中华人民共和国 南昌变压器有限责任公司 \\\\\n\\hline\n生产日期 & （空白）年（空白）月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val014.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 杀菌锅 \\\\\n\\hline\n产品编号 & 2016 - 147 \\\\\n\\hline\n压力容器类别 & I \\\\\n\\hline\n制造日期 & 2016年5月 \\\\\n\\hline\n设计压力 & 0.35 MPa \\\\\n\\hline\n耐压试验压力 & 0.44 MPa \\\\\n\\hline\n最高允许工作压力 & 0.3 MPa \\\\\n\\hline\n设计温度 & 147 ℃ \\\\\n\\hline\n容器净重 & 1160 kg \\\\\n\\hline\n主体材料 & S30408 \\\\\n\\hline\n容积 & 4.47 m³ \\\\\n\\hline\n工作介质 & 水、蒸汽 \\\\\n\\hline\n产品标准 & GB150.1 - 4 - 2011 \\\\\n\\hline\n制造许可级别 & D1.D2 \\\\\n\\hline\n制造许可证编号 & TS2237351 - 2017 \\\\\n\\hline\n制造单位 & 山东诸城市安泰机械有限公司 \\\\\n\\hline\n设备代码 & 21703735120160147 \\\\\n\\hline\n使用登记证编号 & （空白） \\\\\n\\hline\n铭牌拓印件存放处 & 压力容器产品质量证明书 \\\\\n\\hline\n设备使用规定 & 本设备须经当地锅炉压力容器安全监察机构登记注册，并发给注册编号后方能投入使用 \\\\\n\\hline\n电话 & 0536 - 6056323 \\\\\n\\hline\n传真 & 0536 - 5838005 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val015.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n产品型号 & S11 - M - 50/20(10) \\\\\n\\hline\n标准代号 & GB1094.1 - 2 - 1996, GB1094.3 - 4 - 2005, GB1094.5 - 2008, GB/T 16451 - 2008 \\\\\n\\hline\n额定容量 & 50 KVA \\\\\n\\hline\n额定电压 & 20(10) ± 5%/0.4KV \\\\\n\\hline\n出厂序号 & 1601023 \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n联接组标号 & Yyn0/Dyn11 \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n使用条件 & 户外 \\\\\n\\hline\n短路阻抗 & 5.9(4.0) % \\\\\n\\hline\n器身吊重 & 210 kg \\\\\n\\hline\n油重 & 190 kg \\\\\n\\hline\n总重 & 490 kg \\\\\n\\hline\n制造日期 & 2016年01月 \\\\\n\\hline\n制造公司 & 中华人民共和国 山东汇德变压器制造有限公司 \\\\\n\\hline\n档位 & 电压 & 分接位置 & 高压（V） & 高压（A） & 低压（A） \\\\\n\\hline\nⅠ & 20kV & Ⅰ & 21000 & 1.44 & 72.2 \\\\\n\\hline\n &  & Ⅱ & 20000 &  &  \\\\\n\\hline\n &  & Ⅲ & 19000 &  &  \\\\\n\\hline\nⅡ & 10kV & Ⅰ & 12124 & 2.89 & 72.2 \\\\\n\\hline\n &  & Ⅱ & 11547 &  &  \\\\\n\\hline\n &  & Ⅲ & 10960 &  &  \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val016.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 煤矿井下用隔爆型三相异步电动机 \\\\\n\\hline\n型号 & YBK3 - 225M - 4 \\\\\n\\hline\n防爆标志 & Ex dI Mb \\\\\n\\hline\n功率 & 45 千瓦 \\\\\n\\hline\n标准编号 & JB/T9593.1 - 2015 \\\\\n\\hline\n额定电压 & 660/1140 伏 \\\\\n\\hline\n防爆合格证号 & SHEXC17.0238 \\\\\n\\hline\n额定电流 & 48.8/28.2 安 \\\\\n\\hline\n安全标志编号 & MAI071007 \\\\\n\\hline\n额定转速 & 1480 转/分 \\\\\n\\hline\n生产许可证号 & XK06 - 014 - 00584 \\\\\n\\hline\n绝缘等级 & F 级 \\\\\n\\hline\n出品编号 &  \\\\\n\\hline\n频率 & 50 赫兹 接法△/Y \\\\\n\\hline\n出品日期 & 年 月 \\\\\n\\hline\n重量 & 375 公斤 \\\\\n\\hline\n生产厂家 & 分宜宏大煤矿电机制造有限公司(原分宜煤矿电机厂) \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val017.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 参考供暖面积 & 执行标准 & 额定工作压力 & 出厂日期 & 产品编号 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n胜日采暖炉 &  &  & GB16154 - 2005 & 0.99 Mpa & 201 年  月 &  \\\\\n\\hline\n生产公司 & colspan=\"6\" & 无极县胜日采暖设备制造有限公司 \\\\\n\\hline\n标牌制作公司 & colspan=\"6\" & 深圳市丰源标牌有限公司 \\\\\n\\hline\n网址 & colspan=\"6\" & https://dg fysyc.cn.china.cn \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val018.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 出厂编号 & 额定电压 & 相数 & 额定电流 & 出厂日期 & 生产厂家 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n低压配电箱 & GGD - DLQX & 44120600001 & 380V & 3 & 36A & 2015年10月 & 山东博泵科技股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val019.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n公司名称 & 无锡市华佩机械制造有限公司 \\\\\n\\hline\n产品名称 & _（空白） \\\\\n\\hline\n产品型号 & _（空白） \\\\\n\\hline\n出厂日期 & _（空白） \\\\\n\\hline\n出厂编号 & _（空白） \\\\\n\\hline\n地址 & 无锡市扬名高新技术产业园B区33号 \\\\\n\\hline\n电话 & 0510 - 85400723，85400640 \\\\\n\\hline\n传真 & 0510 - 85400731 \\\\\n\\hline\n邮编 & 214024 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val020.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 宽频三相异步电动机 \\\\\n\\hline\n品牌 & LEADGO \\\\\n\\hline\n接法 & W2 U2 V2<br>△ U1 V1 W1<br>W2 U2 V2<br>Y U1 V1 W1 \\\\\n\\hline\n型号 & YP2 - 160L - 6 \\\\\n\\hline\n编号 & 11811 \\\\\n\\hline\n功率 & 11 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n电流 & 24.4 A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n噪声 & 73 dB(A) \\\\\n\\hline\n效率 & 88.7% \\\\\n\\hline\n变转矩频率 & 30 - 50 Hz \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n转速 & 965 r/min \\\\\n\\hline\n恒功率频率 & 50 - 60 Hz \\\\\n\\hline\n防护等级 & IP54 \\\\\n\\hline\n标准编号 & Q/1083 SLJ 011 - 2015 \\\\\n\\hline\n重量 & kg \\\\\n\\hline\n生产日期 & 2016 07 \\\\\n\\hline\n生产厂家 & 山东力久特种电机股份有限公司 \\\\\n\\hline\n地址 & 乳山市山海大道 22 号 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val021.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n产品型号 & S11-M-315/10 \\\\\n\\hline\n标准代号 & GB1094.1-1996 GB1094.5-2008 GB1094.3-2003 \\\\\n\\hline\n额定容量 & 315kva \\\\\n\\hline\n出厂序号 & 120202002 \\\\\n\\hline\n额定电压 & 10000±5%/400 \\\\\n\\hline\n额定频率 & 50HZ \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n联结组标号 & Dyn11 \\\\\n\\hline\n开关位置 & 高压（V、A），低压（V、A） \\\\\n\\hline\n冷却方式 & ONAN \\\\\n\\hline\n使用条件 & 户外式 \\\\\n\\hline\n1 & 10500、18.19、400、454.7 \\\\\n\\hline\n2 & 10000 \\\\\n\\hline\n3 & 9500 \\\\\n\\hline\n阻抗电压 & 4.05% \\\\\n\\hline\n器身吊重 & 780kg \\\\\n\\hline\n油重 & 230kg \\\\\n\\hline\n总重 & 1250kg \\\\\n\\hline\n制造公司 & 山东滨州东力电气有限责任公司 \\\\\n\\hline\n制造日期 & 2012年2月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val022.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 干式电力变压器 \\\\\n\\hline\n产品型号 & SCB9 - 1600/10 \\\\\n\\hline\n标准代号 & GB6450 - 86 \\\\\n\\hline\n额定容量 & 1600 kVA \\\\\n\\hline\n产品代号 & 1QB.710.2347 \\\\\n\\hline\n额定电压 & 10000 ± 2X2.5% / 400 V \\\\\n\\hline\n出厂序号 & 06234703 \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n分接 & 高压 & 低压 & 阻抗 \\\\\n\\hline\n绝缘等级 & F & 相数 & 3 相 & 联结 & V & A & V & A & % \\\\\n\\hline\n联结组标号 & Dyn11 \\\\\n\\hline\n使用条件 & 户内式 \\\\\n\\hline\n冷却方法 & AN \\\\\n\\hline\n总重 & 4320 kg \\\\\n\\hline\n绝缘水平 & LI 75 AC 35 \\\\\n\\hline\n生产厂家 & 中华人民共和国 杭州钱江电气集团股份有限公司 \\\\\n\\hline\n生产日期 & 2008 年 07 月 \\\\\n\\hline\n分接情况 & 2 - 3 & 10500 &  &  &  &  \\\\\n\\hline\n & 3 - 4 & 10250 &  &  &  &  \\\\\n\\hline\n & 4 - 5 & 10000 & 92.4 & 400 & 2309.4 & 5.60 \\\\\n\\hline\n & 5 - 6 & 9750 &  &  &  &  \\\\\n\\hline\n & 6 - 7 & 9500 &  &  &  &  \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val023.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 蒙家村站馈线 \\\\\n\\hline\n编号 & 19201901 \\\\\n\\hline\n型号 & LZZBJ9 - 10C4/4型电流互感器 \\\\\n\\hline\n制造许可 & 辽制MC 0200006 \\\\\n\\hline\n额定频率 & 户内50Hz \\\\\n\\hline\n额定绝缘水平 & 12/42/75 kV \\\\\n\\hline\n标准 & GB/T 20840.1.2 \\\\\n\\hline\n绝缘耐热等级 & E级 \\\\\n\\hline\n出线端子标志 & 1S1 1S2 2S1 2S2 2S1 2S3 3S1 3S2 3S1 3S3 \\\\\n\\hline\n额定电流比(A) & 800/5 400/5 800/5 400/5 800/5 \\\\\n\\hline\n准确级 & 5P40 0.5S 0.5S 0.2S 0.2S \\\\\n\\hline\n额定输出(VA) & 30 20 30 20 30 \\\\\n\\hline\n额定短时热电流 & 4 s 31.5 kA \\\\\n\\hline\n额定动稳定电流 & 80 kA \\\\\n\\hline\n制造日期 & 2019年02月 \\\\\n\\hline\n功率因数 & COSφ = 0.8 \\\\\n\\hline\n制造公司 & 中广电器股份有限公司 \\\\\n\\hline\n注意事项 & 一次有电流通过时，二次不准开路！ \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val024.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 参数 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n电流互感器 & 编号：19200499<br>型号：LXZ1 - Φ200<br>额定电流比：150/5 A<br>辽制（MC）：02000006<br>出线端子标志：S1 S2<br>标准：GB/T 20840.1.2<br>准确级：10P10 级<br>额定输出：10 VA<br>制造日期：2019 年 01 月<br>功率因数：COSΦ = 0.8<br>制造公司：中广电器股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val025.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外高压交流真空断路器 \\\\\n\\hline\n型号 & ZW20 \\\\\n\\hline\n额定电压 & 12kV \\\\\n\\hline\n额定电流 & 630A \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n操作电压 & DC 24V \\\\\n\\hline\n额定短路开断电流 & 20kA \\\\\n\\hline\n额定短时耐受电流 & 20kA 4s \\\\\n\\hline\n额定短路关合电流 & 50kA(峰值) \\\\\n\\hline\n1分钟工频耐受电压 & 42kV/48kV \\\\\n\\hline\n雷电冲击耐受电压 & 75kV/85kV \\\\\n\\hline\n操作顺序 & 0 - 0.3s - CO - 180s - CO \\\\\n\\hline\n执行标准 & GB 1984 - 2014 \\\\\n\\hline\n电流互感器变比 & 无 \\\\\n\\hline\n电压传感器变比 & 零序（10kV/√3）/（6.5V/3） \\\\\n\\hline\n重量 & 185kg \\\\\n\\hline\n系列号 & 无 \\\\\n\\hline\n生产日期 & 无 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val026.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 功率 & 相数 \\\\\n\\hline\n---- & ---- & ---- & ---- \\\\\n\\hline\n柴油发电机组 & HKGF - 200 & 200kW & 3 \\\\\n\\hline\n参数名称 & 参数值 & 参数名称 & 参数值 \\\\\n\\hline\n功率因数 & COSφ 0.8 & 电压 & 400V \\\\\n\\hline\n电流 & 380A & 净质量 & 未标注 \\\\\n\\hline\n转速 & 1500r/min & 频率 & 50Hz \\\\\n\\hline\n出厂编号 & 1908042 & 出厂日期 & 2018.09 \\\\\n\\hline\n生产厂家 & 潍坊华坤柴油机有限公司 & 地址 & 潍坊滨海经济技术开发区先进制造业产业园 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val027.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 变频调速三相异步电动机 \\\\\n\\hline\n型号 Type & XDYSP315L1 - 4 \\\\\n\\hline\n功率 & 160 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n电流 & 288 A \\\\\n\\hline\n接法 Conn & △ \\\\\n\\hline\nS & 1 \\\\\n\\hline\nIC & 416 \\\\\n\\hline\nIP & 55 \\\\\n\\hline\nIM & B3 \\\\\n\\hline\n转速 & 1488 r/min \\\\\n\\hline\n绝缘等级 Class & F \\\\\n\\hline\n效率 η & 93.8 % \\\\\n\\hline\n功率因数 COSΦ & 0.90 \\\\\n\\hline\n质量 & 1010 kg \\\\\n\\hline\n环境温度 & 40 ℃ \\\\\n\\hline\n恒转矩 CONST TOR & 3～50 Hz \\\\\n\\hline\n恒功率 CONST Power & 50～100 Hz \\\\\n\\hline\n标准编号 STD. & JB/T7118 - 2014 \\\\\n\\hline\n额定转矩 Rated Torque & 1018.6 N·m \\\\\n\\hline\n编号 NO. & Y2126062 \\\\\n\\hline\n长度 & 1000 m \\\\\n\\hline\n日期 Date & 2021.06 \\\\\n\\hline\n制造商 & 湘潭电机股份有限公司（XEMC XIANGTAN ELECTRIC MANUFACTURING CO., LTD.） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val028.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|}\n\\hline\n设备名称 & 参数名称 & 参数值 \\\\\n\\hline\n---- & ---- & ---- \\\\\n\\hline\n高效三相异步电动机 & 型号 & HW - 160L - 4 \\\\\n\\hline\n高效三相异步电动机 & 额定电流 & 38.8A \\\\\n\\hline\n高效三相异步电动机 & 功率 & 30KW \\\\\n\\hline\n高效三相异步电动机 & 额定电压 & 380V \\\\\n\\hline\n高效三相异步电动机 & 执行标准 & GB/T28575 - 2024 \\\\\n\\hline\n高效三相异步电动机 & 效率 & 92.1% \\\\\n\\hline\n高效三相异步电动机 & 编号 & 8692 \\\\\n\\hline\n高效三相异步电动机 & 日期 & 2024年12月 \\\\\n\\hline\n高效三相异步电动机 & 生产厂家 & 上海业翔电机厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val029.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 无油螺杆式空压机 \\\\\n\\hline\n品牌 & o-Billow \\\\\n\\hline\n型号 & ZW22 - 8 \\\\\n\\hline\n容积流量 FAD & 3.6 m³/min \\\\\n\\hline\n工作压力 & 8 bar \\\\\n\\hline\n功率 & 22 kw \\\\\n\\hline\n外形尺寸 & 1520*1060*1390 \\\\\n\\hline\n重量 & 840 kg \\\\\n\\hline\n生产日期 & 2022/06/02 \\\\\n\\hline\n出厂编号 SN & 20220602 \\\\\n\\hline\n生产公司 & 江西巨浪压缩机有限公司 \\\\\n\\hline\n公司地址 & 江西省抚州市南城县校具产业园D11栋 \\\\\n\\hline\n服务热线（Mobile） & 400 - 080 - 4009 \\\\\n\\hline\n公司网址 & www.julangcompressor.com \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val030.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 详细信息 \\\\\n\\hline\n空气压缩机 & 型号：W-0.36/12.5<br>转速：1060r/min<br>功率：3KW<br>电源：380V<br>工作压力：1.25Mpa<br>整机重量：100kg<br>排量：0.36m³/min<br>外形尺寸：1100*430*830<br>容积：110L<br>制造公司：台州藤原工具有限公司<br>制造地址：泽国丹山工业区<br>编号：PF202411 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val031.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 多联式空调机组室外机 \\\\\n\\hline\n型号 & GMV - H224WL/Ha \\\\\n\\hline\n额定电源 & 380V 3N~50Hz \\\\\n\\hline\n制冷量 & 22400W \\\\\n\\hline\n制热量 & 25000W \\\\\n\\hline\n室外机制冷输入功率/电流 & 6950W/12.5A \\\\\n\\hline\n室外机制热输入功率/电流 & 6800W/12.0A \\\\\n\\hline\n室外机最大输入功率/电流 & 12100W/19.5A \\\\\n\\hline\n制冷剂名称及注入量 & R410A 4.9kg \\\\\n\\hline\n高/低压侧最大允许压力 & 4.3MPa \\\\\n\\hline\n吸气侧最高工作压力 & 2.5MPa \\\\\n\\hline\n排气侧最高工作压力 & 4.3MPa \\\\\n\\hline\nAPF & 4.95W•h/(W•h) \\\\\n\\hline\n防触电保护类别 & I \\\\\n\\hline\n防水等级 & IPX4 \\\\\n\\hline\n噪声(全消声室换算值) & 58dB(A) \\\\\n\\hline\n质量 & 130kg \\\\\n\\hline\n出厂编号 & 4610772001053 \\\\\n\\hline\n制造日期 & 2024.06 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val032.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类型 & 详情 \\\\\n\\hline\n设备名称 & PACO PUMPS By Grundfos \\\\\n\\hline\nP/N & 98736994 \\\\\n\\hline\n序列号 & 14W00909-001A \\\\\n\\hline\n泵型号 & KP12284-GHC06S \\\\\n\\hline\n流量 & 2290 m³/h \\\\\n\\hline\n扬程 & 140 m \\\\\n\\hline\n转速 & 1490 r/min \\\\\n\\hline\n叶轮直径 & 675 mm \\\\\n\\hline\n生产日期 & 20140926 \\\\\n\\hline\n生产公司 & 格兰富水泵（无锡）有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 自动定转子合装 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号TYPE & HT - MOG04A \\\\\n\\hline\n电压VOLTAGE & AC380V \\\\\n\\hline\n尺寸SIZE & 2.9*1.85*4.75(m) \\\\\n\\hline\n气压AIR PRESSURE & 0.6MPa \\\\\n\\hline\n重量WEIGHT & 5000kg \\\\\n\\hline\n功率RATED POWER & 15KW \\\\\n\\hline\n出厂日期DATE & 2023年06月30日 \\\\\n\\hline\n出厂编号NUMBER & NO. 3782304 \\\\\n\\hline\n生产单位 & 中国船舶集团有限公司第七一一研究所（SHANGHAI MARINE DIESEL ENGINE RESEARCH INSTITUTE） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val034.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|}\n\\hline\n设备名称 & 参数名称 & 参数值 \\\\\n\\hline\n---- & ---- & ---- \\\\\n\\hline\n自动包装机 & 包装速度 & 20 - 60 \\\\\n\\hline\n自动包装机 & 型号 & 20201 \\\\\n\\hline\n自动包装机 & 出厂编号 & 655454 \\\\\n\\hline\n自动包装机 & 电压 & 220 - 240V \\\\\n\\hline\n自动包装机 & 出厂日期 & 20201224 \\\\\n\\hline\n自动包装机 & 功率 & 600 KW \\\\\n\\hline\n自动包装机 & 外形尺寸 & L W H \\\\\n\\hline\n自动包装机 & 重量 & 600 KG \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val035.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 福建戴姆勒汽车工业有限公司 \\\\\n\\hline\n品牌 & 梅赛德斯 - 奔驰 \\\\\n\\hline\n整车型号 & FA6500 \\\\\n\\hline\n发动机型号 & 272924 \\\\\n\\hline\n发动机排量 & 2496 ml \\\\\n\\hline\n发动机额定功率 & 140 kW \\\\\n\\hline\n乘坐人数 & 7 \\\\\n\\hline\n最大设计总质量 & 2940 kg \\\\\n\\hline\n制造国 & 中国 \\\\\n\\hline\n生产序号 & 008781 \\\\\n\\hline\n制造年月 & 2010年10月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val036.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 输入电压 & 输出电压 & 额定功率 & 输出电流 & 型号 & 防护等级 & 编号 & 生产日期 & 生产公司 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n电动汽车交流充电桩 & AC220V/50Hz & AC220V/50Hz & 7kW & 32A & CSG-BCG-A32/K08 & IP55（室内或室外使用） & CSG23270136 & 2023年07月02日 & 科大智能（合肥）科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val037.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n整车型号 & LZW6492HB6HEVD2B5 \\\\\n\\hline\n车辆识别代号 & LZWADAH94NB \\\\\n\\hline\n品牌 & 五菱 \\\\\n\\hline\n乘坐人数 & 6 \\\\\n\\hline\n发动机型号 & LJM20A \\\\\n\\hline\n最大允许总质量 & 2300 kg \\\\\n\\hline\n发动机排量 & 1999 mL \\\\\n\\hline\n发动机最大净功率 & 92 kW \\\\\n\\hline\n制造年月 & 2022 - 12 \\\\\n\\hline\n制造国 & 中国 \\\\\n\\hline\n制造公司 & 上汽通用五菱汽车股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val038.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 详细信息 \\\\\n\\hline\n制造商 & 中国 浙江豪情汽车制造有限公司 \\\\\n\\hline\n编号 & LB37824S8PG \\\\\n\\hline\n品牌 & 帝豪 \\\\\n\\hline\n整车型号 & HQ7151M02 \\\\\n\\hline\n发动机型号 & BHE15 - AFD \\\\\n\\hline\n乘坐人数 & 5 \\\\\n\\hline\n发动机最大净功率 & 90 kW \\\\\n\\hline\n发动机排量 & 1499 mL \\\\\n\\hline\n最大允许总质量 & 1595 kg \\\\\n\\hline\n制造年月 & 2023年4月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val039.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效率三相异步电动机 \\\\\n\\hline\n型号 & Y315S - 6 \\\\\n\\hline\n编号 & 05583 \\\\\n\\hline\n功率 & 75 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n额定电流 & 145 A \\\\\n\\hline\n能效等级 & 3 \\\\\n\\hline\n效率 & 93.7 % \\\\\n\\hline\n功率因数 & 0.84 \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n转速 & 985 r/min \\\\\n\\hline\n工作制 & S1 \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n绝缘等级 & B \\\\\n\\hline\n重量 & 836 kg \\\\\n\\hline\n轴伸端轴承型号 & 6319 \\\\\n\\hline\n非轴伸端轴承型号 & 6319 \\\\\n\\hline\n标准 & JB/T 11707 - 2013 \\\\\n\\hline\n生产日期 & 2021年8月 \\\\\n\\hline\n生产厂家 & 衡水电机股份有限公司 \\\\\n\\hline\n厂家地址 & 河北省衡水市大庆西路103号 \\\\\n\\hline\n联系电话 & 0318 - 2123999 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val040.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n设备名称 & CELL寿命测试设备 \\\\\n\\hline\n外形尺寸 & 4000X1500X2400 \\\\\n\\hline\n设备型号 & CLTE101 - 001 \\\\\n\\hline\n重量 & 2.5T \\\\\n\\hline\n电流 & 35A \\\\\n\\hline\n生产日期 & 2018.7.28 \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n售后服务电话 & 15821860750 \\\\\n\\hline\n功率 & 18.5KW \\\\\n\\hline\n地址 & 上海市嘉定嘉罗公路1661弄40号3楼<br>Buiding 40No.8 JiaLuo Road Jiading District \\\\\n\\hline\n公司名称 & 苏州安亚电子有限公司<br>SUZHOU ANYA ELECTRONIC CO. LTD \\\\\n\\hline\n公司标识 & ANYA \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val041.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电流互感器 \\\\\n\\hline\n型号 & LMZJ1 - 0.5 \\\\\n\\hline\n编号 & （空白） \\\\\n\\hline\n最高电压 & 0.6KV \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n精度等级 & 0.5 级 \\\\\n\\hline\n电流比 & 200 / 5 \\\\\n\\hline\n额定容量 & 5VA \\\\\n\\hline\n标准 & GB1208 - 2006 \\\\\n\\hline\n下限容量 & 3.75VA \\\\\n\\hline\n制造年月 & 201（部分模糊）年（部分模糊）月 \\\\\n\\hline\n一次电流(A) & 200 & 100 & 50 & 40 & 20 \\\\\n\\hline\n一次线圈匝数 & 1 & 2 & 4 & 5 & 10 \\\\\n\\hline\n制造公司 & 上海上德电器集团有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val042.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n公司名称 & 浙江新柴股份有限公司（ZHEJIANG XINCHAI CO.,LTD） \\\\\n\\hline\n柴油机型号 & C490BPG /工程机械 \\\\\n\\hline\n柴油机系族名称 & G20430L0267490 \\\\\n\\hline\n额定净功率 & 40kw - 2650 r/min \\\\\n\\hline\n柴油机编号 & C490BPG1439785 \\\\\n\\hline\n生产日期 & 2014 11 \\\\\n\\hline\n功率段/限值阶段 & 18≤Pmax<37 / Stage II \\\\\n\\hline\n型式核准号 & CN FC G2 0430 03 0000 \\\\\n\\hline\n生产许可证号 & XK06 - 205 - 00176 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val043.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|}\n\\hline\n设备名称 & 参数名称 & 参数值 \\\\\n\\hline\n---- & ---- & ---- \\\\\n\\hline\nSBW交流全自动稳压器 & 额定容量 & 400KVA \\\\\n\\hline\n & 稳压精度 & 2% \\\\\n\\hline\n & 额定输出电压 & 380 V \\\\\n\\hline\n & 相数 & 3 φ \\\\\n\\hline\n & 额定输出电流 & 608 A \\\\\n\\hline\n & 重量 & 1818 Kg \\\\\n\\hline\n & 电压输入范围 & 323 - 437V \\\\\n\\hline\n & 出厂日期 & 2009.1 \\\\\n\\hline\n & 效率 & 96% \\\\\n\\hline\n & 出厂编号 & 0901001 \\\\\n\\hline\n制造商 & 公司名称 & 中国·珠海高艺机电设备制造有限公司 \\\\\n\\hline\n & 英文名称 & CHINA KAO NGAI M&E EQUIPMENT MANUFACTURING CO.,LTD \\\\\n\\hline\n & 地址 & 广东省珠海市唐家湾镇鸡山村艾唐夏村工业厂房第二栋2号 \\\\\n\\hline\n & 电话 & 0756 - 3610012（3610362） \\\\\n\\hline\n & 传真 & 0756 - 3610126 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val044.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 双氧水输送泵 \\\\\n\\hline\n型号 & SJ4 - M - 400/2.4 - S \\\\\n\\hline\n位号 & P1312B \\\\\n\\hline\n流量 & 400 L/h \\\\\n\\hline\n排压 & 2.4 Mpa \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n功率 & 2.2 kw \\\\\n\\hline\n编号 & 3 - 94029 \\\\\n\\hline\n出厂日期 & 2023.07 \\\\\n\\hline\n制造公司 & 上海申贝泵业制造有限公司 \\\\\n\\hline\n联系电话 & 021 - 56652308，021 - 56652046 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val045.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n品牌 & GUTTA 冠涛机电 \\\\\n\\hline\n型号 & Y90S - 2 \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n编号 &  \\\\\n\\hline\n功率 & 1.5 kW \\\\\n\\hline\n电流 & 3.4 A \\\\\n\\hline\n绝缘等级 & B \\\\\n\\hline\n效率 & 78% \\\\\n\\hline\n接法 & W2 U2 V2 - Y - U1 V1 W1 \\\\\n\\hline\n转速 & 2840 r/min \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n工作制 & S1 \\\\\n\\hline\n噪声 & 85 dB(A) \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n重量 & Kg \\\\\n\\hline\n执行标准 & JB/T10391 - 2008 \\\\\n\\hline\n日期 & 20 年 月 \\\\\n\\hline\n生产公司 & 上海冠涛机电有限公司(温岭分公司) \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val046.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & SST - 1400Sx2 - 50L（胜斯特） \\\\\n\\hline\n电压 & 220V/50Hz \\\\\n\\hline\n电流 & 12.4A \\\\\n\\hline\n功率 & 2800W \\\\\n\\hline\n气罐容量 & 50L \\\\\n\\hline\n上气时间 & 53s \\\\\n\\hline\n转速 & 2800R/min \\\\\n\\hline\n流量 & 200L/min \\\\\n\\hline\n噪音 & 70dB \\\\\n\\hline\n使用压力 & 0.7MPa \\\\\n\\hline\n最大使用压力 & 0.8MPa \\\\\n\\hline\n重量 & 37Kg \\\\\n\\hline\n外形尺寸 & 68X31X59cm \\\\\n\\hline\n制造商 & 永康市盛斯博易工贸有限公司 \\\\\n\\hline\n销售商 & 上海胜曦五金机电有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val047.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 离心式风机 Centrifugal fan \\\\\n\\hline\n品牌 & 金汇琅琅 JINHUI LANGLANG FAN \\\\\n\\hline\n电话(Tel) & (086)0512 - 58905667 \\\\\n\\hline\n网址(WEB) & www.66fan.cn \\\\\n\\hline\n传真(Fax) & (086)0512 - 58905663 \\\\\n\\hline\n邮箱(E - mail) & langlangfan@126.com \\\\\n\\hline\n地址 & 江苏省张家港市南丰镇海丰路19号 ADD:Donglai Dongqi Road On The South Side,Zhangjiagang City \\\\\n\\hline\n型号(M) & T - 15A \\\\\n\\hline\n工况(Wc) & ≤  ℃（此处温度值缺失） \\\\\n\\hline\n腐蚀介质(Cm) & （此处内容缺失） \\\\\n\\hline\n风量(Q) & 10000 - 17000 m³/h \\\\\n\\hline\n风压(P) & 3600 - 2600 Pa \\\\\n\\hline\n功率(Po) & 15 Kw \\\\\n\\hline\n转速(n) & 2930 r/min \\\\\n\\hline\n编号(No) & 20132699 \\\\\n\\hline\n出厂日期(D) & 2021/6 M/Y \\\\\n\\hline\n制造商 & 张家港金汇琅琅风机制造有限公司 Zhangjiagang Jinhui Langlang Fan Manufacturing Co.,Ltd \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val048.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相电参数综合测量仪 \\\\\n\\hline\n品牌 & Ainuo \\\\\n\\hline\n规格型号 & AN7931X \\\\\n\\hline\n版本 & V0 \\\\\n\\hline\n额定输入电压 & AC220V 50Hz \\\\\n\\hline\n量程 & 600V 5A/40A \\\\\n\\hline\n电压精度 & ±（0.3%×显示值 + 0.2%×量程）（45Hz≤f≤66Hz） \\\\\n\\hline\n电流精度 & ±（0.3%×显示值 + 0.2%×量程）（45Hz≤f≤66Hz） \\\\\n\\hline\n有功功率精度 & ±（0.3%×显示值 + 0.2%×量程）（PF≥0.2, 45Hz≤f≤66Hz） \\\\\n\\hline\n外形尺寸 & 320 (W) X113 (H) X435 (D) \\\\\n\\hline\n出厂编号 & B008793005 \\\\\n\\hline\n制造日期 & 2020.08 \\\\\n\\hline\n制造商 & 艾诺仪器公司 \\\\\n\\hline\n制造商地址 & 中国 青岛市崂山区株洲路134号 \\\\\n\\hline\n电话 & 0532 - 83995188 \\\\\n\\hline\n网址 & www.ainuo.com \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val049.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 出厂编号 & 供电 & 注意 & 输出 & 出厂日期 & 生产公司 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n气压传感器 & WN - 2010 & 2010240112001 & 12VDC & 请勿带电插拔 & RS485 & 2024 - 01 - 12 & 万诺（锦州）传感物联技术发展有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val050.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 参数 \\\\\n\\hline\n模拟量转RS485模块 & 供电电压：DC 9 - 24V<br>采集信号：0 - 20mA/0 - 10V<br>采集通道：4通道<br>通讯接口：隔离RS485<br>通讯协议：MODBUS - RTU<br>外壳尺寸：54x100x32mm<br>型号：QX - IV04<br>厂家：四川旗芯电子 \\\\\n\\hline\n接线标识 & VCC<br>GND<br>A<br>B \\\\\n\\hline\n通道标识 & COMA<br>COMB<br>INA1<br>INA2<br>INA3<br>INA4 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val051.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 量程 & 精度 \\\\\n\\hline\n---- & ---- & ---- & ---- \\\\\n\\hline\n智能差压变送器 & DH3151DP4S22M3B3 & 0~10kPa & 0.2% \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val052.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 额定电压 & 额定功率 & 额定频率 & 全国服务热线 & 商标持有人 & 制造商 & 地址 & 邮编 & 网址 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n桶式吸尘器 & EVCB - 75S & 220V & 1800W & 50Hz & 400 - 8899 - 717 & 浙江苏泊尔股份有限公司 & 浙江绍兴苏泊尔家居用品有限公司 & 浙江省绍兴市越城区斗门街道世纪西街3号 & 312000 & www.supor.com.cn \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val053.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 风冷单元式空调机组室外机 \\\\\n\\hline\n品牌 & GREE格力 \\\\\n\\hline\n生产公司 & 珠海格力电器股份有限公司 \\\\\n\\hline\n型号 & RF12WQ/NhB - N3JY01(O) \\\\\n\\hline\n额定电压 & 380V 3N~ \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n制冷输入功率 & 3664W \\\\\n\\hline\n制热输入功率 & 3744W \\\\\n\\hline\n最大输入功率 & 5164W \\\\\n\\hline\n制冷剂名称及注入量 & R32 2.20kg \\\\\n\\hline\n防水等级 & IPX4 \\\\\n\\hline\n质量 & 95kg \\\\\n\\hline\n出厂编号 & 见机身条码 \\\\\n\\hline\n制造日期 & 2023.08 \\\\\n\\hline\nCCC认证 & 有 \\\\\n\\hline\n其他标识 & 15（可能是某种认证或标志相关），条形码600004077589 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val054.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 壁挂式充电盒 \\\\\n\\hline\n产品型号 & 2126010AC \\\\\n\\hline\n出厂日期 & 2022-09-03 \\\\\n\\hline\n出厂编号 & 050447KXWN90300217 \\\\\n\\hline\n输入电压 & 220V \\\\\n\\hline\n输入电流 & Max. 32A \\\\\n\\hline\n输出电压 & 220V \\\\\n\\hline\n输出电流 & Max. 32A \\\\\n\\hline\n输出功率 & 7kW \\\\\n\\hline\n频率 & 50/60Hz \\\\\n\\hline\n防护等级 & IP55 \\\\\n\\hline\n重量 & 3.5kg \\\\\n\\hline\n使用环境 & 室内或室外 \\\\\n\\hline\n执行标准 & GB/T 18487.1-2015 \\\\\n\\hline\n充电指示 & 绿灯长亮：通电<br>绿灯快闪：充电<br>绿灯慢闪：充满<br>红灯绿灯交替闪烁：急停被按下<br>红灯1秒闪烁3次：充电前地线断开 \\\\\n\\hline\n制造商 & 比亚迪汽车工业有限公司 \\\\\n\\hline\n网址 & //www.byd.com \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val055.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n名称 & 详情 \\\\\n\\hline\n产品名称 & 10路充电桩 \\\\\n\\hline\n设备型号 & CX-10B \\\\\n\\hline\n机身尺寸 & 310*115*450 (mm) \\\\\n\\hline\n机器净重 & 5.85kg \\\\\n\\hline\n输入电压 & AC220V/50HZ \\\\\n\\hline\n输出电压 & AC220V/50HZ \\\\\n\\hline\n最大承载电流 & MAX:20A \\\\\n\\hline\n待机功率 & 3W \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val056.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效率三相异步电动机 \\\\\n\\hline\n型号 & YE3 - 180L - 4 \\\\\n\\hline\n编号 & 162541 \\\\\n\\hline\n功率 & 22 KW \\\\\n\\hline\n功率因数 & COSφ0.86 \\\\\n\\hline\n效率 & 93.0% \\\\\n\\hline\n噪声 & LW 82dB(A) \\\\\n\\hline\n电流 & 42.9 A \\\\\n\\hline\n执行标准 & GB18613 - 2020 \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 HZ \\\\\n\\hline\n转速 & 1480 r/min \\\\\n\\hline\n防护等级 & IP 55 \\\\\n\\hline\n工作制 & S1 \\\\\n\\hline\n能效 & 3 级 \\\\\n\\hline\n重量 & 184 Kg \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n出厂日期 & 2023年3月 \\\\\n\\hline\n生产厂家 & 山东鑫沃起重机械有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val057.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效三相异步电动机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & HW - 160L - 4 \\\\\n\\hline\n额定电流 & 38.8A \\\\\n\\hline\n功率 & 30KW \\\\\n\\hline\n额定电压 & 380V \\\\\n\\hline\n执行标准 & GB/T28575 - 2024 \\\\\n\\hline\n效率 & 92.1% \\\\\n\\hline\n编号 & 8692 \\\\\n\\hline\n日期 & 2024年12月 \\\\\n\\hline\n生产厂家 & 上海业翔电机厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val058.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n型号 & YE5 - 280M - 4 \\\\\n\\hline\n编号 & 106867 \\\\\n\\hline\n功率 & 90kW - 4级 \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n电流 & 163.0A \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n效率 & 96.9% \\\\\n\\hline\n功率因数 & cos0.89 \\\\\n\\hline\n转速 & 1490r/min \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n防护等级 & IP55 \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n重量 & 590kg \\\\\n\\hline\n标准 & GB/T 28575 - 2020 \\\\\n\\hline\n生产日期 & 2022年03月 \\\\\n\\hline\n生产厂家 & 阆中市智锐有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val059.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 功率 & 制动力矩 \\\\\n\\hline\n---- & ---- & ---- & ---- \\\\\n\\hline\n锥形转子三相异步电动机 & ZD122 - 4(D) & 1.5KW & 17N·m \\\\\n\\hline\n转速 & 电压 & 电流 & 频率 & 工作制 \\\\\n\\hline\n1380r/min & 380V & 4.3A & 50Hz & S4 - 25% \\\\\n\\hline\n电话 & 防护等级 & 绝缘等级 & 环境温度 & 接法 & 噪声 \\\\\n\\hline\n0510 - 83741439 & IP44 & B & 40℃ & Y & 83dB(A) \\\\\n\\hline\n技术条件 & 编号 & 重量 & 生产日期 \\\\\n\\hline\nJB/T9008 - 3 &  & 34Kg & 2018年9月 \\\\\n\\hline\n生产厂家 \\\\\n\\hline\n无锡市神力电机厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val060.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n型号 & Y132M - 4 \\\\\n\\hline\n编号 & 无 \\\\\n\\hline\n功率 & 7.5 KW \\\\\n\\hline\n电流 & 15.0 A \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n转速 & 1440r/min \\\\\n\\hline\n噪声 & LW 87 dB \\\\\n\\hline\n接法 & 无 \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n频率 & 50HZ \\\\\n\\hline\n重量 & 70Kg \\\\\n\\hline\n标准编号 & 无 \\\\\n\\hline\n工作制 & SI \\\\\n\\hline\n绝缘等级 & B级 \\\\\n\\hline\n生产日期 & 无 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val061.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n型号 & YE5 - 280M - 4 \\\\\n\\hline\n编号 & 106867 \\\\\n\\hline\n功率 & 90kW - 4级 \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n电流 & 163.0A \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n效率 & 96.9% \\\\\n\\hline\n功率因数 & cos0.89 \\\\\n\\hline\n转速 & 1490r/min \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n防护等级 & IP55 \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n重量 & 590kg \\\\\n\\hline\n标准 & GB/T 28575 - 2020 \\\\\n\\hline\n生产日期 & 2022年03月 \\\\\n\\hline\n生产厂家 & 阆中市智锐有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val062.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n型号 & SFP${\\text Q}_{7}$ - 50000/110 \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n额定容量 & 50000 kVA \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n电压组合 & 115$\\pm\\frac{3}{1}$×2.5%/10.5 kV \\\\\n\\hline\n冷却方式 & OFAF \\\\\n\\hline\n使用条件 & 户外 \\\\\n\\hline\n联结组标号 & YN, d11 \\\\\n\\hline\n空载损耗 & 54.1 kW \\\\\n\\hline\n负载损耗 & 202.68 kW \\\\\n\\hline\n空载电流 & 0.57 % \\\\\n\\hline\n阻抗电压 & 11.52 % \\\\\n\\hline\n绝缘水平 & LI480 AC230 - LI480 AC230/LI 75 AC35 \\\\\n\\hline\n器身重量 & 39 t \\\\\n\\hline\n油重量 & 18.86 t \\\\\n\\hline\n总重量 & 72.9 t \\\\\n\\hline\n上节油箱重量 & 4.545 t \\\\\n\\hline\n运输重量 & 57 t（带油） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val063.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 锥形转子三相异步电动机 \\\\\n\\hline\n型号 & YEZ132S - 4 \\\\\n\\hline\n功率 & 5.5 KW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n绝缘等级 & B \\\\\n\\hline\n转速 & 1400 r/min \\\\\n\\hline\n电流 & 14 A \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n标准 & GB14711 - 2013 \\\\\n\\hline\n工作制 & S3 25% \\\\\n\\hline\n重量 & 71 Kg \\\\\n\\hline\n编号 & SJ 4111 \\\\\n\\hline\n接线端子 & Y、U₁、V₁、W₁ \\\\\n\\hline\n扭矩 & 76 N.m \\\\\n\\hline\n日期 & 2025.03 \\\\\n\\hline\n生产厂家 & 山东鑫沃起重机械有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val064.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 柴油发电机组 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & HKGF - 200 \\\\\n\\hline\n功率 & 200 KW \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n功率因数 & COS φ 0.8 \\\\\n\\hline\n电压 & 400 \\\\\n\\hline\n电流 & 360 A \\\\\n\\hline\n净质量 & 未提及具体数值，仅单位 kg \\\\\n\\hline\n转速 & 1500 r/min \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n出厂编号 & Y308042 \\\\\n\\hline\n出厂日期 & 2013.09 \\\\\n\\hline\n生产厂家 & 潍坊华坤柴油机有限公司 \\\\\n\\hline\n英文名称 & Weifang Huakun Diesel Engine Co.,Ltd. \\\\\n\\hline\n地址 & 潍坊滨海经济技术开发区先进制造业产业园 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val065.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n起重及冶金用绕线转子三相异步电动机 & 型号：YZR280M - 8<br>功率：55 kW<br>编号：1500<br>转速：725 r/min<br>频率：50 Hz<br>接法：Y<br>绝缘等级：F<br>环境温度：40 °C<br>定子电压：380 V<br>定子电流：110.5 A<br>转子电压：360 V<br>转子电流：92.5 A<br>工作制：S3 40 %<br>转动惯量：P54 Jm 2.86 kg·m²<br>噪声：93 dB(A)<br>标准编号：JB/T10105 - 2017<br>重量：847 kg<br>生产日期：2023 年 3 月<br>生产厂家：无锡宏达特种电机有限公司<br>联系电话：T:0510 - 83393888 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val066.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 锥形转子三相异步电动机 \\\\\n\\hline\n型号 & ZD122 - 8 \\\\\n\\hline\n功率 & 1.5 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n转速 & 690 r/min \\\\\n\\hline\n定额 & S4 - 25% \\\\\n\\hline\n电流 & 4.3 A \\\\\n\\hline\n制动力矩 & 16.67 Nm \\\\\n\\hline\n绝缘等级 & B \\\\\n\\hline\nIP & 44 \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n接法 & Y（u - v - w） \\\\\n\\hline\n产品标准 & GB/T9008.1 - 2014 \\\\\n\\hline\n重量 & kg \\\\\n\\hline\n编号 & K0482 \\\\\n\\hline\n日期 & 2024年5月 \\\\\n\\hline\n制造公司 & 南京凯岛起重机电制造有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val067.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效率三相异步电动机 \\\\\n\\hline\n型号 & YE3 - 280M - 2 \\\\\n\\hline\n编号 & 162548 \\\\\n\\hline\n功率 & 110 KW \\\\\n\\hline\n功率因数 & COSφ0.91 \\\\\n\\hline\n效率 & 95.2% \\\\\n\\hline\n噪声 & LW 96dB(A) \\\\\n\\hline\n电流 & 195 A \\\\\n\\hline\n执行标准 & GB/18613 - 2020 \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n转速 & 2980 r/min \\\\\n\\hline\n防护等级 & IP 55 \\\\\n\\hline\n工作制 & S1 \\\\\n\\hline\n能效 & 3级 \\\\\n\\hline\n重量 & 680 Kg \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n出厂日期 & 2024年8月 \\\\\n\\hline\n生产厂家 & 山东鑫沃起重机械有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val068.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 变频调速三相异步电动机 \\\\\n\\hline\n型号 & YVP112M - 6 \\\\\n\\hline\n功率 & 2.2 kW \\\\\n\\hline\n标准 & JB/T7118 - 1993 \\\\\n\\hline\n额定电压 & 220/380 V \\\\\n\\hline\n额定电流 & 10.6/6.1 A \\\\\n\\hline\n基准频率 & 60 Hz \\\\\n\\hline\n基准转速 & 1130 r/min \\\\\n\\hline\n恒转矩 & 6 - 60 Hz \\\\\n\\hline\n绝缘等级 & F级绝缘 \\\\\n\\hline\n工作制 & S1工作制 \\\\\n\\hline\n恒功率 & 60 - 200 Hz \\\\\n\\hline\n重量 & 33 kg \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n编号 & 2017年3月 \\\\\n\\hline\n生产公司 & 浙江奥龙科技开发有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val069.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n型号Type & YE3 - 315S - 4 \\\\\n\\hline\n功率 & 110 kW \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n电流 & 196.8 A \\\\\n\\hline\n接法Conn & △ \\\\\n\\hline\n绕组 & S1 \\\\\n\\hline\n绝缘等级IC & 411 \\\\\n\\hline\n防护等级 & IP 55 \\\\\n\\hline\n安装形式IM & B3 \\\\\n\\hline\n转速 & 1485 r/min \\\\\n\\hline\n热分级Class & 155 (F) \\\\\n\\hline\n效率IE3 & - 95.4 % \\\\\n\\hline\n功率因数COSφ & 0.89 \\\\\n\\hline\n噪声 & 88 dB(A) \\\\\n\\hline\n标准编号STD & GB/T28575 - 2020 \\\\\n\\hline\n环境温度 & 40 ℃ \\\\\n\\hline\n重量 & 919 kg \\\\\n\\hline\n编号NO & Y21115168 \\\\\n\\hline\n海拔 & 1000 m \\\\\n\\hline\n日期Date & 2021.12 \\\\\n\\hline\n生产厂家 & 湘潭电机股份有限公司 \\\\\n\\hline\n厂家英文 & XIANGTAN ELECTRIC MANUFACTURING CO.,LTD \\\\\n\\hline\n厂家标志 & XEMC \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val070.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相力矩电动机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & YZE128B - 1 \\\\\n\\hline\n额定力矩 & 20Nm \\\\\n\\hline\n转速 & 720r/min \\\\\n\\hline\n工作电压 & 380V \\\\\n\\hline\n额定电流 & 4.9A \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n接法 & Y \\\\\n\\hline\n绝缘等级 & H \\\\\n\\hline\nIP等级 & IP55 \\\\\n\\hline\n工作方式 & S1 \\\\\n\\hline\n重量 & 50kg \\\\\n\\hline\n编号 & 5634 \\\\\n\\hline\n生产日期 & 2022.9 \\\\\n\\hline\n生产公司 & 大连滨海起重机吊具有限公司 \\\\\n\\hline\n电话 & 0411 - 86288732 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val071.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 隔爆型锥形转子三相异步电动机 \\\\\n\\hline\n型号 & BZD 51 - 4 \\\\\n\\hline\n功率 & 13 KW \\\\\n\\hline\n接法 & Y/△ \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n定额 & S4 - 25% 120 次/h \\\\\n\\hline\n单位 & Kgm² \\\\\n\\hline\n电流 & 26 A \\\\\n\\hline\n转速 & 1380 r/min \\\\\n\\hline\n制动力矩 & 147.10 N.m \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n防护等级 & IP54 \\\\\n\\hline\n执行标准 & GB3836.1.2 - 2010 \\\\\n\\hline\n防爆标志 & ExdⅡCT4 Gb \\\\\n\\hline\n防爆合格证编号 & CNEx20.1447X \\\\\n\\hline\n重量 & 262 kg \\\\\n\\hline\n编号 & 无（图片中未清晰显示） \\\\\n\\hline\n日期 & 无（图片中未清晰显示） \\\\\n\\hline\n生产公司 & 河南省腾旭机电有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val072.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 直流牵引电动机 \\\\\n\\hline\n型号 & XQ - 3000 - 3 \\\\\n\\hline\n技术条件 & OBL. 515. 002 \\\\\n\\hline\n额定功率 & 3 kW \\\\\n\\hline\n定额 & 60 min \\\\\n\\hline\n额定电压 & 48 V \\\\\n\\hline\n励磁方式 & 串励 \\\\\n\\hline\n额定电流 & 82 A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n额定转速 & 1500min⁻¹ \\\\\n\\hline\n最高转速 & 3200r/min \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n重量 & （未标注） \\\\\n\\hline\n出厂编号 & BL19040098 \\\\\n\\hline\n出厂日期 & 19年06月 \\\\\n\\hline\n生产厂家 & 常州宝罗电机有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val073.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效三相异步电动机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & HW - 160L - 4 \\\\\n\\hline\n额定电流 & 38.8A \\\\\n\\hline\n功率 & 30KW \\\\\n\\hline\n额定电压 & 380V \\\\\n\\hline\n执行标准 & GB/T28575 - 2024 \\\\\n\\hline\n效率 & 92.1% \\\\\n\\hline\n编号 & 8692 \\\\\n\\hline\n日期 & 2024年12月 \\\\\n\\hline\n生产厂家 & 上海业翔电机厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val074.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n型号 & YE5 - 280M - 4 \\\\\n\\hline\n编号 & 106867 \\\\\n\\hline\n功率 & 90kW - 4级 \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n电流 & 163.0A \\\\\n\\hline\n频率 & 50Hz \\\\\n\\hline\n效率 & 96.9% \\\\\n\\hline\n功率因数 & cos0.89 \\\\\n\\hline\n转速 & 1490r/min \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n防护等级 & IP55 \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n重量 & 590kg \\\\\n\\hline\n标准 & GB/T 28575 - 2020 \\\\\n\\hline\n生产日期 & 2022年03月 \\\\\n\\hline\n生产厂家 & 阆中市智锐有限公司 \\\\\n\\hline\n接法图示 & △接法图示（U2 - V2 - W2相连，U1、V1、W1分别接三相电源），Y接法图示（U2、V2、W2相连，U1、V1、W1分别接三相电源） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val075.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & Y132M - 4 \\\\\n\\hline\n编号 & 无 \\\\\n\\hline\n功率 & 7.5 KW \\\\\n\\hline\n电流 & 15.0 A \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n转速 & 1440r/min \\\\\n\\hline\n噪声 & LW 87 dB \\\\\n\\hline\n接法 & 无 \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n频率 & 50HZ \\\\\n\\hline\n重量 & 70Kg \\\\\n\\hline\n标准编号 & 无 \\\\\n\\hline\n工作制 & SI \\\\\n\\hline\n绝缘等级 & B级 \\\\\n\\hline\n生产日期 & 无 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val076.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 参数 \\\\\n\\hline\n品牌 & GREE 格力 \\\\\n\\hline\n公司 & 珠海格力电器股份有限公司 \\\\\n\\hline\n设备类型 & 风冷单元式空调机组室外机 \\\\\n\\hline\n型号 & RF12WQ/NhB - N3JY01(O) \\\\\n\\hline\n额定电压 & 380V 3N~ \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n制冷输入功率 & 3664W \\\\\n\\hline\n制热输入功率 & 3744W \\\\\n\\hline\n最大输入功率 & 5164W \\\\\n\\hline\n制冷剂名称及注入量 & R32 2.20kg \\\\\n\\hline\n防水等级 & IPX4 \\\\\n\\hline\n质量 & 95kg \\\\\n\\hline\n出厂编号 & 见机身条码 \\\\\n\\hline\n制造日期 & 2023.09 \\\\\n\\hline\nCCC认证编号 & 600004077589 \\\\\n\\hline\n警告 & 本机采用环保制冷剂：R32，维修前请仔细阅读 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val077.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|}\n\\hline\n设备名称 & 参数名称 & 参数值 \\\\\n\\hline\n---- & ---- & ---- \\\\\n\\hline\n电动汽车交流充电桩 & 输入电压 & AC220V/50Hz \\\\\n\\hline\n & 型号 & CSG - BCG - A16/K01 \\\\\n\\hline\n & 输出电压 & AC220V/50Hz \\\\\n\\hline\n & 防护等级 & IP55 (室内或室外使用) \\\\\n\\hline\n & 额定功率 & 3.5KW \\\\\n\\hline\n & 编号 & CSG21102507 \\\\\n\\hline\n & 输出电流 & 16A \\\\\n\\hline\n & 生产日期 & 2021年10月20日 \\\\\n\\hline\n & 生产公司 & 科大智能(合肥)科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val078.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 小米电动汽车交流充电桩 \\\\\n\\hline\n额定输入电压 & AC 220V 50Hz \\\\\n\\hline\n额定输出电压 & AC 220V 50Hz \\\\\n\\hline\n输出电流范围 & 0~32A \\\\\n\\hline\n额定功率 & 7kW \\\\\n\\hline\n常数 & 3200imp/kWh \\\\\n\\hline\n计量单位 & kWh \\\\\n\\hline\n精度 & 1级 \\\\\n\\hline\n产品编号 & 55609/A3ZW00013 \\\\\n\\hline\n产品型号 & P000001654001 \\\\\n\\hline\n生产日期 & 2023/12/28 \\\\\n\\hline\n标准 & GB/T18487.1-2015、JJG1148-2022 \\\\\n\\hline\n生产厂家 & 科大智能（合肥）科技有限公司 \\\\\n\\hline\n防护等级 & IP55（室内或室外使用） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val079.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n产品名称 & 10路充电桩 \\\\\n\\hline\n设备型号 & CX-10B \\\\\n\\hline\n机身尺寸 & 310*115*450 (mm) \\\\\n\\hline\n机器净重 & 5.85kg \\\\\n\\hline\n输入电压 & AC220V/50HZ \\\\\n\\hline\n输出电压 & AC220V/50HZ \\\\\n\\hline\n最大承载电流 & MAX:20A \\\\\n\\hline\n待机功率 & 3W \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val080.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 箱式开闭所 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & 无 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n母线额定电流 & 630 A \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定工频耐受电压 & 42 kV \\\\\n\\hline\n防护等级 & IP□ \\\\\n\\hline\n额定雷电冲击耐受电压 & 75 kV \\\\\n\\hline\n标准代号 & JB/T 10840 - 2008 \\\\\n\\hline\n制造年月 & 年 月 \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n制造公司 & 湖北拓普电力有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val081.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 真空断路器 \\\\\n\\hline\n型号 & AEVK I -55/T2000-31.5-2P \\\\\n\\hline\n额定电压 & 55 kV \\\\\n\\hline\n雷电冲击耐压（对地） & 350 kV \\\\\n\\hline\n雷电冲击耐压（相间） & 350 kV \\\\\n\\hline\n雷电冲击耐压（断口间） & 350 kV \\\\\n\\hline\n工频耐压（对地） & 150 kV \\\\\n\\hline\n工频耐压（相间） & 150 kV \\\\\n\\hline\n工频耐压（断口间） & 150 kV \\\\\n\\hline\n额定电流 & 2000 A \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定短路断路电流 & 31.5 kA \\\\\n\\hline\n额定短路持续时间 & 4 sec \\\\\n\\hline\n分闸时间（不大于） & 0.04 sec \\\\\n\\hline\n合闸时间（不大于） & 0.1 sec \\\\\n\\hline\n额定操作顺序 & 分-0.3sec-合分-180sec-合分 \\\\\n\\hline\n额定电源电压 & / \\\\\n\\hline\n合闸控制电路 & 直流 110V \\\\\n\\hline\n跳闸操作电路 & 直流 110V \\\\\n\\hline\n储能电动机电路 & 直流 110V \\\\\n\\hline\n电热器电路 & 单相交流 220V \\\\\n\\hline\n绝缘介质 & SF₆ \\\\\n\\hline\n制造标准 & IEC - 62271 - 100 \\\\\n\\hline\n重量 & 760Kg \\\\\n\\hline\n制造年月 & 2021年1月 \\\\\n\\hline\n系列号 & UV21118 - 001 \\\\\n\\hline\n制造公司 & 上海明电舍长城开关有限公司 \\\\\n\\hline\n公司地址 & 中国·上海 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val082.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & Name/品名 & Model/型号 & Power/功率 & Voltage/电压 & Manufactory/公司 & Add/地址 & Date/生产日期 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n龙门架 & 龙门架 & HHBB01 - 01S & 25W & 220V & 河南省华瑞超重设备有限公司 & 中国 河南 & 2022年12月 \\\\\n\\hline\n备注 &  &  &  &  &  &  & Made in China \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val083.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 直流牵引电动机 \\\\\n\\hline\n型号 & XQ - 3000 - 3 \\\\\n\\hline\n技术条件 & OBL.515.002 \\\\\n\\hline\n额定功率 & 3 kW \\\\\n\\hline\n定额 & 60 min \\\\\n\\hline\n额定电压 & 48 V \\\\\n\\hline\n励磁方式 & 串励 \\\\\n\\hline\n额定电流 & 82 A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n额定转速 & 1500min \\\\\n\\hline\n最高转速 & 3200r/min \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n重量 & （未标明具体数值）kg \\\\\n\\hline\n出厂编号 & BL19040098 \\\\\n\\hline\n出厂日期 & 19年06月 \\\\\n\\hline\n生产厂家 & 常州宝罗电机有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val084.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外开闭所 \\\\\n\\hline\n产品型号 & XGW - 12 \\\\\n\\hline\n执行标准 & GB3906 - 2006 \\\\\n\\hline\n型号名称 &  \\\\\n\\hline\n额定峰值耐受电流 & 63kA \\\\\n\\hline\n额定电压 & 12kV \\\\\n\\hline\n额定短时耐受电流 & 25kA/4s \\\\\n\\hline\n额定电流 & 630A \\\\\n\\hline\n额定短时工频耐受电压 & 42kV \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n额定雷电冲击耐受电压 & 75kV \\\\\n\\hline\n防护等级 & IP34D \\\\\n\\hline\n客户名称 &  \\\\\n\\hline\n出厂日期 &  \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n生产厂家 & 广东东捷实业有限公司 \\\\\n\\hline\n地址 & 广东省揭阳市榕城区龙石工业区 \\\\\n\\hline\n服务热线 & 400 - 823 - 5888 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val085.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 低压成套开关设备（Low - voltage Switchgear Assemblies） \\\\\n\\hline\n型号 & BWG - R \\\\\n\\hline\n额定电流InA & 1000 A \\\\\n\\hline\n标准 & GB/T 7251.2 - 2023 \\\\\n\\hline\n额定电压Un & 400 V \\\\\n\\hline\n额定频率fn & 50Hz \\\\\n\\hline\n出厂编号 & 24110101R001 \\\\\n\\hline\n额定绝缘电压 & 1000 V \\\\\n\\hline\n制造年月 & 2024.11 \\\\\n\\hline\n制造公司 & 江苏洛凯机电股份有限公司（Jiangsu Luokai Mechanical & Electrical Co., Ltd） \\\\\n\\hline\n制造地点 & 常州（Changzhou），中国（China） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val086.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 真空自动配电开关 \\\\\n\\hline\n型号 & FZW28 - 12 \\\\\n\\hline\n额定电压 & 12kV \\\\\n\\hline\n额定电流 & 630A \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n操作电压 & AC 220V \\\\\n\\hline\n额定短路关合电流 & 50kA(峰值) \\\\\n\\hline\n额定短时耐受电流 & 20kA 4s \\\\\n\\hline\n1分钟工频耐受电压 & 42kV \\\\\n\\hline\n雷电冲击耐受电压 & 75kV \\\\\n\\hline\n电流互感器变比 & 600/ \\\\\n\\hline\n重量 & 185kg \\\\\n\\hline\n产品编号 &  \\\\\n\\hline\n生产日期 &  \\\\\n\\hline\n技术引进 & 引进日本东芝公司技术 \\\\\n\\hline\n制造公司 & 珠海许继电气有限公司制造 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val088.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 非无菌BIB袋灌装机 \\\\\n\\hline\n名称/Name & 非无菌BIB袋灌装机 \\\\\n\\hline\n功率/Power & 约180袋/小时（按10L计） \\\\\n\\hline\n电源/Voltage & 380V \\\\\n\\hline\n型号/Model & TP - BIB - N2 \\\\\n\\hline\n出厂编号/Serial Number & TP600632 \\\\\n\\hline\n出厂日期/Date of Production & 2025.2 \\\\\n\\hline\n生产公司 & 上海拓品农业科技有限公司（Shanghai Tuopin Intelligent Machinery CO.,LTD.） \\\\\n\\hline\n地址 & 上海市金山区金山卫镇钱鑫路301号 \\\\\n\\hline\n售后服务/After - Sale Service & 13817774313 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val089.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 产品型号 & 执行标准 & 额定电压（kV） & 整机重量（kg） & 额定电流（A） & 额定短路关合电流(峰值)（kA） & 额定短时工频耐受电压（kV） & 额定热稳定电流（kA/s） & 额定短时工频耐受电压(断口)（kV） & 防护等级 & 出厂编号 & 制造年月 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n预装式金属封闭环网箱 &  &  &  &  &  &  &  &  &  & IP43 &  & 年 月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val090.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & NARI \\\\\n\\hline\n执行标准 & GB/T3906 \\\\\n\\hline\n产品型号 & XGN□ -12（V）/T630 -20 \\\\\n\\hline\n产品名称 & 高压交流环保气体绝缘金属封闭开关设备 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n额定短路开断电流 & 20 kA \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路开断电流开断次数 & 30 次 \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定峰值耐受电流 & 50 kA \\\\\n\\hline\n额定工频耐受电压 & 42 kV \\\\\n\\hline\n额定操作电压 & DC48 V \\\\\n\\hline\n额定雷电冲击耐受电压 & 75 kV \\\\\n\\hline\n额定辅助电压 & DC48 V \\\\\n\\hline\n额定短路耐受电流 & 20 kA \\\\\n\\hline\n内部燃弧故障等级 & AFLR/1 -20 \\\\\n\\hline\n额定短时耐受持续时间 & 4 s \\\\\n\\hline\n额定气体压力（20℃） & 0.02 MPa \\\\\n\\hline\n产品编号 & 2025021206 \\\\\n\\hline\n出厂年月 & 2025年3月 \\\\\n\\hline\n生产厂家 & 国电南瑞南京控制系统有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val091.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n设备名称 & 无明确提及，有“运达股份 WINDEY”“洛凯 ROCoi”标识，由运达能源科技集团股份有限公司、江苏洛凯机电股份有限公司联合开发 \\\\\n\\hline\n型号 & _ \\\\\n\\hline\n额定雷电冲击耐受电压 & Up \\\\\n\\hline\n额定电压 & Ur \\\\\n\\hline\n额定短路开断电流 & Isc \\\\\n\\hline\n额定电流 & Ir \\\\\n\\hline\n额定操作电压 & Ua \\\\\n\\hline\n额定频率 & fr \\\\\n\\hline\n额定辅助电压 & Ua \\\\\n\\hline\n额定工频耐受电压 & Ud \\\\\n\\hline\n防护等级（充气壳体/柜体） & _ \\\\\n\\hline\n额定短时耐受电流 & Ik \\\\\n\\hline\n额定充入相对压力 & MPa(20℃) \\\\\n\\hline\n额定峰值耐受电流 & Ip \\\\\n\\hline\n标准号 & GB/T3906 IEC62271:200 \\\\\n\\hline\n额定短路持续时间 & tk \\\\\n\\hline\n制造日期 & _ \\\\\n\\hline\n适用海拔 & _ \\\\\n\\hline\n出厂编号 & _ \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val092.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 固体绝缘金属封闭开关设备 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n额定电流 & A \\\\\n\\hline\n型号 &  \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定短路关合电流 & kA \\\\\n\\hline\n额定短时耐受电流 & kA/4 s \\\\\n\\hline\n额定峰值耐受电流 & kA \\\\\n\\hline\n执行标准 & GB 3906 \\\\\n\\hline\n额定工频耐受电压 & 相间/相对地 42kV 1min 隔离断口 48kV 1min \\\\\n\\hline\n额定雷电冲击耐受电压 & 相间/相对地 75kV 隔离断口 85kV \\\\\n\\hline\n编号 &  \\\\\n\\hline\n制造日期 &  \\\\\n\\hline\n制造公司 & 湖南德意电气有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val093.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 一体式直流充电机 \\\\\n\\hline\n产品型号 & EVD751 - 120K - TD \\\\\n\\hline\n额定输出功率 & 120kW \\\\\n\\hline\n单路额定功率 & A枪120kW/B枪120kW \\\\\n\\hline\n输出电流范围 & A枪30 - 250A/B枪30 - 250A \\\\\n\\hline\n产品依据标准 & GB/T 18487.1 - 2015 \\\\\n\\hline\n客服热线 & 400 - 660 - 2335 \\\\\n\\hline\n设备编号 & 565002001110MCF00007 \\\\\n\\hline\n生产日期 & 2021年12月 \\\\\n\\hline\n额定输入电压 & AC 380V \\\\\n\\hline\n输出电压范围 & DC 200 - 750V \\\\\n\\hline\n最大输出电流 & 250A \\\\\n\\hline\n准确度等级 & 1.0级 \\\\\n\\hline\n防护等级 & 室外IP54 \\\\\n\\hline\n脉冲常数 & 100 imp/kWh \\\\\n\\hline\n生产厂家 & 深圳市科华恒盛科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val094.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户内高压交流真空断路器 \\\\\n\\hline\n品牌 & 森源（SENYUAN） \\\\\n\\hline\n生产厂家 & 河南森源电气股份有限公司 \\\\\n\\hline\n产品型号 & ZNC - 12/T630 -□ \\\\\n\\hline\n符合标准 & GB/T 1984 \\\\\n\\hline\n额定电压 & □kV \\\\\n\\hline\n额定电流 & □A \\\\\n\\hline\n额定频率 & □Hz \\\\\n\\hline\n额定雷电冲击耐受电压 & □kV \\\\\n\\hline\n额定短时耐受电流 & □kA \\\\\n\\hline\n辅助回路的额定电源电压 & □V \\\\\n\\hline\n额定短路开断电流 & □kA \\\\\n\\hline\n额定短路开断电流的直流分量 & 54% \\\\\n\\hline\n额定短路持续时间 & 4 s \\\\\n\\hline\n额定操作顺序 & 0 - 0.3s - CO - 180s - CO \\\\\n\\hline\n分级 & M2 - E2 - C2 \\\\\n\\hline\n质量 & □kg \\\\\n\\hline\n出厂编号 & □ \\\\\n\\hline\n制造日期 & □年□月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val095.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 喷漆废水一体化处理设备 \\\\\n\\hline\n品牌 & Elin \\\\\n\\hline\n产品型号 & YL - PQFS05 \\\\\n\\hline\n英文型号 & MODEL \\\\\n\\hline\n处理风量 & 5.0m³/d \\\\\n\\hline\n英文处理风量 & Treatment air volume \\\\\n\\hline\n外形尺寸（长×宽×高）mm & 8800×3400×3100 \\\\\n\\hline\n英文外形尺寸 & OVERALL DIMENSIONS(L×W×H) \\\\\n\\hline\n出厂编号 & FS20241230 \\\\\n\\hline\n英文出厂编号 & NO. OF DELIVERY \\\\\n\\hline\n出厂日期 & 2024年12月 \\\\\n\\hline\n英文出厂日期 & DETE OF DELIVERY \\\\\n\\hline\n生产公司 & 广东亦霖环保设备股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 2026t/h 控制循环锅炉 \\\\\n\\hline\n型号 & SG - 2026/17.5 - M905 \\\\\n\\hline\n产品标准号 & Q/JDAG 6 - 2001 \\\\\n\\hline\n过热蒸汽(MCR) - 流量 & 2026 t/h \\\\\n\\hline\n过热蒸汽(MCR) - 压力 & 175 bar \\\\\n\\hline\n过热蒸汽(MCR) - 温度 & 541 ℃ \\\\\n\\hline\n再热蒸汽(MCR) - 流量 & 1671.4 t/h \\\\\n\\hline\n再热蒸汽(MCR) - 压力 & 38.4/36.4 bar \\\\\n\\hline\n再热蒸汽(MCR) - 温度 & 325/541 ℃ \\\\\n\\hline\n制造单位 & 上海锅炉厂有限公司 \\\\\n\\hline\n制造许可证 & A级20102007 \\\\\n\\hline\n锅炉编号 & 2000 - 11 \\\\\n\\hline\n制造日期 & 2002.04 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val097.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n名称 & 户内高压隔离/接地开关 \\\\\n\\hline\n型号 & RVAC - G 专用 \\\\\n\\hline\n执行标准 & GB/T 1985 - 2023 \\\\\n\\hline\n额定电压 & 12kV \\\\\n\\hline\n额定峰值耐受电流 & 63kA \\\\\n\\hline\n额定电流 & 630A \\\\\n\\hline\n额定短路开断电流 & / \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n额定短时工频耐受电压 & 42/48kV \\\\\n\\hline\n额定短时耐受电流 & 25kA \\\\\n\\hline\n额定短路持续时间 & 3s \\\\\n\\hline\n额定雷电冲击耐受电压 & 85/95kV \\\\\n\\hline\n出厂编号 & 2404250275 \\\\\n\\hline\n生产日期 & 240425 \\\\\n\\hline\n厂家 & 库柏爱迪生（平顶山）电子科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val098.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|}\n\\hline\n设备名称 & B线门组一个流 & 设备型号 & 1000/1200 \\\\\n\\hline\n设备编码 & 202412008 & 外形尺寸 & 13000*1200*800 \\\\\n\\hline\n电压/频率 & 380V/50Hz & 功率 & 10KW \\\\\n\\hline\n生产日期 & 2024.11 & 安装日期 & 2024.12 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val099.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电动汽车直流充电机 \\\\\n\\hline\n产品型号 & LEVJ - 500/120 \\\\\n\\hline\n额定功率 & 120kW \\\\\n\\hline\n输入电压 & 380V±15% \\\\\n\\hline\n输出电压 & 200～500V \\\\\n\\hline\n电源频率 & 50±1Hz \\\\\n\\hline\n输出电流 & 0～240A \\\\\n\\hline\n出厂编号 & LA161097 \\\\\n\\hline\n生产日期 & 13/04 \\\\\n\\hline\n生产厂家 & 山东鲁能智能技术有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & HW160 \\\\\n\\hline\n编号 & S19080606 \\\\\n\\hline\n功率 & 15KW \\\\\n\\hline\n电压 & 380V \\\\\n\\hline\n电流 & 30A \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n重量 & 65Kg \\\\\n\\hline\n标准编号 & JB/T9618 - 2024 \\\\\n\\hline\n日期 & 2024年12月 \\\\\n\\hline\n生产公司 & 上海力标电机有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 轴流式消防排烟风机 \\\\\n\\hline\n风机型号 & HIF - I - (A) - 14A \\\\\n\\hline\n风机流量 & 88000m³/h \\\\\n\\hline\n运转时间 & 30min \\\\\n\\hline\n风机全压 & 612Pa \\\\\n\\hline\n介质最高温度 & 280℃ \\\\\n\\hline\n风机效率 & 68% \\\\\n\\hline\n额定电压 & 380V \\\\\n\\hline\n电机型号 & Y200L2 - 6 \\\\\n\\hline\n电机功率 & 22kW \\\\\n\\hline\n电机转速 & 960r/min \\\\\n\\hline\n执行标准 & GA211 - 2009 \\\\\n\\hline\n出厂编号 & 1804290386 \\\\\n\\hline\n出厂日期 & 2024年4月 \\\\\n\\hline\n生产厂家 & 佛山市南海九洲普惠风机有限公司 \\\\\n\\hline\n厂址 & 广东佛山市南海区狮山镇小塘新城塘新三路3号 \\\\\n\\hline\n电话 & 0757 - 86636308 \\\\\n\\hline\n传真 & 0757 - 86636309 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val102.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 室内消防水临时泵（一用一备） \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & XBD4/20 - SLH \\\\\n\\hline\n流量 & 20L/s \\\\\n\\hline\n压力 & 0.4MPa \\\\\n\\hline\n扬程 & 40m \\\\\n\\hline\n机组重量 & 250KG \\\\\n\\hline\n转速 & 2930r/min \\\\\n\\hline\n电机型号 & Y160M2 - 2 \\\\\n\\hline\n电机功率 & 15kW \\\\\n\\hline\n生产公司 & 集团股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 权昌设备 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & QC - 5000 \\\\\n\\hline\n设计压力 & 1.0Mpa \\\\\n\\hline\n电源 & 220V/50Hz \\\\\n\\hline\n设计温度 & -10 - 150℃ \\\\\n\\hline\n功率 & 0.1kW \\\\\n\\hline\n换热功率 & 12kW \\\\\n\\hline\n出厂日期 & 2024.12.28 \\\\\n\\hline\n出厂编号 & QC20250101 \\\\\n\\hline\n地址 & 深圳市宝安区燕罗街道塘尾新村塘尾工业园区1栋4号 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高效三相异步电动机 \\\\\n\\hline\n型号 & HW - 160L - 4 \\\\\n\\hline\n额定电流 & 38.8A \\\\\n\\hline\n功率 & 30KW \\\\\n\\hline\n额定电压 & 380V \\\\\n\\hline\n执行标准 & GB/T28575 - 2024 \\\\\n\\hline\n效率 & 92.1% \\\\\n\\hline\n编号 & 8692 \\\\\n\\hline\n日期 & 2024年12月 \\\\\n\\hline\n生产厂家 & 上海业翔电机厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 3T天车 \\\\\n\\hline\n型号 & HHBB2.8 - 02 \\\\\n\\hline\n机器编号 & H240301 - 774 \\\\\n\\hline\n电机功率 & 3.0KW \\\\\n\\hline\n额定电流 & 7.9A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n额定起重量 & 2.8T \\\\\n\\hline\n提升高度 & 4m \\\\\n\\hline\n提升速度 & 3.3m/min \\\\\n\\hline\n额定电压 & 380V \\\\\n\\hline\n检验日期 & 2024.03.01 \\\\\n\\hline\n生产厂家 & 台州博能起重设备有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val107.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 环保气体绝缘交流金属封闭开关设备 \\\\\n\\hline\n型号 Type designation & NGH - 40.5（Z） \\\\\n\\hline\n额定电压 Rated voltage & 40.5 kV \\\\\n\\hline\n执行标准 Executed standard & GB/ T 3906 - 2020<br>IEC62271 - 200:2021 \\\\\n\\hline\n额定电流 Rated current & 1250 A \\\\\n\\hline\n额定频率 Rated frequency & 50 Hz \\\\\n\\hline\n额定短路开断电流 Rated short - circuit breaking current & 31.5 kA \\\\\n\\hline\n额定短时耐受电流 Rated short - time withstand current & 31.5 kA \\\\\n\\hline\n额定短时工频耐受电压 Rated short time power - frequency withstand voltage & 95/118 kV \\\\\n\\hline\n防护等级 Degree of Protection & IP67/IP41 \\\\\n\\hline\n额定雷电冲击耐受电压 Rated lighting impulse withstand voltage & 185/215 kV \\\\\n\\hline\n质量 Weight & 1000 kg \\\\\n\\hline\n干燥空气最低功能压力(20℃) Minimum functional pressure (20℃) & 0.02MPa \\\\\n\\hline\n干燥空气额定压力（20℃）Dry air rated pressure (20℃) & 0.05 MPa \\\\\n\\hline\n出厂编号 & ZCQ2401369 \\\\\n\\hline\n制造年月 & 2024年2月 \\\\\n\\hline\n制造商 & 正泰电气股份有限公司 CHINT ELECTRIC CO., LTD.<br>制造厂：浙江正泰电气科技有限公司 Manufacturer：Zhejiang CHINT Electric Technology CO.,LTD. \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 喷漆废水一体化处理设备 \\\\\n\\hline\n产品型号 & YL - PQFS01 \\\\\n\\hline\n处理风量 & 1.0m³/d \\\\\n\\hline\n外形尺寸（长X宽X高） & 3800X2600X1400mm \\\\\n\\hline\n出厂编号 & FQ20241130 \\\\\n\\hline\n出厂日期 & 2024年11月 \\\\\n\\hline\n执行标准 & 广东省地方标准《水污染物排放标准》（Guangdong Provincial Standard \"Discharge Limits of Water Pollutants\"） \\\\\n\\hline\n生产公司 & 广东亦霖环保设备股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & RVAC户外开关箱 \\\\\n\\hline\n型号/Type & RVAC — PT 6D(PT) \\\\\n\\hline\n制造日期/Mfg. Date & 2024.11 \\\\\n\\hline\n出厂编号/Serial Number & PEF24014306 \\\\\n\\hline\n额定电压/Ur & 12 kV \\\\\n\\hline\n质量/Mass & 3800 kg \\\\\n\\hline\n额定短时耐受电流/Ik & 25 kA \\\\\n\\hline\n额定频率/fr & 50Hz \\\\\n\\hline\n额定短路持续时间/tk & 3 s \\\\\n\\hline\n额定电流/Ir & 630 A \\\\\n\\hline\n额定短时工频耐受电压/Ud & 42/48 kV \\\\\n\\hline\n额定峰值耐受电流/Ip & 63 kA \\\\\n\\hline\nSF6质量/SF6 Mass & 8.8 kg \\\\\n\\hline\n额定雷电冲击耐受电压/Up & 85/95 kV \\\\\n\\hline\n额定操作电压/Ua & DC48V \\\\\n\\hline\nSF6额定充入相对压力/Pre & 0.03 MPa(20℃) \\\\\n\\hline\n温度范围/Temperature range & -50℃～+65℃ \\\\\n\\hline\n箱体防护等级 & IP44 \\\\\n\\hline\n适用的标准/Applied Standard & GB/T 3906 \\\\\n\\hline\n制造商 & 库柏爱迪生（平顶山）电子科技有限公司 Cooper Edison (Pingdingshan) Electronic Technologies Co.,Ltd. \\\\\n\\hline\n所属电网 & 中国南方电网 CHINA SOUTHERN POWER GRID \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val110.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类别 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n设备名称 & 华为拉挤天线罩圆管模具 \\\\\n\\hline\n模具编号 & DKBA0.021.5199 \\\\\n\\hline\n产品编码 & DKBA8.191.2079 \\\\\n\\hline\n制造日期 & 2020/5/20 \\\\\n\\hline\n模具名称 & 拉挤天线罩圆管 \\\\\n\\hline\n供应商代码 & 21807 \\\\\n\\hline\n产品材料 & Com.HL - YB206 - HB \\\\\n\\hline\n重量（kg） & 1300 \\\\\n\\hline\n模具尺寸（mm） & 500*500*600 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 组合式变电站 \\\\\n\\hline\n产品型号 & ZGS13 - Z - 250 /10 \\\\\n\\hline\n执行标准 & JB/T10217 - 2013 \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定电压 & 10/0.4 kV \\\\\n\\hline\n变压器容量 & 250 kVA \\\\\n\\hline\n额定电流 & 14.43/360.84A \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n出厂编号 & 2022000002257 \\\\\n\\hline\n出厂日期 & 2022年09月 \\\\\n\\hline\n生产厂家 & 江苏林源电力变压器科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val112.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & ZGJ/NEG 低压电缆分支箱 \\\\\n\\hline\n产品型号 & JNDFW \\\\\n\\hline\n执行标准 & GB/T 7251.5 - 2017 \\\\\n\\hline\n额定工作电压 & AC 400V \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n额定绝缘电压 & 690V \\\\\n\\hline\n额定电流 & 400A \\\\\n\\hline\n短时耐受电流 & 20kA \\\\\n\\hline\n防护等级 & IP 44 \\\\\n\\hline\n出厂编号 & FX14931 \\\\\n\\hline\n出厂日期 & 2022年8月 \\\\\n\\hline\n生产厂家 & 南京加能电气有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 环网柜 \\\\\n\\hline\n品牌 & 诚控电气（CHKON） \\\\\n\\hline\n型号 &  \\\\\n\\hline\n主母线额定电流 & A \\\\\n\\hline\n分支母线额定电流 & A \\\\\n\\hline\n额定短路耐受电流 & S \\\\\n\\hline\n额定工频耐受电压 & kV \\\\\n\\hline\n额定雷电冲击电压 & kV \\\\\n\\hline\n额定电压 & A \\\\\n\\hline\n额定频率 & Hz \\\\\n\\hline\n防护等级 & IP 41 \\\\\n\\hline\n执行标准 & GB 3906 \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n制作年月 & 20 年 月 \\\\\n\\hline\n生产公司 & 福建诚控电气有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 10kV SF6环网柜 \\\\\n\\hline\n型号 &  \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n额定短时耐受电流 & 20 kA \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路持续时间 & 4 s \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\nSF6气体额定压力20℃ & 0.035 MPa \\\\\n\\hline\n防护等级 & IP4X \\\\\n\\hline\n额定峰值耐受电流 & 50 kA \\\\\n\\hline\n适用标准 & GB/T3906 - 2006 \\\\\n\\hline\n额定短时工频耐受电压 & 50 kV \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n额定雷电冲击耐受电压 & 125 kV \\\\\n\\hline\n制作年月 & 20 年 月 \\\\\n\\hline\n生产厂家 & 七星电气股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val115.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & SF6充气式高压环网开关柜 \\\\\n\\hline\n型号 & NQT - 12/V \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定短时耐受电流 & 20 kA \\\\\n\\hline\n防护等级 & IP41 \\\\\n\\hline\n额定短路持续时间 & 4 s \\\\\n\\hline\n执行标准 & GB/T 3906 \\\\\n\\hline\n额定工频耐受电压 & 42 kV \\\\\n\\hline\n出厂编号 & A202205062 \\\\\n\\hline\n额定雷电冲击电压 & 75 kV \\\\\n\\hline\n制作年月 & 2022年06月 \\\\\n\\hline\n生产厂家 & 上海启腾电气股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val128.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n信息类型 & 详情 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n公司名称 & 上海固劳机械设备有限公司 \\\\\n\\hline\n设备名称 & 套标机 \\\\\n\\hline\n型号 & GL - 200P \\\\\n\\hline\n出厂日期 & 无 \\\\\n\\hline\n电压 & 220V \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n功率 & 3KW \\\\\n\\hline\n电话 & 021 - 59187121 \\\\\n\\hline\n手机 & 13651992392 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 信息 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n制造商 & 中国.重庆长安铃木汽车有限公司 \\\\\n\\hline\n车辆识别代号 & LS5A3ABD7AB158999 \\\\\n\\hline\n品牌 & 长安牌 \\\\\n\\hline\n型号 & SC7103 \\\\\n\\hline\n总质量 & 1265kg \\\\\n\\hline\n发动机型号 & K10B \\\\\n\\hline\n乘员数 & 5 \\\\\n\\hline\n额定功率 & 52kw \\\\\n\\hline\n制造年月 & 2010/11/03 \\\\\n\\hline\n发动机排量 & 0.996L \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 内容 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n配电柜 & 型号：KCD<br>额定电压：380V<br>防护等级：IP30<br>出厂编号：<br>额定电流：<br>额定频率：50HZ<br>执行标准：GB7251.12<br>出厂日期：<br>生产厂家：山东智富电器有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 自动温控燃煤烘干房 \\\\\n\\hline\n产品型号 & 5HM - 4.5 \\\\\n\\hline\n额定电压 & 380 V \\\\\n\\hline\n外形尺寸 & 9760*3200*2700mm \\\\\n\\hline\n配套总功率 & 8.3kw \\\\\n\\hline\n生产日期 & 201 年  月（年份不完整） \\\\\n\\hline\n出产编号 & 无 \\\\\n\\hline\n生产公司 & 河北皓凯贸易有限公司 \\\\\n\\hline\n地址 & 石家庄高新区307国道太行大街东 \\\\\n\\hline\n电话 & 89680345 85096225 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 规格型号 & 路电 & 产品编号 & 生产日期 & 生产厂家 & 地址 & 销售电话 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n铁路便携式橡胶防溜枕木 & 240*150*150mm & 025-83777 & TDJPR20207864 & 2021年03月27日 & 深州市铁源通信器材配件加工厂 & 河北省深州市王家井西蒿科工业园区 & 18631822886 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 出厂编号 & 额定电压 & 相数 & 额定电流 & 出厂日期 & 生产厂家 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n低压配电箱 & GGD - DLQX & 44120600001 & 380V & 3 & 36A & 2015年10月 & 山东博泵科技股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 产品型号 & 产品标准 & 额定绝缘电压 & 频率 & 额定工作电压 & 额定电流 & 出厂编号 & 制造日期 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n低压抽出式成套开关设备 &  & GB7251.1 & 660V & 50Hz & 380V & A &  & 年 月 \\\\\n\\hline\n制造商 & 湖南一开正泰成套电器有限公司 &  &  &  &  &  &  &  \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 间接蒸发冷却空调 \\\\\n\\hline\n型号 & ZXDA46 S264 \\\\\n\\hline\n系列号 & 见条码 \\\\\n\\hline\n电源 & 380V/3N/50Hz \\\\\n\\hline\n气流形态 & 端装端送端回 \\\\\n\\hline\n机组额定制冷量 & 250kW \\\\\n\\hline\n内循环机外全压 & 150Pa \\\\\n\\hline\n内循环额定风量 & 61000m³/h \\\\\n\\hline\n外循环额定风量 & 60000m³/h \\\\\n\\hline\nDX系统最大制冷量 & 175kW \\\\\n\\hline\n压缩机总功率 & 46kW \\\\\n\\hline\n间接蒸发额定功率 & 34kW \\\\\n\\hline\n机组外形尺寸(L*W*H) & L6500*W3000*H5800mm \\\\\n\\hline\nA/B路最大输入电流 & 100A \\\\\n\\hline\nC/D路最大输入电流 & 100A \\\\\n\\hline\n制冷剂 & R410A \\\\\n\\hline\n机组重量 & 10000kg \\\\\n\\hline\n机组编号 & 见条码 \\\\\n\\hline\n生产日期 & 见条码 \\\\\n\\hline\n生产公司 & 中兴通讯股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 阀门控制柜 \\\\\n\\hline\n英文名称 & VALVE CONTROL CABINET \\\\\n\\hline\n型号 & GR1402 - 40 \\\\\n\\hline\n出厂编号 & 162724009 \\\\\n\\hline\n英文型号 & Model \\\\\n\\hline\n工厂代码 & Factory Code \\\\\n\\hline\n额定电压 & 220VAC \\\\\n\\hline\n额定功率 & 100VA \\\\\n\\hline\n英文额定电压 & Rated Voltage \\\\\n\\hline\n英文额定功率 & Rated Power \\\\\n\\hline\n额定频率 & 50HZ \\\\\n\\hline\n英文额定频率 & Rated Frequency \\\\\n\\hline\n生产公司 & 上海基荏工程设备有限公司 \\\\\n\\hline\n英文生产公司 & Shanghai Glory Engineering Equipment co., LTD \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val137.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 带式输送机用液压卷带装置 \\\\\n\\hline\n型号 & JY /22 \\\\\n\\hline\n电机功率 & 22kW \\\\\n\\hline\n卷带宽度 & ≤  mm \\\\\n\\hline\n电机电压 & /  V \\\\\n\\hline\n卷带直径 & ≤  mm \\\\\n\\hline\n系统油压 & 16MPa \\\\\n\\hline\n卷带重量 & ≤  kg \\\\\n\\hline\n油箱容量 & 300L \\\\\n\\hline\n卷带长度 & ≤100m \\\\\n\\hline\n安标证号 & / \\\\\n\\hline\n出厂编号 & / \\\\\n\\hline\n出厂日期 & 年 月 \\\\\n\\hline\n生产厂家 & 淮北金力工贸有限责任公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val138.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外高压真空断路器 \\\\\n\\hline\n型号 & ZW8 - 12/630 - 20 \\\\\n\\hline\n电流比 & 200/5、400/5、600/5 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n分接头 & 200/5 \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路开断电流 & 20 kA \\\\\n\\hline\n额定雷电耐受电压 & 75/85 kV \\\\\n\\hline\n额定工频耐受电压 & 42/48 kV \\\\\n\\hline\n额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\\\\n\\hline\n总重 & 135 kg \\\\\n\\hline\n出厂编号 & 1410198 \\\\\n\\hline\n出厂日期 & 2014年10月 \\\\\n\\hline\n生产公司 & 西安泰开电力科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val139.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外高压真空断路器 \\\\\n\\hline\n型号 & ZW8 - 12/630 - 20 \\\\\n\\hline\n电流比 & 200/5，400/5，600/5 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n分接头 & 200/5 \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路开断电流 & 20 kA \\\\\n\\hline\n额定雷电耐受电压 & 75/85 kV \\\\\n\\hline\n额定工频耐受电压 & 42/48 kV \\\\\n\\hline\n额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\\\\n\\hline\n总重 & 135 kg \\\\\n\\hline\n出厂编号 & 1410198 \\\\\n\\hline\n出厂日期 & 2014年10月 \\\\\n\\hline\n生产厂家 & 西安泰开电力科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val140.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\nTYPE & Y2 - 200L1 - 2 \\\\\n\\hline\nRated Speed（额定转速） & 2960 rpm \\\\\n\\hline\nEfficiency（效率） & 92.0%Ⅲ \\\\\n\\hline\nRated Voltage（额定电压） & 380 V \\\\\n\\hline\nRated Power（额定功率） & 30 kW \\\\\n\\hline\nInsulation Class（绝缘等级） & F \\\\\n\\hline\nProtection Level（防护等级） & IP: 55 \\\\\n\\hline\nRated Current（额定电流） & 55.1 A \\\\\n\\hline\nFrequency（频率） & 50 Hz \\\\\n\\hline\nConnection（接法） & △ \\\\\n\\hline\nWeight（重量） & 222 kg \\\\\n\\hline\nSerial Number（序列号） & 140502878V5J \\\\\n\\hline\nPower Factor（功率因数） & COSφ: 0.90 \\\\\n\\hline\nStandard（标准） & JB/T8680 \\\\\n\\hline\nManufacturer（制造商） & 南方泵业股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 变频调速专用三相异步电动机 \\\\\n\\hline\n型号 TYPE & YVF2 - 280S - 6 \\\\\n\\hline\n标称功率 POWER & 45 kW \\\\\n\\hline\n标准 STANDARD & JB/T7118 - 2014 \\\\\n\\hline\n恒转矩频率范围 & 3 - 50 Hz \\\\\n\\hline\n标称电流 CURRENT & 88 A \\\\\n\\hline\n电压 & 380 V/Y \\\\\n\\hline\n重量 & 483 kg \\\\\n\\hline\n编号 NO & 00716 \\\\\n\\hline\n恒功率频率范围 & 50 - 100 Hz \\\\\n\\hline\n额定转矩 TORQUE & 430 N.m \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n防护等级 & IP 55 \\\\\n\\hline\n生产编号 & 1902 \\\\\n\\hline\n生产公司 & 西门子电机（中国）有限公司 Siemens Standard Motors Ltd. \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 变频调速三相异步电动机 \\\\\n\\hline\n生产公司 & 浙江江天电机有限公司 \\\\\n\\hline\n品牌 & 江天（JIANGTIAN） \\\\\n\\hline\n型号 & JT - 160L - 4 \\\\\n\\hline\n标准 & Q/ZJT03.A0119 - 2013 \\\\\n\\hline\n功率 & 15 kW \\\\\n\\hline\n电压 & 220 V \\\\\n\\hline\n频率 & 60 Hz \\\\\n\\hline\n电流 & 51.80 A \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n恒转矩范围 & 35 - 50Hz \\\\\n\\hline\n额定转矩 & 98.12 N.M \\\\\n\\hline\n防护等级 & IP 54 \\\\\n\\hline\n功率因数 & COSΦ 0.85 \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n变转矩范围 & 5 - 35Hz \\\\\n\\hline\n额定转速 & 1750 r/min \\\\\n\\hline\n重量 & 130 kg \\\\\n\\hline\n编号 & 179 \\\\\n\\hline\n生产日期 & 2014年02月 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & YXYC系列型燃气 - 碳旋转烧烤炉 \\\\\n\\hline\n型号 & YXYC - 900 \\\\\n\\hline\n额定电压 & 220V - \\\\\n\\hline\n烤制温度 & 150℃ - 250℃ \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n机体重量 & 115kg \\\\\n\\hline\n额定输入功率 & 580W \\\\\n\\hline\n烤制时间（仅供参考） & 40 - 55分 \\\\\n\\hline\n燃气种类 & 液化石油气 \\\\\n\\hline\n额定燃气压力 & 2.8Kpa \\\\\n\\hline\n耗气量 & 0.31kg/h \\\\\n\\hline\n额定热流量 & 9Kw/h \\\\\n\\hline\n外形尺寸 & 900×1050×1680mm \\\\\n\\hline\n出厂编号 & 201 年 月 \\\\\n\\hline\n制造商 & 上海红联机械电器制造有限公司 \\\\\n\\hline\n电话 & 021 - 69176301 69176369 \\\\\n\\hline\n售后服务 & 69171828 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电磁调速电动机 \\\\\n\\hline\n型号 & YCT225 - 4B \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n额定转矩 & 94.3 N·m \\\\\n\\hline\n转速 & 1250 - 125 r/min \\\\\n\\hline\n激磁电压 & < 90 V \\\\\n\\hline\n激磁电流 & < 2.5 A \\\\\n\\hline\n噪声 Lw & 90 dB(A) \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n防护等级 & IP21 \\\\\n\\hline\n标准 & JB/T 7123 - 93 \\\\\n\\hline\n重量 & 360 Kg \\\\\n\\hline\n生产日期 & 200 年 月（年份不完整） \\\\\n\\hline\n生产厂家 & 上海工泰机电制造有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val145.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 滚齿机 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & Y3180H \\\\\n\\hline\n最大模数 & 10 mm \\\\\n\\hline\n规格 &  \\\\\n\\hline\n最大工件直径 & 800 mm \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n出厂日期 & 年 月 \\\\\n\\hline\n生产厂家 & 重庆机床厂 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 配电箱 \\\\\n\\hline\n产品型号 & JXF \\\\\n\\hline\n执行标准 & GB7251.3 - 2006 \\\\\n\\hline\n额定工作电压 & 380/220V \\\\\n\\hline\n额定绝缘电压 & 400V \\\\\n\\hline\n额定频率 & 50Hz \\\\\n\\hline\n防护等级 & IP30 - 操作面IP20 \\\\\n\\hline\n额定工作电流 & A \\\\\n\\hline\n额定短时耐受电流 & 4.5kA \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n出厂日期 & 201 年 月 \\\\\n\\hline\n生产厂家 & 吉安市正和电力发展有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & PK5N - F环链电动葫芦 \\\\\n\\hline\n链条行数 & 1, 2 \\\\\n\\hline\n起升电机 & 16/7P 2/8K \\\\\n\\hline\n起重量 & 450 kg, 900 kg \\\\\n\\hline\n功率 & 1.0/0.25 kw \\\\\n\\hline\n起升速度 & 10/2.5 m/min, 5/1.25 m/min \\\\\n\\hline\n电压 & Δ/Y 220/380 V \\\\\n\\hline\n起升高度 & 未标注 \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n防护等级 & IP54 \\\\\n\\hline\n电流 & Δ4.8/4.3 A, Y2.8/2.5 A \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n转速 & 2860/700 r/min \\\\\n\\hline\n工作级别 & M4 \\\\\n\\hline\n负载持续率 & 40/20 % \\\\\n\\hline\n出厂编号 & 未标注 \\\\\n\\hline\n接电次数 & 240/480 c/h \\\\\n\\hline\n制造日期 & 未标注 \\\\\n\\hline\n制造公司 & 江阴力邦起重机械有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val148.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 铝龙电磁调速电动机 \\\\\n\\hline\n型号 & YCT225 - 4B \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n额定转矩 & 94.3 N·m \\\\\n\\hline\n转速 & 1250 - 125 r/min \\\\\n\\hline\n激磁电压 & < 90 V \\\\\n\\hline\n激磁电流 & < 2.5 A \\\\\n\\hline\n噪声 Lw & 90 dB(A) \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n防护等级 & IP21 \\\\\n\\hline\n标准 & JB/T 7123 - 93 \\\\\n\\hline\n重量 & 360 Kg \\\\\n\\hline\n出厂时间 & 200 年 月 \\\\\n\\hline\n制造公司 & 上海工泰机电制造有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外高压真空断路器 \\\\\n\\hline\n型号 & ZW8 - 12/630 - 20 \\\\\n\\hline\n电流比 & 200/5、400/5、600/5 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n分接头 & 200/5 \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路开断电流 & 20 kA \\\\\n\\hline\n额定雷电耐受电压 & 75/85 kV \\\\\n\\hline\n额定工频耐受电压 & 42/48 kV \\\\\n\\hline\n额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\\\\n\\hline\n总重 & 135 kg \\\\\n\\hline\n出厂编号 & 1410198 \\\\\n\\hline\n出厂日期 & 2014年10月 \\\\\n\\hline\n生产公司 & 西安泰开电力科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val150.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电动机操动机构 \\\\\n\\hline\n品牌 & 国电长开 \\\\\n\\hline\n型号 & CJ6 \\\\\n\\hline\n重量 & 50 kg \\\\\n\\hline\n主轴转角 & 180° \\\\\n\\hline\n操作时间 & 6 S \\\\\n\\hline\n电机功率 & 370 KW \\\\\n\\hline\n电机电压 & AC380 V \\\\\n\\hline\n控制电压 & AC220 V \\\\\n\\hline\n制造编号 & JH17081805 \\\\\n\\hline\n制造日期 & 2017年08月 \\\\\n\\hline\n制造公司 & 陕西长开电气有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 冷冻式干燥机 \\\\\n\\hline\n生产公司 & 宁波高尔节能科技有限公司 \\\\\n\\hline\n型号 & GEAD - 6F \\\\\n\\hline\n环境温度 & ≤38℃ \\\\\n\\hline\n入口温度 & <80℃ \\\\\n\\hline\n空气处理量 & 6.5m³ \\\\\n\\hline\n压力露点 & 2℃~10℃ \\\\\n\\hline\n电流 & 5.5 A \\\\\n\\hline\n额定工作压力 & ≤1MPa \\\\\n\\hline\n冷媒 & R22 \\\\\n\\hline\n功率 & 1.228 kw \\\\\n\\hline\n电源 & 220V/50Hz \\\\\n\\hline\n重量 & 无 \\\\\n\\hline\n外形尺寸 & 880 X 550 X 1025 \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n出厂日期 & 无 \\\\\n\\hline\n生产地址 & 浙江宁波溪口工业区综研路30 - 1号 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val152.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 带式输送机用液压卷带装置 \\\\\n\\hline\n型号 & JY /22 \\\\\n\\hline\n电机功率 & 22kW \\\\\n\\hline\n卷带宽度 & ≤  mm \\\\\n\\hline\n电机电压 & / V \\\\\n\\hline\n卷带直径 & ≤  mm \\\\\n\\hline\n系统油压 & 16MPa \\\\\n\\hline\n卷带重量 & ≤  kg \\\\\n\\hline\n油箱容量 & 300L \\\\\n\\hline\n卷带长度 & ≤100m \\\\\n\\hline\n安标证号 &  \\\\\n\\hline\n出厂编号 &  \\\\\n\\hline\n出厂日期 & 年 月 \\\\\n\\hline\n生产公司 & 淮北金力工贸有限责任公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val153.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 铝龙电磁调速电动机 \\\\\n\\hline\n型号 & YCT225 - 4B \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n额定转矩 & 94.3 N·m \\\\\n\\hline\n转速 & 1250 - 125 r/min \\\\\n\\hline\n激磁电压 & < 90 V \\\\\n\\hline\n激磁电流 & < 2.5 A \\\\\n\\hline\n噪声 Lw & 90 dB(A) \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n防护等级 & IP21 \\\\\n\\hline\n标准 & JB/T 7123 - 93 \\\\\n\\hline\n重量 & 360 Kg \\\\\n\\hline\n生产日期 & 200 年 月（年份不完整） \\\\\n\\hline\n生产厂家 & 上海工泰机电制造有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val154.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 三相异步电动机 \\\\\n\\hline\n品牌 & KEM \\\\\n\\hline\n型号 & Y2X132M1 - 6 \\\\\n\\hline\nIE标准 & IE2 \\\\\n\\hline\n出厂编号 & K0350 \\\\\n\\hline\n功率 & 4 kW / 5.5 HP \\\\\n\\hline\n电压 & 380 V \\\\\n\\hline\n频率 & 50 Hz \\\\\n\\hline\n声压级 & LW 76 dB(A) \\\\\n\\hline\n电流 & 9.5 A \\\\\n\\hline\n防护等级 & IP44 \\\\\n\\hline\n转速 & 960 r/min \\\\\n\\hline\n接法 & △ \\\\\n\\hline\n效率 & η84.6% \\\\\n\\hline\n功率因数 & cosφ 0.76 \\\\\n\\hline\n绝缘等级 & F \\\\\n\\hline\n重量 & 71 kg \\\\\n\\hline\n标准编号 & GB/T 25290 \\\\\n\\hline\n工作制 & S1 \\\\\n\\hline\n能效等级 & 3 \\\\\n\\hline\n生产日期 & 2016年6月 \\\\\n\\hline\n生产厂家 & 哈尔滨电机厂（昆明）有限责任公司（原昆明电机厂有限公司） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n设备名称 & 型号 & 额定电压 & 额定电流 & 出厂编号 & 出厂日期 & 生产厂家 \\\\\n\\hline\n---- & ---- & ---- & ---- & ---- & ---- & ---- \\\\\n\\hline\n户外高压隔离开关 & GW4 - 40.5/1250A & 40.5 kV & 1250 A & 20123 & 2020年11月 & 陕西泰开高压开关制造有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val156.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 户外高压真空断路器 \\\\\n\\hline\n型号 & ZW8 - 12/630 - 20 \\\\\n\\hline\n电流比 & 200/5，400/5，600/5 \\\\\n\\hline\n额定电压 & 12 kV \\\\\n\\hline\n分接头 & 200/5 \\\\\n\\hline\n额定电流 & 630 A \\\\\n\\hline\n额定短路开断电流 & 20 kA \\\\\n\\hline\n额定雷电耐受电压 & 75/85 kV \\\\\n\\hline\n额定工频耐受电压 & 42/48 kV \\\\\n\\hline\n额定操作顺序 & 分 - 0.3S - 合分 - 180S - 合分 \\\\\n\\hline\n总重 & 135 kg \\\\\n\\hline\n出厂编号 & 1410198 \\\\\n\\hline\n出厂日期 & 2014年10月 \\\\\n\\hline\n生产公司 & 西安泰开电力科技有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电动机操动机构 \\\\\n\\hline\n品牌 & 国电长开 \\\\\n\\hline\n型号 & CJ6 \\\\\n\\hline\n重量 & 50 kg \\\\\n\\hline\n主轴转角 & 180° \\\\\n\\hline\n操作时间 & 6 S \\\\\n\\hline\n电机功率 & 370 KW \\\\\n\\hline\n电机电压 & AC380 V \\\\\n\\hline\n控制电压 & AC220 V \\\\\n\\hline\n制造编号 & JH17081805 \\\\\n\\hline\n制造日期 & 2017年08月 \\\\\n\\hline\n制造公司 & 陕西长开电气有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 冷冻式干燥机 \\\\\n\\hline\n生产公司 & 宁波高尔节能科技有限公司 \\\\\n\\hline\n型号 & GEAD - 6F \\\\\n\\hline\n环境温度 & ≤38℃ \\\\\n\\hline\n入口温度 & <80℃ \\\\\n\\hline\n空气处理量 & 6.5m³ \\\\\n\\hline\n压力露点 & 2℃~10℃ \\\\\n\\hline\n电流 & 5.5 A \\\\\n\\hline\n额定工作压力 & ≤1MPa \\\\\n\\hline\n冷媒 & R22 \\\\\n\\hline\n功率 & 1.228 kw \\\\\n\\hline\n电源 & 220V/50Hz \\\\\n\\hline\n重量 & 无 \\\\\n\\hline\n外形尺寸 & 880 X 550 X 1025 \\\\\n\\hline\n出厂编号 & 无 \\\\\n\\hline\n出厂日期 & 无 \\\\\n\\hline\n生产地址 & 浙江宁波溪口工业区综研路30 - 1号 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val159.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|c|}\n\\hline\n设备名称 & 参数名称 & 参数值 \\\\\n\\hline\n---- & ---- & ---- \\\\\n\\hline\n配电柜 & 型号 & KCD \\\\\n\\hline\n配电柜 & 额定电压 & 380V \\\\\n\\hline\n配电柜 & 额定电流 & （未填写） \\\\\n\\hline\n配电柜 & 防护等级 & IP30 \\\\\n\\hline\n配电柜 & 额定频率 & 50HZ \\\\\n\\hline\n配电柜 & 执行标准 & GB7251.12 \\\\\n\\hline\n配电柜 & 出厂编号 & （未填写） \\\\\n\\hline\n配电柜 & 出厂日期 & （未填写） \\\\\n\\hline\n配电柜 & 生产厂家 & 山东智富电器有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val160.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 详情 \\\\\n\\hline\n品牌 & 沃德激光 \\\\\n\\hline\n设备全称 & 激光成套应用设备 laser application equipment \\\\\n\\hline\n产品名称 & 激光打标机 \\\\\n\\hline\n出厂编号 & 2020060507 \\\\\n\\hline\n输出功率 & 20W \\\\\n\\hline\n设备电源 & 220V50Hz \\\\\n\\hline\n激光波长 & 1064nm \\\\\n\\hline\n出厂日期 & 2020/6 \\\\\n\\hline\n生产公司 & 无锡沃德工业智能科技有限公司 Wuxi ward Industrial Intelligent Technology Co., Ltd \\\\\n\\hline\n联系电话 & 133 - 8225 - 6111 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val161.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 中压真空接触器 - 熔断器组合电器 \\\\\n\\hline\n---- & ---- \\\\\n\\hline\n型号 & VCR193 - 7.2M/M125 \\\\\n\\hline\n额定电流 & 125 A \\\\\n\\hline\n额定电压 & 7.2 kV \\\\\n\\hline\n开断电流 & 50 kA \\\\\n\\hline\n频率 & 50/60 Hz \\\\\n\\hline\n操作电压 & DC110 V \\\\\n\\hline\n雷电冲击电压 & 60 kV \\\\\n\\hline\n制造日期 & 2012.9 \\\\\n\\hline\n出厂编号 & J1209006 \\\\\n\\hline\n制造公司 & 上海安奕极企业发展有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val162.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 中性点接地电阻装置 \\\\\n\\hline\n品牌 & Rsafele 日新电气 \\\\\n\\hline\n型号 & SUN - NGR - 35 \\\\\n\\hline\n系统电压 & 37 kV \\\\\n\\hline\n电阻值 & 101±1% Ω \\\\\n\\hline\n额定电流 & 200 A \\\\\n\\hline\n电流持续时间 & 10 s \\\\\n\\hline\n防护等级 & IP 43 \\\\\n\\hline\n工频耐受电压 & 95 kV \\\\\n\\hline\n执行等级 & DL/T780 - 2001 \\\\\n\\hline\n出厂编号 & 2008482 \\\\\n\\hline\n重量 & 6500 kg \\\\\n\\hline\n生产日期 & 2020.09 \\\\\n\\hline\n生产公司 & 浙江日新电气有限公司 \\\\\n\\hline\n生产公司英文 & ZHEJIANG RSAFELE ELECTRIC CO.,LTD. \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & SIEMENS \\\\\n\\hline\n型号 & 3AP1 - FI \\\\\n\\hline\n产品编号 & 19/K40041907 \\\\\n\\hline\n制造年月 & 2019.11 \\\\\n\\hline\n额定电压 & Ur 252 kV \\\\\n\\hline\n额定频率 & fr 50 Hz \\\\\n\\hline\n额定雷电冲击耐受电压 & Up 1050 kV \\\\\n\\hline\n额定操作冲击耐受电压 & Us / kV \\\\\n\\hline\n额定工频耐受电压 & Ud 460 kV \\\\\n\\hline\n额定电流 & Ir 4000 A \\\\\n\\hline\n额定短路开断电流 & Isc 50 kA \\\\\n\\hline\n额定短路持续时间 & tk 3 s \\\\\n\\hline\n首相开断系数 & kpp 1.5 \\\\\n\\hline\n额定线路充电开断电流 & Il 125 A \\\\\n\\hline\n额定失步开断电流 & Id 12.5 kA \\\\\n\\hline\n额定操作顺序 & O - 0.3s - CO - 3min - CO \\\\\n\\hline\n20℃时 SF6 额定压力(表压) & 0.6 MPa \\\\\n\\hline\nSF6 质量/台 & 30 kg \\\\\n\\hline\n质量/台(包括气体) & 275 kg \\\\\n\\hline\n控制电压 & DC 220 V \\\\\n\\hline\n电动机电压 & AC 220 V \\\\\n\\hline\n温度范围 & -30～+50℃ \\\\\n\\hline\n产品符合标准 & GB1984 DL593 \\\\\n\\hline\n制造商 & Siemens High Voltage Circuit Breaker Co. Ltd., Hangzhou（西门子(杭州)高压开关有限公司） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val164.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 电力变压器 \\\\\n\\hline\n型号 & SSP - 840MVA/500kV \\\\\n\\hline\n额定容量 & 840/840 MVA \\\\\n\\hline\n额定电压 & 550/20 kV \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n相数 & 3 \\\\\n\\hline\n联接组标号 & YNd11 \\\\\n\\hline\n使用条件 & 户外 \\\\\n\\hline\n海拔高度 & <1000 m \\\\\n\\hline\n冷却方式 & OFWF \\\\\n\\hline\n绕组温升 & 50 K \\\\\n\\hline\n顶部油温升 & 25 K \\\\\n\\hline\n噪音水平 & 75 dB \\\\\n\\hline\n标准代号 & IEC60076 \\\\\n\\hline\n绝缘水平 & SI1175 LI1550 AC680 - LI325 AC140/LI125 AC55 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val165.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & ZGNG型配电网中性点接地电阻器（柜） \\\\\n\\hline\n成套型号 & ZGNG10.5 - 400 - 10 \\\\\n\\hline\n系统电压 & 10.5 kV \\\\\n\\hline\n接地变型号 & DKSC - 630/10.5 \\\\\n\\hline\n出厂序号 & 300357 \\\\\n\\hline\n额定电流 & 400 A \\\\\n\\hline\n标称电阻 & 16 Ω \\\\\n\\hline\n通流时间 & 10 S \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n产品编号 & 19025421 - 1ZG \\\\\n\\hline\n防护等级 & IP33 \\\\\n\\hline\n执行标准 & DL/T 780 - 2001 \\\\\n\\hline\n产品重量 & 5585 Kg \\\\\n\\hline\n外形尺寸 & 4800×2300×2500 mm \\\\\n\\hline\n出厂日期 & 2019年02月 \\\\\n\\hline\n生产厂家 & 广州智光电气技术有限公司 \\\\\n\\hline\n公司地址 & 广州市黄埔区云埔工业区埔南路51号 \\\\\n\\hline\n服务热线 & +86 400 - 8800 - 233 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val166.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 2号接地变 \\\\\n\\hline\n产品型号 & TK - BJ - 10.5/16 \\\\\n\\hline\n额定阻值 & 16 Ω \\\\\n\\hline\n系统电压等级(kV) & 10.5 kV \\\\\n\\hline\n短时通流时间 & 10 S \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n防护等级 & IP20 \\\\\n\\hline\n额定电流 & 400 A \\\\\n\\hline\n绝缘水平 & LI/AC 75 / 35 kV \\\\\n\\hline\n柜体尺寸(mm) & 500 * 1400 * 2500 \\\\\n\\hline\n温 升 & 短时 760K,长时 385K \\\\\n\\hline\n冷却方式 & AN \\\\\n\\hline\n接地方式 & 经小电阻接地 \\\\\n\\hline\n生产日期 & 2019 03 \\\\\n\\hline\n产品编号 & G180539 \\\\\n\\hline\n生产厂家 & 山东泰开电力电子有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val167.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 2号电容器组 - 干式空心串联电抗器 \\\\\n\\hline\n型号 & CKDK - 84/10 - 5% \\\\\n\\hline\n标准代号 & GB/T 1094.6 - 2011 \\\\\n\\hline\n额定电压 & 11.00 kV \\\\\n\\hline\n安装地点 & 户内或户外 \\\\\n\\hline\n额定电流 & 262.64 A \\\\\n\\hline\n绝缘水平 & LI75 /AC42 kV \\\\\n\\hline\n额定容量 & 84.0 kvar \\\\\n\\hline\n绝缘耐热等级 & F级 \\\\\n\\hline\n实测电抗 & 1.246 Ω \\\\\n\\hline\n冷却方式 & AN \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n相序 & C相 \\\\\n\\hline\n电抗率 & 5 % \\\\\n\\hline\n出厂序号 & 190079 \\\\\n\\hline\n总质量 & 290 kg \\\\\n\\hline\n制造年月 & 2019.03 \\\\\n\\hline\n制造公司 & 山东泰开电力电子有限公司（中国·泰安） \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val168.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 高压六氟化硫断路器 \\\\\n\\hline\n品牌 & CHNT 正泰、SHENTAI申泰 \\\\\n\\hline\n产品型号 & LW36 - 126 \\\\\n\\hline\n标准 & GB1984 - 2014 \\\\\n\\hline\n额定电压 & 126 kV \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定电流 & 2000 A \\\\\n\\hline\n额定短路开断电流 & 40 kA \\\\\n\\hline\n雷电冲击耐受电压 & 550 kV \\\\\n\\hline\n控制回路额定电源电压 & DC220 V \\\\\n\\hline\n额定SF₆气体压力(20℃) & 0.6 MPa \\\\\n\\hline\n辅助回路额定电源电压 & AC220 V \\\\\n\\hline\n额定线路充电开断电流 & 31.5 A \\\\\n\\hline\n额定操作顺序 & O - 0.3s - CO - 180s - CO \\\\\n\\hline\n出厂编号 & K - CB20048001 \\\\\n\\hline\n断路器质量 & 2100 kg \\\\\n\\hline\n出厂日期 & 2020.10 \\\\\n\\hline\nSF₆气体质量 & 10 kg \\\\\n\\hline\n机构制造厂家 & 陕西得瑞电力设备有限责任公司 \\\\\n\\hline\n操动机构型号 & CT36 \\\\\n\\hline\n制造公司 & 正泰电气股份有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val169.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & 小电阻接地成套装置 \\\\\n\\hline\n产品型号 & TK - BJ - 10.5/16 \\\\\n\\hline\n额定阻值 & Ω \\\\\n\\hline\n系统电压等级(kV) & 10.5 kV \\\\\n\\hline\n短时通流时间 & 10 S \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n防护等级 & IP 20 \\\\\n\\hline\n额定电流 & 400 A \\\\\n\\hline\n绝缘水平 & LI/AC 75 / 35 kV \\\\\n\\hline\n柜体尺寸(mm) & 2800 * 2000 * 2500 \\\\\n\\hline\n温 升 & 短时760K,长时385K \\\\\n\\hline\n冷却方式 & AN \\\\\n\\hline\n接地方式 & 经小电阻接地 \\\\\n\\hline\n生产日期 & 2018.01 \\\\\n\\hline\n产品编号 & G170587 \\\\\n\\hline\n生产厂家 & 山东泰开电力电子有限公司 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    },
+    {
+        "image": "val170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOCR_DLMP:"
+            },
+            {
+                "from": "gpt",
+                "value": "\\begin{tabular}{|c|c|}\n\\hline\n设备名称 & KD - XH型配电网智能化快速消弧系统 \\\\\n\\hline\n成套型号 & KD - XH 01 - 630/10.5 \\\\\n\\hline\n系统电压 & 10.5 kV \\\\\n\\hline\n接地变型号 & DKSC - 630/10.5 \\\\\n\\hline\n出厂序号 & 300357 \\\\\n\\hline\n消弧线圈型号 & KD - XH01 - 630/10.5 \\\\\n\\hline\n出厂序号 & 300358 \\\\\n\\hline\n补偿电流 & 0～104 A \\\\\n\\hline\n额定频率 & 50 Hz \\\\\n\\hline\n额定运行时间 & 2 h \\\\\n\\hline\n防护等级 & IP 33 \\\\\n\\hline\n产品编号 & 19025421 - 1ZG \\\\\n\\hline\n产品重量 & 5585 Kg \\\\\n\\hline\n执行标准 & DL/T 1057 - 2007 \\\\\n\\hline\n出厂日期 & 2019年02月 \\\\\n\\hline\n外形尺寸 & 4800×2300×2500 mm \\\\\n\\hline\n生产厂家 & 广州智光电气技术有限公司 \\\\\n\\hline\n厂家地址 & 广州市黄埔区云埔工业区埔南路51号 \\\\\n\\hline\n服务热线 & +86 400 - 8800 - 233 \\\\\n\\hline\n\\end{tabular}"
+            }
+        ]
+    }
+]

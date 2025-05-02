@@ -105,6 +105,8 @@ pip install ninja
 pip install flash-attn --no-build-isolation
 ```
 
+install torch==2.1.0+cu118，numpy==1.26.0，boto3，smart_open、
+
 ## GOT Weights
 
 - [Huggingface](https://huggingface.co/ucaslcl/GOT-OCR2_0)
